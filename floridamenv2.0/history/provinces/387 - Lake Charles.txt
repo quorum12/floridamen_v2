@@ -1,0 +1,8 @@
+# 387 - Lake Charles
+title = c_lake_charles
+max_settlements = 3
+culture = texan
+religion = catholic
+b_lake_charles_a = castle
+b_lake_charles_b = city
+b_lake_charles_c = temple

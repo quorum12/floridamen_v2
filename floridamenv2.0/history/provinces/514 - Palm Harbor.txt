@@ -1,0 +1,8 @@
+# 514 - Palm Harbor
+title = c_palm_harbor
+max_settlements = 3
+culture = tampanian
+religion = catholic
+b_palm_harbor_a = castle
+b_palm_harbor_b = city
+b_palm_harbor_c = temple

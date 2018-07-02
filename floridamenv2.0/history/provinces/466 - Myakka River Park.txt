@@ -1,0 +1,8 @@
+# 466 - Myakka River Park
+title = c_myakka_river_park
+max_settlements = 3
+culture = venicen
+religion = catholic
+b_myakka_river_park_a = castle
+b_myakka_river_park_b = city
+b_myakka_river_park_c = temple

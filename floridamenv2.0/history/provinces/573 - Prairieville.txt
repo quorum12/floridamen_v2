@@ -1,0 +1,8 @@
+# 573 - Prairieville
+title = c_prairieville
+max_settlements = 3
+culture = louisiannan
+religion = catholic
+b_prairieville_a = castle
+b_prairieville_b = city
+b_prairieville_c = temple

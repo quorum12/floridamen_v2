@@ -1,0 +1,8 @@
+# 402 - Las Pozas
+title = c_las_pozas
+max_settlements = 3
+culture = cubano
+religion = catholic
+b_las_pozas_a = castle
+b_las_pozas_b = city
+b_las_pozas_c = temple

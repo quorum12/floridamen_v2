@@ -1,0 +1,8 @@
+# 129 - Cascajal
+title = c_cascajal
+max_settlements = 3
+culture = carahatani
+religion = none
+b_cascajal_a = castle
+b_cascajal_b = city
+b_cascajal_c = temple

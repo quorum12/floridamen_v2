@@ -1,0 +1,8 @@
+# 88 - Bonita Springs
+title = c_bonita_springs
+max_settlements = 3
+culture = naplesian
+religion = catholic
+b_bonita_springs_a = castle
+b_bonita_springs_b = city
+b_bonita_springs_c = temple

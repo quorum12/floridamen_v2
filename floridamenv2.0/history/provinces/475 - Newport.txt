@@ -1,0 +1,6 @@
+# 475 - Newport
+title = c_newport
+max_settlements = 3
+culture = tallahassean
+religion = baptist
+b_newport_a = tribal

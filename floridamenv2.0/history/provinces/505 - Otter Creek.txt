@@ -1,0 +1,6 @@
+# 505 - Otter Creek
+title = c_otter_creek
+max_settlements = 3
+culture = ocale
+religion = american_spiritual_pagan
+b_otter_creek_a = tribal

@@ -1,0 +1,6 @@
+# 731 - White Lake Wetlands Conservation Area
+title = c_white_lake_wetlands_conservation_area
+max_settlements = 2
+culture = texan
+religion = catholic
+b_white_lake_wetlands_conservation_area_a = tribal

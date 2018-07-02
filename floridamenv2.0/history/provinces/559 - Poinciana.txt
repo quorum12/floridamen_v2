@@ -1,0 +1,8 @@
+# 559 - Poinciana
+title = c_poinciana
+max_settlements = 3
+culture = okeechobean
+religion = baptist
+b_poinciana_a = castle
+b_poinciana_b = city
+b_poinciana_c = temple

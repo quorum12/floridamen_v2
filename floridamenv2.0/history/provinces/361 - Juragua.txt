@@ -1,0 +1,8 @@
+# 361 - Juragua
+title = c_juragua
+max_settlements = 3
+culture = oceanmen
+religion = catholic
+b_juragua_a = castle
+b_juragua_b = city
+b_juragua_c = temple

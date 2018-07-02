@@ -1,0 +1,8 @@
+# 549 - Plant City
+title = c_plant_city
+max_settlements = 3
+culture = tampanian
+religion = cathar
+b_plant_city_a = castle
+b_plant_city_b = city
+b_plant_city_c = temple

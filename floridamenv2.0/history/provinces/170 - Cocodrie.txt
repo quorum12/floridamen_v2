@@ -1,0 +1,8 @@
+# 170 - Cocodrie
+title = c_cocodrie
+max_settlements = 3
+culture = new_orleanser
+religion = voodoo
+b_cocodrie_a = castle
+b_cocodrie_b = city
+b_cocodrie_c = temple

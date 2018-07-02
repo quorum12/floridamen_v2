@@ -1,0 +1,6 @@
+# 144 - Cayos De San Felipe
+title = c_cayos_de_san_felipe
+max_settlements = 2
+culture = islander
+religion = none
+b_cayos_de_san_felipe_a = tribal

@@ -1,0 +1,8 @@
+# 601 - San Luis
+title = c_san_luis
+max_settlements = 3
+culture = mantuan
+religion = atomicist
+b_san_luis_a = temple
+b_san_luis_b = city
+b_san_luis_c = castle

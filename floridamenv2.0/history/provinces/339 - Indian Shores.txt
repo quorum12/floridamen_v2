@@ -1,0 +1,8 @@
+# 339 - Indian Shores
+title = c_indian_shores
+max_settlements = 3
+culture = gulfard
+religion = catholic
+b_indian_shores_a = temple
+b_indian_shores_b = city
+b_indian_shores_c = castle

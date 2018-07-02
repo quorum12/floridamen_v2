@@ -1,0 +1,8 @@
+# 234 - Espartaco
+title = c_espartaco
+max_settlements = 3
+culture = carahatani
+religion = none
+b_espartaco_a = castle
+b_espartaco_b = city
+b_espartaco_c = temple

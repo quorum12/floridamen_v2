@@ -1,0 +1,6 @@
+# 523 - Parque Marino De Punta
+title = c_parque_marino_de_punta
+max_settlements = 2
+culture = juventudan
+religion = none
+b_parque_marino_de_punta_a = tribal

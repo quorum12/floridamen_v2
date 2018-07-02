@@ -1,0 +1,8 @@
+# 324 - Homeland
+title = c_homeland
+max_settlements = 3
+culture = lakelander
+religion = catholic
+b_homeland_a = castle
+b_homeland_b = city
+b_homeland_c = temple

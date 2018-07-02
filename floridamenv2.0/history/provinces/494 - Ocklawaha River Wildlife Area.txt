@@ -1,0 +1,6 @@
+# 494 - Ocklawaha River Wildlife Area
+title = c_ocklawaha_river_wildlife_area
+max_settlements = 2
+culture = dixie
+religion = catholic
+b_ocklawaha_river_wildlife_area_a = tribal

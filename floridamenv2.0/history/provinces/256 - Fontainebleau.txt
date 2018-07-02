@@ -1,0 +1,8 @@
+# 256 - Fontainebleau
+title = c_fontainebleau
+max_settlements = 3
+culture = miamimen
+religion = catholic
+b_fontainebleau_a = castle
+b_fontainebleau_b = city
+b_fontainebleau_c = temple

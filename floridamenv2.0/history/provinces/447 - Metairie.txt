@@ -1,0 +1,8 @@
+# 447 - Metairie
+title = c_metairie
+max_settlements = 3
+culture = afroanglo
+religion = voodoo
+b_metairie_a = castle
+b_metairie_b = city
+b_metairie_c = temple

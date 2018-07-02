@@ -1,0 +1,8 @@
+# 740 - Wood And Lakes
+title = c_wood_and_lakes
+max_settlements = 4
+culture = dixie
+religion = baptist
+b_wood_and_lakes_a = castle
+b_wood_and_lakes_b = city
+b_wood_and_lakes_c = temple

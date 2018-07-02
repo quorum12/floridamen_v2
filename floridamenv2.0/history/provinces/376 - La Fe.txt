@@ -1,0 +1,8 @@
+# 376 - La Fe
+title = c_la_fe
+max_settlements = 3
+culture = mantuan
+religion = atomicist
+b_la_fe_a = castle
+b_la_fe_b = city
+b_la_fe_c = temple

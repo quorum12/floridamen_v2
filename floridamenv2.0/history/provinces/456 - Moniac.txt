@@ -1,0 +1,8 @@
+# 456 - Moniac
+title = c_moniac
+max_settlements = 3
+culture = seminole
+religion = american_spiritual_pagan
+b_moniac_a = castle
+b_moniac_b = city
+b_moniac_c = temple

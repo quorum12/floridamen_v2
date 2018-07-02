@@ -1,0 +1,8 @@
+# 308 - Harlem
+title = c_harlem
+max_settlements = 4
+culture = cubano
+religion = catholic
+b_harlem_a = castle
+b_harlem_b = city
+b_harlem_c = temple

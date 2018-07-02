@@ -1,0 +1,8 @@
+# 358 - Jennings
+title = c_jennings
+max_settlements = 4
+culture = texan
+religion = catholic
+b_jennings_a = castle
+b_jennings_b = city
+b_jennings_c = temple

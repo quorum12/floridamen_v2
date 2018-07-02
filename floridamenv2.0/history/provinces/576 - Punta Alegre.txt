@@ -1,0 +1,8 @@
+# 576 - Punta Alegre
+title = c_punta_alegre
+max_settlements = 4
+culture = oceanmen
+religion = rastafarian
+b_punta_alegre_a = castle
+b_punta_alegre_b = city
+b_punta_alegre_c = temple

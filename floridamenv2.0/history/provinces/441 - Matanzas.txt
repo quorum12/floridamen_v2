@@ -1,0 +1,8 @@
+# 441 - Matanzas
+title = c_matanzas
+max_settlements = 3
+culture = matzanazi
+religion = none
+b_matanzas_a = city
+b_matanzas_b = castle
+b_matanzas_c = temple

@@ -1,0 +1,8 @@
+# 640 - Southeast Glades
+title = c_southeast_glades
+max_settlements = 4
+culture = miamimen
+religion = catholic
+b_southeast_glades_a = castle
+b_southeast_glades_b = city
+b_southeast_glades_c = temple

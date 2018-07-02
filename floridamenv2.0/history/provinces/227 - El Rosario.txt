@@ -1,0 +1,8 @@
+# 227 - El Rosario
+title = c_el_rosario
+max_settlements = 3
+culture = cubano
+religion = atomicist
+b_el_rosario_a = temple
+b_el_rosario_b = city
+b_el_rosario_c = castle

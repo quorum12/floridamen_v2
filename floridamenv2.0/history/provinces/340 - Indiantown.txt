@@ -1,0 +1,8 @@
+# 340 - Indiantown
+title = c_indiantown
+max_settlements = 4
+culture = okeechobean
+religion = catholic
+b_indiantown_a = castle
+b_indiantown_b = city
+b_indiantown_c = temple

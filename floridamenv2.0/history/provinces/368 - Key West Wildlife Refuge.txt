@@ -1,0 +1,6 @@
+# 368 - Key West Wildlife Refuge
+title = c_key_west_wildlife_refuge
+max_settlements = 2
+culture = keysian
+religion = caimano
+b_key_west_wildlife_refuge_a = tribal

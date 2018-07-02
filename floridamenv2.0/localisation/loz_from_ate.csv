@@ -1,0 +1,496 @@
+americanist;Americanist;;;;;;;;;;;;;x
+americanist_DESC;Americanists worship what must have been the true gods of the old world-- the statues of Father Washington, Lincoln, Jefferson and others clearly indicates who the ancient Americans worshiped. Those Americans built a great empire, so why not follow their beliefs and restore America to its former glory, gods and all? \nDefining features in-game: Are led by the President, who may be elected from any of their faith above the age of 35. \n May undertake pilgrimages to their holy sites.;;;;;;;;;;;;;x 
+atomicist;Atomicist;;;;;;;;;;;;;x
+atomicist_DESC;Atomicists worship elements of old world technology and hold sacred the places 'touched by the Almighty Atom'. Although atomic theory is practically forgotten, Atomicists understand that there is an invisible world out there which houses vast power. If they could but find a way to tap into this intangible world, they believe they would become gods themselves! The tumors and radiation sickness, though, they don't talk about as much.;;;;;;;;;;;;;x
+baron_americanist;Sergeant;;;;;;;;;;;;;x
+baron_brethren;Lieutenant;;;;;;;;;;;;;x
+baron_female_americanist;Sergeant;;;;;;;;;;;;;x
+baron_female_brethren;Lieutenant;;;;;;;;;;;;;x
+barony_americanist;Municipality;;;;;;;;;;;;;x
+barony_brethren;Lieutenancy;;;;;;;;;;;;;x
+barony_of_americanist;Municipality of;;;;;;;;;;;;;x
+barony_of_brethren;Lieutenancy of;;;;;;;;;;;;;x
+brethren;Brethren;;;;;;;;;;;;;x
+brethren_DESC;With a strong tradition of seafaring and a reputation for robbery and murder, most call the Brethren pirates. This assessment is not far from the truth. Though the Brethren follow a Code of the Sea, they are loosely organized and live mostly to plunder riches from the weak. All of their gods have some link to the ocean, which they consider the source of all life and all wealth.;;;;;;;;;;;;;x
+city_baron;Mayor;;;;;;;;;;;;;x
+city_baron_brethren;Landsman;;;;;;;;;;;;;x
+city_baron_female_brethren;Landswoman;;;;;;;;;;;;;x
+city_baron_gothamite;Alderman;;;;;;;;;;;;;x
+city_barony_brethren;Anchorage;;;;;;;;;;;;;x
+city_barony_brethren;Anchorage;;;;;;;;;;;;;x
+city_barony_of;City of;;;;;;;;;;;;;x
+city_barony_of_brethren;Anchorage of;;;;;;;;;;;;;x
+city_barony_rust_cultist;Machinery;;;;;;;;;;;;;x
+city_barony_rust_cultist_reformed;Machinery;;;;;;;;;;;;;x
+city_count;Lord Mayor;Seigneur-Maire;Oberbürgermeister;;Gran Alcalde;;;;;;;;;x
+city_count_americanist;Representative;;;;;;;;;;;;;x
+city_count_brethren;Harbormaster;;;;;;;;;;;;;x
+city_count_female;Lady Mayor;;;;;;;;;;;;;x
+city_count_female_americanist;Representative;;;;;;;;;;;;;x
+city_count_female_brethren;Harbormistress;;;;;;;;;;;;;x
+city_count_female_hamiltonian;Representative;;;;;;;;;;;;;x
+city_count_female_jeffersonian;Representative;;;;;;;;;;;;;x
+city_count_female_libertarian;Representative;;;;;;;;;;;;;x
+city_count_hamiltonian;Representative;;;;;;;;;;;;;x
+city_count_jeffersonian;Representative;;;;;;;;;;;;;x
+city_count_libertarian;Representative;;;;;;;;;;;;;x
+city_county_brethren;Harbor;;;;;;;;;;;;;x
+city_county_brethren;Harbor;;;;;;;;;;;;;x
+city_county_of;Grand City of;Grande Cité de;Großstadt;;Ciudad de;;;;;;;;;x
+city_county_of_brethren;Harbor of;;;;;;;;;;;;;x
+city_county_rust_cultist;Shop;;;;;;;;;;;;;x
+city_county_rust_cultist_reformed;Shop;;;;;;;;;;;;;x
+city_duchy_brethren;Port;;;;;;;;;;;;;x
+city_duchy_brethren;Port;;;;;;;;;;;;;x
+city_duchy_of;Republic of;;;;;;;;;;;;;x
+city_duchy_of_brethren;Port of;;;;;;;;;;;;;x
+city_duchy_rust_cultist;Factory;;;;;;;;;;;;;x
+city_duchy_rust_cultist_reformed;Factory;;;;;;;;;;;;;x
+city_duke;Lord Proprietor;;;;;;;;;;;;;x
+city_duke_americanist;Speaker;;;;;;;;;;;;;x
+city_duke_brethren;Portmaster;;;;;;;;;;;;;x
+city_duke_female;Lady Proprietor;;;;;;;;;;;;;x
+city_duke_female_americanist;Speaker;;;;;;;;;;;;;x
+city_duke_female_brethren;Portmistress;;;;;;;;;;;;;x
+city_duke_female_hamiltonian;Speaker;;;;;;;;;;;;;x
+city_duke_female_jeffersonian;Speaker;;;;;;;;;;;;;x
+city_duke_female_libertarian;Speaker;;;;;;;;;;;;;x
+city_duke_hamiltonian;Speaker;;;;;;;;;;;;;x
+city_duke_jeffersonian;Speaker;;;;;;;;;;;;;x
+city_duke_libertarian;Speaker;;;;;;;;;;;;;x
+city_emperor;Lord Executive;;;;;;;;;;;;;x
+city_emperor_americanist;Senate President;;;;;;;;;;;;;x
+city_emperor_female;Lady Executive;;;;;;;;;;;;;x
+city_emperor_female_americanist;Senate President;;;;;;;;;;;;;x
+city_emperor_female_hamiltonian;Senate President;;;;;;;;;;;;;x
+city_emperor_female_jeffersonian;Senate President;;;;;;;;;;;;;x
+city_emperor_female_libertarian;Senate President;;;;;;;;;;;;;x
+city_emperor_hamiltonian;Senate President;;;;;;;;;;;;;x
+city_emperor_jeffersonian;Senate President;;;;;;;;;;;;;x
+city_emperor_libertarian;Senate President;;;;;;;;;;;;;x
+city_empire_americanist;United States;;;;;;;;;;;;;x
+city_empire_of_americanist;United States of;;;;;;;;;;;;;x
+city_empire_rust_cultist;Federated Unions;;;;;;;;;;;;;x
+city_empire_rust_cultist_reformed;Federated Unions;;;;;;;;;;;;;x
+city_empire_south_anglo;Confederate States;;;;;;;;;;;;;x
+city_king;Lord Director;;;;;;;;;;;;;x
+city_king_americanist;Senator;;;;;;;;;;;;;x
+city_king_female;Lady Director;;;;;;;;;;;;;x
+city_king_female_americanist;Senator;;;;;;;;;;;;;x
+city_king_female_hamiltonian;Senator;;;;;;;;;;;;;x
+city_king_female_jeffersonian;Senator;;;;;;;;;;;;;x
+city_king_female_libertarian;Senator;;;;;;;;;;;;;x
+city_king_hamiltonian;Senator;;;;;;;;;;;;;x
+city_king_jeffersonian;Senator;;;;;;;;;;;;;x
+city_king_libertarian;Senator;;;;;;;;;;;;;x
+city_kingdom_americanist;State;;;;;;;;;;;;;x
+city_kingdom_of_americanist;State of;;;;;;;;;;;;;x
+city_kingdom_rust_cultist;Union;;;;;;;;;;;;;x
+city_kingdom_rust_cultist_reformed;Union;;;;;;;;;;;;;x
+count_americanist;Major;;;;;;;;;;;;;x
+count_brethren;Captain;;;;;;;;;;;;;x
+count_female_americanist;Major;;;;;;;;;;;;;x
+count_female_brethren;Captain;;;;;;;;;;;;;x
+county_brethren;Captaincy;;;;;;;;;;;;;x
+county_of_brethren;Captaincy of;;;;;;;;;;;;;x
+duchy_americanist;District;;;;;;;;;;;;;x
+duchy_brethren;Flotilla;;;;;;;;;;;;;x
+duchy_of_americanist;District of;;;;;;;;;;;;;x
+duchy_of_brethren;Flotilla of;;;;;;;;;;;;;x
+duke_americanist;Colonel;;;;;;;;;;;;;x
+duke_brethren;Commodore;;;;;;;;;;;;;x
+duke_female_americanist;Colonel;;;;;;;;;;;;;x
+duke_female_brethren;Commodore;;;;;;;;;;;;;x
+e_brethren;High Seas Empire;;;;;;;;;;;;;x
+e_brethren_adj;High Seasonal;;;;;;;;;;;;;x
+emperor_americanist;Commander-in-chief;;;;;;;;;;;;;x
+emperor_brethren;Grand Admiral;;;;;;;;;;;;;x
+emperor_female_americanist;Commander-in-chief;;;;;;;;;;;;;x
+emperor_female_brethren;Grand Admiral;;;;;;;;;;;;;x
+empire_brethren;Grand Admiralty;;;;;;;;;;;;;x
+empire_of_brethren;Grand Admiralty of;;;;;;;;;;;;;x
+GetHouseOfWorship_Americanist;court;;;;;;;;;;;;;x
+GetHouseOfWorship_Atomicist;laboratory;;;;;;;;;;;;;x
+GOD_RASTAFARI;Ras Tafari;;;;;;;;;;;;;x
+hamiltonian;Hamiltonian;;;;;;;;;;;;;x
+hamiltonian_DESC;Hamiltonians differ from mainstream Americanism in that they take their faith in the gods of the Old World to a higher level. Legends outline the gods' abilities and deeds, but Hamiltonians believe the gods had more powers beyond those explicitly stated. They hold, furthermore, that it is within the capabilities of all believers to attain these 'implied powers' for themselves. \nDefining features in-game:;;;;;;;;;;;;;x
+jeffersonian;Jeffersonian;;;;;;;;;;;;;x
+jeffersonian_DESC;The old legends speak not of just Washington, Jefferson and Lincoln, but also of the farmers, the soldiers, and all the common men of the Old World. As widespread as the statues of the Founders are, are there not statues of the common infantryman in many old towns? What of the farmers and the grand grange halls they established? Jeffersonians hold that the Americanist gods of the old world were just a few of many, and that the entire nation of ancient America was home to gods. All the land was blessed by the gods, therefore, and thus all the land must be reclaimed by the true faith! \nDefining features in-game:;;;;;;;;;;;;;x
+job_chancellor_brethren;First Mate;;;;;;;;;;;;;x
+job_marshal_brethren;Captain of Marines;;;;;;;;;;;;;x
+job_spymaster_americanist;Man in Black;;;;;;;;;;;;;x
+job_spiritual_american_native;First Elder;;;;;;;;;;;;;x
+job_spiritual_americanist;Attorney General;;;;;;;;;;;;;x
+job_marshal_americanist;Secretary of Defense;;;;;;;;;;;;;x
+job_chancellor_americanist;Secretary of State;;;;;;;;;;;;;x
+job_treasurer_americanist;Secretary of the Treasury;;;;;;;;;;;;;x
+job_spiritual_brethren;Navigator;;;;;;;;;;;;;x
+job_spiritual_hamiltonian;Attorney General;;;;;;;;;;;;;x
+job_spiritual_jeffersonian;Attorney General;;;;;;;;;;;;;x
+job_spiritual_libertarian;Attorney General;;;;;;;;;;;;;x
+job_spiritual_voodoo;Court Houngan;;;;;;;;;;;;;x
+job_spymaster_brethren;Boatswain;;;;;;;;;;;;;x
+job_treasurer_brethren;Purser;;;;;;;;;;;;;x
+king_americanist;General;;;;;;;;;;;;;x
+king_brethren;Admiral;;;;;;;;;;;;;x
+king_female_americanist;General;;;;;;;;;;;;;x
+king_female_brethren;Admiral;;;;;;;;;;;;;x
+king_female_jewish;Malcah;;;;;;;;;;;;;x
+king_female_reform;Malcah;;;;;;;;;;;;;x
+king_jewish;Melech;;;;;;;;;;;;;x
+king_reform;Melech;;;;;;;;;;;;;x
+kingdom_americanist;Commonwealth;;;;;;;;;;;;;x
+kingdom_brethren;Admiralty;;;;;;;;;;;;;x
+kingdom_jewish;Mamlachah;;;;;;;;;;;;;x
+kingdom_of_americanist;Commonwealth of;;;;;;;;;;;;;x
+kingdom_of_brethren;Admiralty of;;;;;;;;;;;;;x
+kingdom_of_jewish;Mamlachah of;;;;;;;;;;;;;x
+kingdom_of_reform;Mamlachah of;;;;;;;;;;;;;x
+kingdom_reform;Mamlachah;;;;;;;;;;;;;x
+libertarian;Libertarian;;;;;;;;;;;;;x
+libertarian_DESC;Libertarianism is a collection of political philosophies and movements that uphold liberty as a core principle. Libertarians seek to maximize political freedom and autonomy, emphasizing freedom of choice, voluntary association and individual judgment, while sharing a skepticism of authority and state power.;;;;;;;;;;;;;x
+oldworld;Old World;;;;;;;;;;;;;x
+rastafarian;Rastafarian;;;;;;;;;;;;;x
+rastafarian_DESC;The Rastafari are a religious group originating in Jamaica, inspired by the teachings of Marcus Garvey. They believe in the divinity of Emperor Haile Selassie I of Ethiopia, known before his coronation as Ras Tafari. \nDefining features in game:\n May go on vision quests with the aid of sacramental herbs.;;;;;;;;;;;;;x
+temple_baron_afro_syncretic;Priest;;;;;;;;;;;;;x
+temple_baron_afro_syncretics;Priests;;;;;;;;;;;;;x
+temple_baron_american_native;Shaman;;;;;;;;;;;;;x
+temple_baron_americanist;Judge;;;;;;;;;;;;;x
+temple_baron_americanists;Judges;;;;;;;;;;;;;;x
+temple_baron_female_afro_syncretic;Priestess;;;;;;;;;;;;;x
+temple_baron_female_americanist;Judge;;;;;;;;;;;;;x
+temple_baron_female_hamiltonian;Judge;;;;;;;;;;;;;x
+temple_baron_female_jeffersonian;Judge;;;;;;;;;;;;;x
+temple_baron_female_libertarian;Judge;;;;;;;;;;;;;x
+temple_baron_female_mesoamerican_gods;Priestess;;;;;;;;;;;;;x
+temple_baron_female_pirate;Pilot;;;;;;;;;;;;;x
+temple_baron_female_reform;Rabbi;;;;;;;;;;;;;x
+temple_baron_female_santeria;Santera;;;;;;;;;;;;;x
+temple_baron_female_voodoo;Mambo;;;;;;;;;;;;;x
+temple_baron_hamiltonian;Judge;;;;;;;;;;;;;x
+temple_baron_hamiltonians;Judges;;;;;;;;;;;;;;x
+temple_baron_jeffersonian;Judge;;;;;;;;;;;;;x
+temple_baron_jeffersonians;Judges;;;;;;;;;;;;;;x
+temple_baron_latter_day_saints;Bishop;;;;;;;;;;;;;x
+temple_baron_libertarian;Judge;;;;;;;;;;;;;x
+temple_baron_libertarians;Judges;;;;;;;;;;;;;;x
+temple_baron_mesoamerican_gods;Priest;;;;;;;;;;;;;x
+temple_baron_mesoamerican_godss;Priests;;;;;;;;;;;;;x
+temple_baron_pirate;Pilot;;;;;;;;;;;;;x
+temple_baron_pirate;Pilot;;;;;;;;;;;;;x
+temple_baron_pirates;Pilots;;;;;;;;;;;;;x
+temple_baron_reform;Rabbi;;;;;;;;;;;;;x
+temple_baron_reforms;Rabbis;;;;;;;;;;;;;x
+temple_baron_santeria;Santero;;;;;;;;;;;;;x
+temple_baron_voodoo;Houngan;;;;;;;;;;;;;x
+temple_barony_afro_syncretic;Temple;Temple;Tempel;;Templo;;;;;;;;;x;
+temple_barony_american_native;Longhouse;;;;;;;;;;;;;x
+temple_barony_americanist;Court;;;;;;;;;;;;;x
+temple_barony_americanist;Court;;;;;;;;;;;;;x
+temple_barony_atomicist;Laboratory;;;;;;;;;;;;;x
+temple_barony_atomicist;Laboratory;;;;;;;;;;;;;x
+temple_barony_candomble;House;;;;;;;;;;;;;x
+temple_barony_consumerist;Market;;;;;;;;;;;;;x
+temple_barony_espiritista;Mesa;;;;;;;;;;;;;x
+temple_barony_espiritista_reformed;Mesa;;;;;;;;;;;;;x
+temple_barony_hamiltonian;Court;;;;;;;;;;;;;x
+temple_barony_hamiltonian;Court;;;;;;;;;;;;;x
+temple_barony_jeffersonian;Court;;;;;;;;;;;;;x
+temple_barony_jeffersonian;Court;;;;;;;;;;;;;x
+temple_barony_jewish;Synagogue;;;;;;;;;;;;;x
+temple_barony_latter_day_saints;Ward;;;;;;;;;;;;;x
+temple_barony_libertarian;Court;;;;;;;;;;;;;x
+temple_barony_libertarian;Court;;;;;;;;;;;;;x
+temple_barony_mesoamerican_gods;Temple;Temple;Tempel;;Templo;;;;;;;;;x;
+temple_barony_of_afro_syncretic;Temple of;;;;;;;;;;;;;x
+temple_barony_of_american_native;Longhouse of;;;;;;;;;;;;;x
+temple_barony_of_americanist;Court of;;;;;;;;;;;;;x
+temple_barony_of_hamiltonian;Court of;;;;;;;;;;;;;x
+temple_barony_of_jeffersonian;Court of;;;;;;;;;;;;;x
+temple_barony_of_jewish;Synagogue of ;;;;;;;;;;;;;x
+temple_barony_of_latter_day_saints;Ward of;;;;;;;;;;;;;x
+temple_barony_of_libertarian;Court of;;;;;;;;;;;;;x
+temple_barony_of_mesoamerican_gods;Temple of;;;;;;;;;;;;;x
+temple_barony_of_pirate;Pilothouse of;;;;;;;;;;;;;x
+temple_barony_of_reform;Temple ;;;;;;;;;;;;;x
+temple_barony_of_santeria;Cabildo of;;;;;;;;;;;;;x
+temple_barony_of_voodoo;Hounfor of;;;;;;;;;;;;;x
+temple_barony_pirate;Pilothouse;;;;;;;;;;;;;x
+temple_barony_santeria;Cabildo;;;;;;;;;;;;;x
+temple_barony_ursuline;Priory;;;;;;;;;;;;;x
+temple_barony_voodoo;Hounfor;;;;;;;;;;;;;x
+temple_count_afro_syncretic;High Priest;;;;;;;;;;;;;x
+temple_count_american_native;Shaman-Chief;;;;;;;;;;;;;x
+temple_count_americanist;County Judge;;;;;;;;;;;;;x
+temple_count_catholic;Prince-Bishop;Prince-évêque;Prinz-Bischof;;Príncipe obispo;;;;;;;;;x
+temple_count_christian;Canon;;;;;;;;;;;;;x
+temple_count_female_afro_syncretic;High Priestess;;;;;;;;;;;;;x
+temple_count_female_americanist;County Judge;;;;;;;;;;;;;x
+temple_count_female_catholic;Princess-Bishop;Prince-évêque;Prinz-Bischof;;Príncipe obispo;;;;;;;;;x
+temple_count_female_christian;Canoness;;;;;;;;;;;;;x
+temple_count_female_hamiltonian;County Judge;;;;;;;;;;;;;x
+temple_count_female_jeffersonian;County Judge;;;;;;;;;;;;;x
+temple_count_female_libertarian;County Judge;;;;;;;;;;;;;x
+temple_count_female_mesoamerican_gods;High Priestess;;;;;;;;;;;;;x
+temple_count_female_pirate;Keeper;;;;;;;;;;;;;x
+temple_count_female_voodoo;Mambo Sur Pwen;;;;;;;;;;;;;x
+temple_count_hamiltonian;County Judge;;;;;;;;;;;;;x
+temple_count_jeffersonian;County Judge;;;;;;;;;;;;;x
+temple_count_latter_day_saints;Stake President;;;;;;;;;;;;;x
+temple_count_libertarian;County Judge;;;;;;;;;;;;;x
+temple_count_mesoamerican_gods;High Priest;;;;;;;;;;;;;x
+temple_count_pirate;Keeper;;;;;;;;;;;;;x
+temple_count_voodoo;Houngan Sur Pwen;;;;;;;;;;;;;x
+temple_county_afro_syncretic;Theocracy;Théocratie;Theokratie;;Teocracia;;;;;;;;;x;
+temple_county_american_native;Shaman-Chiefdom;;;;;;;;;;;;;x
+temple_county_americanist;County Court;;;;;;;;;;;;;x
+temple_county_americanist;County Court;;;;;;;;;;;;;x
+temple_county_atomicist;College;;;;;;;;;;;;;x
+temple_county_atomicist;College;;;;;;;;;;;;;x
+temple_county_catholic;Prince-Bishopric;Évêché princier;Prinzen-Bistum;;Obispado;;;;;;;;;x;
+temple_county_christian;Canonate;;;;;;;;;;;;;x;
+temple_county_consumerist;Mall;;;;;;;;;;;;;x
+temple_county_espiritista;Grand Mesa;;;;;;;;;;;;;x
+temple_county_espiritista_reformed;Grand Mesa;;;;;;;;;;;;;x
+temple_county_hamiltonian;County Court;;;;;;;;;;;;;x
+temple_county_hamiltonian;County Court;;;;;;;;;;;;;x
+temple_county_jeffersonian;County Court;;;;;;;;;;;;;x
+temple_county_jeffersonian;County Court;;;;;;;;;;;;;x
+temple_county_latter_day_saints;Stake;;;;;;;;;;;;;x
+temple_county_libertarian;County Court;;;;;;;;;;;;;x
+temple_county_libertarian;County Court;;;;;;;;;;;;;x
+temple_county_mesoamerican_gods;Theocracy;Théocratie;Theokratie;;Teocracia;;;;;;;;;x;
+temple_county_of_afro_syncretic;Theocracy of;;;;;;;;;;;;;x
+temple_county_of_american_native;Shaman-Chiefdom of;;;;;;;;;;;;;x
+temple_county_of_americanist;County Court of;;;;;;;;;;;;;x
+temple_county_of_catholic;Prince-Bishopric of;Évêché Princier de;Prinz-Bistum von;;Arzobispado Príncipe de;;;;;;;;;x
+temple_county_of_christian;Canonate of;;;;;;;;;;;;;x
+temple_county_of_hamiltonian;County Court of;;;;;;;;;;;;;x
+temple_county_of_jeffersonian;County Court of;;;;;;;;;;;;;x
+temple_county_of_latter_day_saints;Stake of;;;;;;;;;;;;;x
+temple_county_of_libertarian;County Court of;;;;;;;;;;;;;x
+temple_county_of_mesoamerican_gods;Theocracy of;;;;;;;;;;;;;x
+temple_county_of_pirate;Lighthouse of;;;;;;;;;;;;;x
+temple_county_of_voodoo;Peristil of;;;;;;;;;;;;;x
+temple_county_pirate;Lighthouse;;;;;;;;;;;;;x
+temple_county_ursuline;Abbey;;;;;;;;;;;;;x
+temple_county_voodoo;Peristil;;;;;;;;;;;;;x
+temple_duchy_afro_syncretic;Theocracy;Théocratie;Theokratie;;Teocracia;;;;;;;;;x;
+temple_duchy_american_native;Shaman-Lordship;;;;;;;;;;;;;x
+temple_duchy_americanist;High Court;;;;;;;;;;;;;x
+temple_duchy_americanist;High Court;;;;;;;;;;;;;x
+temple_duchy_atomicist;University;;;;;;;;;;;;;x
+temple_duchy_atomicist;University;;;;;;;;;;;;;x
+temple_duchy_catholic;Prince-Archbishopric;Archevêché princier;Prinzen-Erzbistum;;Arzobispado;;;;;;;;;x;
+temple_duchy_christian;Metropolis;;;;;;;;;;;;;x
+temple_duchy_consumerist;Megamall;;;;;;;;;;;;;x
+temple_duchy_espiritista;Supreme Mesa;;;;;;;;;;;;;x
+temple_duchy_espiritista_reformed;Supreme Mesa;;;;;;;;;;;;;x
+temple_duchy_hamiltonian;High Court;;;;;;;;;;;;;x
+temple_duchy_hamiltonian;High Court;;;;;;;;;;;;;x
+temple_duchy_jeffersonian;High Court;;;;;;;;;;;;;x
+temple_duchy_jeffersonian;High Court;;;;;;;;;;;;;x
+temple_duchy_latter_day_saints;Area;;;;;;;;;;;;;x
+temple_duchy_libertarian;High Court;;;;;;;;;;;;;x
+temple_duchy_libertarian;High Court;;;;;;;;;;;;;x
+temple_duchy_mesoamerican_gods;Theocracy;Théocratie;Theokratie;;Teocracia;;;;;;;;;x;
+temple_duchy_of_afro_syncretic;Theocracy of;;;;;;;;;;;;;x
+temple_duchy_of_american_native;Shaman-Lordship of;;;;;;;;;;;;;x
+temple_duchy_of_americanist;High Court of;;;;;;;;;;;;;x
+temple_duchy_of_catholic;Prince-Archbishopric of;Archevêché Princier de;Prinz-Erzbistum von;;Arzobispado Príncipe de;;;;;;;;;x
+temple_duchy_of_christian;Metropolis of;;;;;;;;;;;;;x
+temple_duchy_of_hamiltonian;High Court of;;;;;;;;;;;;;x
+temple_duchy_of_jeffersonian;High Court of;;;;;;;;;;;;;x
+temple_duchy_of_latter_day_saints;Area of;;;;;;;;;;;;;x
+temple_duchy_of_libertarian;High Court of;;;;;;;;;;;;;x
+temple_duchy_of_mesoamerican_gods;Theocracy of;;;;;;;;;;;;;x
+temple_duchy_of_pirate;Course of;;;;;;;;;;;;;x
+temple_duchy_of_voodoo;Great Peristil of;;;;;;;;;;;;;x
+temple_duchy_pirate;Course;;;;;;;;;;;;;x
+temple_duchy_ursuline;Convent;;;;;;;;;;;;;x
+temple_duchy_voodoo;Great Peristil;;;;;;;;;;;;;x
+temple_duke_afro_syncretic;Archpriest;;;;;;;;;;;;;x
+temple_duke_american_native;Shaman-Lord;;;;;;;;;;;;;x
+temple_duke_americanist;High Judge;;;;;;;;;;;;;x
+temple_duke_catholic;Prince-Archbishop;Prince Archevêque;Prinz-Erzbischof;;Príncipe arzobispo;;;;;;;;;x
+temple_duke_christian;Metropolitan;;;;;;;;;;;;;x
+temple_duke_female_afro_syncretic;Archpriestess;;;;;;;;;;;;;x
+temple_duke_female_americanist;High Judge;;;;;;;;;;;;;x
+temple_duke_female_catholic;Princess-Archbishop;Prince Archevêque;Prinz-Erzbischof;;Príncipe arzobispo;;;;;;;;;x
+temple_duke_female_christian;Metropolitan;;;;;;;;;;;;;x
+temple_duke_female_hamiltonian;High Judge;;;;;;;;;;;;;x
+temple_duke_female_jeffersonian;High Judge;;;;;;;;;;;;;x
+temple_duke_female_libertarian;High Judge;;;;;;;;;;;;;x
+temple_duke_female_mesoamerican_gods;Archpriestess;;;;;;;;;;;;;x
+temple_duke_female_pirate;Navigator;;;;;;;;;;;;;x
+temple_duke_female_voodoo;Mambo Asogwe;;;;;;;;;;;;;x
+temple_duke_hamiltonian;High Judge;;;;;;;;;;;;;x
+temple_duke_jeffersonian;High Judge;;;;;;;;;;;;;x
+temple_duke_latter_day_saints;Area Seventy;;;;;;;;;;;;;x
+temple_duke_libertarian;High Judge;;;;;;;;;;;;;x
+temple_duke_mesoamerican_gods;Archpriest;;;;;;;;;;;;;x
+temple_duke_pirate;Navigator;;;;;;;;;;;;;x
+temple_duke_voodoo;Houngan Asogwe;;;;;;;;;;;;;x
+temple_emperor_afro_syncretic;Emperor-Priest;;;;;;;;;;;;;x
+temple_emperor_american_native;Celestial Shaman;;;;;;;;;;;;;x
+temple_emperor_americanist;Supreme Judge;;;;;;;;;;;;;x
+temple_emperor_catholic;Emperor-Bishop;Empereur très Chrétien;Kaiser-Bischof;;Emperador-obispo;;;;;;;;;x
+temple_emperor_christian;Primarch;;;;;;;;;;;;;x
+temple_emperor_female_afro_syncretic;Empress-Priestess;;;;;;;;;;;;;x
+temple_emperor_female_americanist;Supreme Judge;;;;;;;;;;;;;x
+temple_emperor_female_catholic;Empress-Bishop;Empereur très Chrétien;Kaiser-Bischof;;Emperador-obispo;;;;;;;;;x
+temple_emperor_female_christian;Primarch;;;;;;;;;;;;;x
+temple_emperor_female_hamiltonian;Supreme Judge;;;;;;;;;;;;;x
+temple_emperor_female_jeffersonian;Supreme Judge;;;;;;;;;;;;;x
+temple_emperor_female_libertarian;Supreme Judge;;;;;;;;;;;;;x
+temple_emperor_female_mesoamerican_gods;Empress-Priestess;;;;;;;;;;;;;x
+temple_emperor_female_pirate;Pirate Empress;;;;;;;;;;;;;x
+temple_emperor_female_voodoo;Voodoo Empress;;;;;;;;;;;;;x
+temple_emperor_hamiltonian;Supreme Judge;;;;;;;;;;;;;x
+temple_emperor_jeffersonian;Supreme Judge;;;;;;;;;;;;;x
+temple_emperor_latter_day_saints;Apostle;;;;;;;;;;;;;x
+temple_emperor_libertarian;Supreme Judge;;;;;;;;;;;;;x
+temple_emperor_mesoamerican_gods;Emperor-Priest;;;;;;;;;;;;;x
+temple_emperor_pirate;Pirate Emperor;;;;;;;;;;;;;x
+temple_emperor_voodoo;Voodoo Emperor;;;;;;;;;;;;;x
+temple_empire_afro_syncretic;Theocracy;Théocratie;Theokratie;;Teocracia;;;;;;;;;x;
+temple_empire_americanist;Supreme Court;;;;;;;;;;;;;x
+temple_empire_americanist;Supreme Court;;;;;;;;;;;;;x
+temple_empire_atomicist;Academy of Sciences;;;;;;;;;;;;;x
+temple_empire_atomicist;Academy of Sciences;;;;;;;;;;;;;x
+temple_empire_christian;Primarchate;;;;;;;;;;;;;x
+temple_empire_consumerist;Megamall Conglomerate;;;;;;;;;;;;;x
+temple_empire_hamiltonian;Supreme Court;;;;;;;;;;;;;x
+temple_empire_hamiltonian;Supreme Court;;;;;;;;;;;;;x
+temple_empire_jeffersonian;Supreme Court;;;;;;;;;;;;;x
+temple_empire_jeffersonian;Supreme Court;;;;;;;;;;;;;x
+temple_empire_latter_day_saints;Kingdom of God upon the Earth;;;;;;;;;;;;;x
+temple_empire_libertarian;Supreme Court;;;;;;;;;;;;;x
+temple_empire_libertarian;Supreme Court;;;;;;;;;;;;;x
+temple_empire_mesoamerican_gods;Theocracy;Théocratie;Theokratie;;Teocracia;;;;;;;;;x;
+temple_empire_of_afro_syncretic;Theocracy of;;;;;;;;;;;;;x
+temple_empire_of_americanist;Supreme Court of;;;;;;;;;;;;;x
+temple_empire_of_christian;Primarchate of;;;;;;;;;;;;;x
+temple_empire_of_hamiltonian;Supreme Court of;;;;;;;;;;;;;x
+temple_empire_of_jeffersonian;Supreme Court of;;;;;;;;;;;;;x
+temple_empire_of_latter_day_saints;The Kingdom of God upon the Earth in;;;;;;;;;;;;;x
+temple_empire_of_libertarian;Supreme Court of;;;;;;;;;;;;;x
+temple_empire_of_mesoamerican_gods;Theocracy of;;;;;;;;;;;;;x
+temple_empire_of_pirate;Pirate Empire of;;;;;;;;;;;;;x
+temple_empire_of_voodoo;Imperial Peristil of;;;;;;;;;;;;;x
+temple_empire_pirate;Pirate Empire;;;;;;;;;;;;;x
+temple_empire_ursuline;Grand Order;;;;;;;;;;;;;x
+temple_empire_voodoo;Imperial Peristil;;;;;;;;;;;;;x
+temple_king_afro_syncretic;King-Priest;;;;;;;;;;;;;x
+temple_king_american_native;Shaman-King;;;;;;;;;;;;;x
+temple_king_americanist;General Judge;;;;;;;;;;;;;x
+temple_king_catholic;King-Bishop;Roi très Catholique;König-Bischof;;Rey-obispo;;;;;;;;;x
+temple_king_christian;Exarch;;;;;;;;;;;;;x
+temple_king_female_afro_syncretic;Queen-Priestess;;;;;;;;;;;;;x
+temple_king_female_americanist;General Judge;;;;;;;;;;;;;x
+temple_king_female_catholic;Queen-Bishop;Roi très Catholique;König-Bischof;;Rey-obispo;;;;;;;;;x
+temple_king_female_christian;Exarch;;;;;;;;;;;;;x
+temple_king_female_hamiltonian;General Judge;;;;;;;;;;;;;x
+temple_king_female_jeffersonian;General Judge;;;;;;;;;;;;;x
+temple_king_female_libertarian;General Judge;;;;;;;;;;;;;x
+temple_king_female_mesoamerican_gods;Queen-Priestess;;;;;;;;;;;;;x
+temple_king_female_pirate;Pirate Queen;;;;;;;;;;;;;x
+temple_king_female_voodoo;Voodoo Queen;;;;;;;;;;;;;x
+temple_king_hamiltonian;General Judge;;;;;;;;;;;;;x
+temple_king_jeffersonian;General Judge;;;;;;;;;;;;;x
+temple_king_latter_day_saints;Seventy;;;;;;;;;;;;;x
+temple_king_libertarian;General Judge;;;;;;;;;;;;;x
+temple_king_mesoamerican_gods;King-Priest;;;;;;;;;;;;;x
+temple_king_pirate;Pirate King;;;;;;;;;;;;;x
+temple_king_voodoo;Voodoo King;;;;;;;;;;;;;x
+temple_kingdom_afro_syncretic;Theocracy;Théocratie;Theokratie;;Teocracia;;;;;;;;;x;
+temple_kingdom_american_native;Shaman-Kingdom;;;;;;;;;;;;;x
+temple_kingdom_americanist;General Court;;;;;;;;;;;;;x
+temple_kingdom_americanist;General Court;;;;;;;;;;;;;x
+temple_kingdom_atomicist;Grand University;;;;;;;;;;;;;x
+temple_kingdom_atomicist;Grand University;;;;;;;;;;;;;x
+temple_kingdom_catholic;Theocracy;Théocratie;Theokratie;;Teocracia;;;;;;;;;x
+temple_kingdom_christian;Exarchate;;;;;;;;;;;;;x
+temple_kingdom_consumerist;Megamall Complex;;;;;;;;;;;;;x
+temple_kingdom_hamiltonian;General Court;;;;;;;;;;;;;x
+temple_kingdom_hamiltonian;General Court;;;;;;;;;;;;;x
+temple_kingdom_jeffersonian;General Court;;;;;;;;;;;;;x
+temple_kingdom_jeffersonian;General Court;;;;;;;;;;;;;x
+temple_kingdom_latter_day_saints;Kingdom of God;;;;;;;;;;;;;x
+temple_kingdom_libertarian;General Court;;;;;;;;;;;;;x
+temple_kingdom_libertarian;General Court;;;;;;;;;;;;;x
+temple_kingdom_mesoamerican_gods;Theocracy;Théocratie;Theokratie;;Teocracia;;;;;;;;;x;
+temple_kingdom_of_afro_syncretic;Theocracy of;;;;;;;;;;;;;x
+temple_kingdom_of_american_native;Shaman-Kingdom of;;;;;;;;;;;;;x
+temple_kingdom_of_americanist;General Court of;;;;;;;;;;;;;x
+temple_kingdom_of_catholic;Theocracy of;Théocratie de;Theokratie von;;Teocracia de;;;;;;;;;x
+temple_kingdom_of_christian;Exarchate of;;;;;;;;;;;;;x
+temple_kingdom_of_hamiltonian;General Court of;;;;;;;;;;;;;x
+temple_kingdom_of_jeffersonian;General Court of;;;;;;;;;;;;;x
+temple_kingdom_of_latter_day_saints;The Kingdom of God in;;;;;;;;;;;;;x
+temple_kingdom_of_libertarian;General Court of;;;;;;;;;;;;;x
+temple_kingdom_of_mesoamerican_gods;Theocracy of;;;;;;;;;;;;;x
+temple_kingdom_of_pirate;Pirate Kingdom of;;;;;;;;;;;;;x
+temple_kingdom_of_voodoo;Royal Peristil of;;;;;;;;;;;;;x
+temple_kingdom_pirate;Pirate Kingdom;;;;;;;;;;;;;x
+temple_kingdom_ursuline;Order;;;;;;;;;;;;;x
+temple_kingdom_voodoo;Royal Peristil;;;;;;;;;;;;;x
+uahomche;Uahomche;;;;;;;;;;;;;x
+uahomche_DESC;Uahomche blends aspects of both Christianity and the traditional Mayan faith.  Gods in the Uahomche pantheon are referred to as angels, however these angels are largely unchanged from what they were before Spanish colonization.;;;;;;;;;;;;;x
+mesoamerican_gods;Mesoamerican;;;;;;;;;;;;;x
+GOD_IXCHEL;Ixchel;;;;;;;;;;;;;x
+GOD_JACAWITZ;Jacawitz;;;;;;;;;;;;;x
+GOD_HURACAN;Huracan;;;;;;;;;;;;;x
+GOD_XIBALBA;Xibalba;;;;;;;;;;;;;x
+GOD_HUMHAU;Humhau;;;;;;;;;;;;;x
+GOD_KUKULKAN;Kukulkan;;;;;;;;;;;;;x
+GOD_THE_FOUNDERS;The Founders;;;;;;;;;;;;;x
+GOD_THE_FOUNDING_FATHERS;The Founding Fathers;;;;;;;;;;;;;x
+GOD_UNCLE_SAM;Uncle Sam;;;;;;;;;;;;;x
+GOD_JEFFERSON;Jefferson;;;;;;;;;;;;;x
+GOD_THE_FLAG;The Flag;;;;;;;;;;;;;x
+GOD_ADAMS;Adams;;;;;;;;;;;;;x
+GOD_MADISON;Madison;;;;;;;;;;;;;x
+GOD_HAMILTON;Hamilton;;;;;;;;;;;;;x
+GOD_WASHINGTON;Washington;;;;;;;;;;;;;x
+COMMUNISM;Communism;;;;;;;;;;;;;x
+THE_FREEMASONS;The Freemasons;;;;;;;;;;;;;x
+AGENDA_TWENTYONE;Agenda 21;;;;;;;;;;;;;x
+FLUORIDATION;Fluoridation;;;;;;;;;;;;;x
+THE_FEDS;The Feds;;;;;;;;;;;;;x
+GOD_OUR_LADY;Our Lady;;;;;;;;;;;;;x
+GOD_THE_PRESIDENTS;The Presidents;;;;;;;;;;;;;x
+GOD_LADY_LIBERTY;Lady Liberty;;;;;;;;;;;;;x
+GOD_FAT_MAN;Fat Man;;;;;;;;;;;;;x
+THE_VOID;The Void;;;;;;;;;;;;;x
+THE_DEMON_CORE;The Demon Core;;;;;;;;;;;;;x
+GOD_LITTLE_BOY;Little Boy;;;;;;;;;;;;;x
+GOD_TSAR_BOMBA;Tsar Bomba;;;;;;;;;;;;;x
+GOD_ATOMOS;Atomos;;;;;;;;;;;;;x
+GOD_THE_ELEMENTS;The Elements;;;;;;;;;;;;;x
+THE_LEGENDS;The Legends;;;;;;;;;;;;;x
+GOD_THE_SEA_HAG;The Sea Hag;;;;;;;;;;;;;x
+GOD_NEPTUNE;Neptune;;;;;;;;;;;;;x
+GOD_AGWE;Agwé;;;;;;;;;;;;;x
+GOD_MANANNAN_MAC_LIR;Manannán mac Lir;;;;;;;;;;;;;x
+THE_HANGMAN;The Hangman;;;;;;;;;;;;;x
+DAVY_JONES;Davy Jones;;;;;;;;;;;;;x
+THE_CODE;The Code;;;;;;;;;;;;;x
+
+job_spiritual_atomicist;Court Physicist;;;;;;;;;;;;;x
+temple_baron_atomicist;Adjunct;;;;;;;;;;;;;x
+temple_baron_female_atomicist;Adjunct;;;;;;;;;;;;;x
+temple_baron_atomicists;Adjuncts;;;;;;;;;;;;;x
+temple_barony_of_atomicist;Laboratory of;;;;;;;;;;;;;x
+temple_count_atomicist;Professor;;;;;;;;;;;;;x
+temple_count_female_atomicist;Professor;;;;;;;;;;;;;x
+temple_county_of_atomicist;College of;;;;;;;;;;;;;x
+temple_duke_atomicist;Lord Provost;;;;;;;;;;;;;x
+temple_duke_female_atomicist;Lord Provost;;;;;;;;;;;;;x
+temple_duchy_of_atomicist;University of;;;;;;;;;;;;;x
+temple_king_atomicist;King-Provost;;;;;;;;;;;;;x
+temple_king_female_atomicist;King-Provost;;;;;;;;;;;;;x
+temple_kingdom_of_atomicist;Grand University of;;;;;;;;;;;;;x
+temple_emperor_atomicist;Academy President;;;;;;;;;;;;;x
+temple_emperor_female_atomicist;Academy President;;;;;;;;;;;;;x
+temple_empire_of_atomicist;Academy of Sciences of;;;;;;;;;;;;;x

@@ -1,0 +1,8 @@
+# 265 - Fort Pierce
+title = c_fort_pierce
+max_settlements = 4
+culture = beacher
+religion = catholic
+b_fort_pierce_a = castle
+b_fort_pierce_b = city
+b_fort_pierce_c = temple

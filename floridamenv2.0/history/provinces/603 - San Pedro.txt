@@ -1,0 +1,8 @@
+# 603 - San Pedro
+title = c_san_pedro
+max_settlements = 3
+culture = oceanmen
+religion = none
+b_san_pedro_a = castle
+b_san_pedro_b = city
+b_san_pedro_c = temple

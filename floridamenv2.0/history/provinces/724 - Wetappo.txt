@@ -1,0 +1,8 @@
+# 724 - Wetappo
+title = c_wetappo
+max_settlements = 4
+culture = tallahassean
+religion = baptist
+b_wetappo_a = castle
+b_wetappo_b = city
+b_wetappo_c = temple

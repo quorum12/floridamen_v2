@@ -1,0 +1,8 @@
+# 531 - Pensacola
+title = c_pensacola
+max_settlements = 4
+culture = pensacolan
+religion = baptist
+b_pensacola_a = castle
+b_pensacola_b = city
+b_pensacola_c = temple

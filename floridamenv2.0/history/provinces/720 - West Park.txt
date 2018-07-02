@@ -1,0 +1,8 @@
+# 720 - West Park
+title = c_west_park
+max_settlements = 3
+culture = miamimen
+religion = jewish
+b_west_park_a = city
+b_west_park_b = castle
+b_west_park_c = temple

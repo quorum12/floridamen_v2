@@ -1,0 +1,8 @@
+# 436 - Mariel
+title = c_mariel
+max_settlements = 3
+culture = havanan
+religion = catholic
+b_mariel_a = castle
+b_mariel_b = city
+b_mariel_c = temple

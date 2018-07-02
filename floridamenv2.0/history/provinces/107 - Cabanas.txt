@@ -1,0 +1,8 @@
+# 107 - Cabanas
+title = c_cabanas
+max_settlements = 4
+culture = cubano
+religion = atomicist
+b_cabanas_a = castle
+b_cabanas_b = city
+b_cabanas_c = temple

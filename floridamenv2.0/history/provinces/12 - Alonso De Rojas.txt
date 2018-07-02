@@ -1,0 +1,8 @@
+# 12 - Alonso De Rojas
+title = c_alonso_de_rojas
+max_settlements = 4
+culture = cubano
+religion = catholic
+b_alonso_de_rojas_a = castle
+b_alonso_de_rojas_b = city
+b_alonso_de_rojas_c = temple

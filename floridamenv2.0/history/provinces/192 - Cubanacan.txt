@@ -1,0 +1,8 @@
+# 192 - Cubanacan
+title = c_cubanacan
+max_settlements = 3
+culture = cubano
+religion = catholic
+b_cubanacan_a = castle
+b_cubanacan_b = city
+b_cubanacan_c = temple

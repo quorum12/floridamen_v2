@@ -1,0 +1,8 @@
+# 91 - Boynton Beach
+title = c_boynton_beach
+max_settlements = 3
+culture = beacher
+religion = brethren
+b_boynton_beach_a = city
+b_boynton_beach_b = temple
+b_boynton_beach_c = castle

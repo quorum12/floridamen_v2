@@ -1,0 +1,8 @@
+# 671 - Tavernier
+title = c_tavernier
+max_settlements = 3
+culture = miamimen
+religion = catholic
+b_tavernier_a = castle
+b_tavernier_b = city
+b_tavernier_c = temple

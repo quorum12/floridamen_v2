@@ -1,0 +1,8 @@
+# 527 - Paso Real De San Diego
+title = c_paso_real_de_san_diego
+max_settlements = 3
+culture = cubano
+religion = catholic
+b_paso_real_de_san_diego_a = castle
+b_paso_real_de_san_diego_b = city
+b_paso_real_de_san_diego_c = temple

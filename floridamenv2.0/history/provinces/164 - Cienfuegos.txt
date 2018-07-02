@@ -1,0 +1,8 @@
+# 164 - Cienfuegos
+title = c_cienfuegos
+max_settlements = 4
+culture = oceanmen
+religion = catholic
+b_cienfuegos_a = castle
+b_cienfuegos_b = city
+b_cienfuegos_c = temple

@@ -1,0 +1,8 @@
+# 545 - Pine Level
+title = c_pine_level
+max_settlements = 3
+culture = lakelander
+religion = baptist
+b_pine_level_a = castle
+b_pine_level_b = city
+b_pine_level_c = temple

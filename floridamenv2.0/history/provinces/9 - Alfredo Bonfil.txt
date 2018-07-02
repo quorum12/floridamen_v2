@@ -1,0 +1,8 @@
+# 9 - Alfredo Bonfil
+title = c_alfredo_bonfil
+max_settlements = 3
+culture = cancuni
+religion = uahomche
+b_alfredo_bonfil_a = castle
+b_alfredo_bonfil_b = city
+b_alfredo_bonfil_c = temple

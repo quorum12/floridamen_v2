@@ -1,0 +1,8 @@
+# 569 - Port Saint John
+title = c_port_saint_john
+max_settlements = 3
+culture = beacher
+religion = atomicist
+b_port_saint_john_a = temple
+b_port_saint_john_b = castle
+b_port_saint_john_c = city

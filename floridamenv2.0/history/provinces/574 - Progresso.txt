@@ -1,0 +1,8 @@
+# 574 - Progresso
+title = c_progresso
+max_settlements = 4
+culture = meridan
+religion = catholic
+b_progresso_a = castle
+b_progresso_b = city
+b_progresso_c = temple

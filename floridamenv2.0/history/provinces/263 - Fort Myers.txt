@@ -1,0 +1,8 @@
+# 263 - Fort Myers
+title = c_fort_myers
+max_settlements = 4
+culture = naplesian
+religion = caimano
+b_fort_myers_a = castle
+b_fort_myers_b = city
+b_fort_myers_c = temple

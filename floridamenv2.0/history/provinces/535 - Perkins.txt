@@ -1,0 +1,8 @@
+# 535 - Perkins
+title = c_perkins
+max_settlements = 3
+culture = afroanglo
+religion = baptist
+b_perkins_a = castle
+b_perkins_b = city
+b_perkins_c = temple

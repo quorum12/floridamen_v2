@@ -1,0 +1,8 @@
+# 197 - Day
+title = c_day
+max_settlements = 4
+culture = dixie
+religion = methodist
+b_day_a = castle
+b_day_b = city
+b_day_c = temple

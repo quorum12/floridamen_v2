@@ -1,0 +1,8 @@
+# 247 - Farmton
+title = c_farmton
+max_settlements = 3
+culture = orlandoan
+religion = catholic
+b_farmton_a = castle
+b_farmton_b = city
+b_farmton_c = temple

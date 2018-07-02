@@ -1,0 +1,8 @@
+# 198 - Daytona Beach
+title = c_daytona_beach
+max_settlements = 4
+culture = afroanglo
+religion = baptist
+b_daytona_beach_a = city
+b_daytona_beach_b = temple
+b_daytona_beach_c = castle

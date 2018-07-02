@@ -1,0 +1,8 @@
+# 353 - Jacksonville
+title = c_jacksonville
+max_settlements = 4
+culture = afroanglo
+religion = baptist
+b_jacksonville_a = castle
+b_jacksonville_b = city
+b_jacksonville_c = temple

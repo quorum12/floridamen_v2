@@ -1,0 +1,8 @@
+# 517 - Palmetto
+title = c_palmetto
+max_settlements = 3
+culture = venicen
+religion = caimano
+b_palmetto_a = city
+b_palmetto_b = temple
+b_palmetto_c = castle

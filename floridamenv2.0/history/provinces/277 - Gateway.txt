@@ -1,0 +1,8 @@
+# 277 - Gateway
+title = c_gateway
+max_settlements = 3
+culture = naplesian
+religion = caimano
+b_gateway_a = castle
+b_gateway_b = city
+b_gateway_c = temple

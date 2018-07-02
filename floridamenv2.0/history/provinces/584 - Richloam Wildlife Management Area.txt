@@ -1,0 +1,6 @@
+# 584 - Richloam Wildlife Management Area
+title = c_richloam_wildlife_management_area
+max_settlements = 2
+culture = lakelander
+religion = catholic
+b_richloam_wildlife_management_area_a = tribal

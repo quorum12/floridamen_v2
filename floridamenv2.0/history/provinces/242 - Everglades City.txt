@@ -1,0 +1,8 @@
+# 242 - Everglades City
+title = c_everglades_city
+max_settlements = 3
+culture = naplesian
+religion = caimano
+b_everglades_city_a = castle
+b_everglades_city_b = city
+b_everglades_city_c = temple

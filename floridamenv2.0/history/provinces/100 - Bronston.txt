@@ -1,0 +1,8 @@
+# 100 - Bronston
+title = c_bronston
+max_settlements = 4
+culture = ocale
+religion = american_spiritual_pagan
+b_bronston_a = castle
+b_bronston_b = city
+b_bronston_c = temple

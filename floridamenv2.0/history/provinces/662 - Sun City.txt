@@ -1,0 +1,8 @@
+# 662 - Sun City
+title = c_sun_city
+max_settlements = 3
+culture = tampanian
+religion = caimano
+b_sun_city_a = castle
+b_sun_city_b = city
+b_sun_city_c = temple

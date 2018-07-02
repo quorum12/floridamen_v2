@@ -1,0 +1,6 @@
+# 15 - Amelia Island
+title = c_amelia_island
+max_settlements = 2
+culture = jacksonvillean
+religion = americanist
+b_amelia_island_a = tribal

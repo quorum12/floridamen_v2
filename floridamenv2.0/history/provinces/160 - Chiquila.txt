@@ -1,0 +1,8 @@
+# 160 - Chiquila
+title = c_chiquila
+max_settlements = 3
+culture = cancuni
+religion = catholic
+b_chiquila_a = castle
+b_chiquila_b = city
+b_chiquila_c = temple

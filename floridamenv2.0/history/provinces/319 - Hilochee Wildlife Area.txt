@@ -1,0 +1,6 @@
+# 319 - Hilochee Wildlife Area
+title = c_hilochee_wildlife_area
+max_settlements = 2
+culture = orlandoan
+religion = catholic
+b_hilochee_wildlife_area_a = tribal

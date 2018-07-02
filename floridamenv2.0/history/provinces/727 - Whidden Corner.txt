@@ -1,0 +1,6 @@
+# 727 - Whidden Corner
+title = c_whidden_corner
+max_settlements = 3
+culture = calusa
+religion = american_spiritual_pagan
+b_whidden_corner_a = tribal

@@ -1,0 +1,8 @@
+# 478 - Nocatee
+title = c_nocatee
+max_settlements = 3
+culture = jacksonvillean
+religion = americanist
+b_nocatee_a = temple
+b_nocatee_b = city
+b_nocatee_c = castle

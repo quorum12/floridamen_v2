@@ -1,0 +1,6 @@
+# 300 - Gulf Hammock Wildlife Preserve
+title = c_gulf_hammock_wildlife_preserve
+max_settlements = 2
+culture = ocale
+religion = american_spiritual_pagan
+b_gulf_hammock_wildlife_preserve_a = tribal

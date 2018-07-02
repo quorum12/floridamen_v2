@@ -1,0 +1,8 @@
+# 629 - Sierra Maestra
+title = c_sierra_maestra
+max_settlements = 3
+culture = cubano
+religion = catholic
+b_sierra_maestra_a = castle
+b_sierra_maestra_b = city
+b_sierra_maestra_c = temple

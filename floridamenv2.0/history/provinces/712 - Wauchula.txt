@@ -1,0 +1,8 @@
+# 712 - Wauchula
+title = c_wauchula
+max_settlements = 3
+culture = lakelander
+religion = catholic
+b_wauchula_a = castle
+b_wauchula_b = city
+b_wauchula_c = temple

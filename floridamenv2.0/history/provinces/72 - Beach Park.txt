@@ -1,0 +1,8 @@
+# 72 - Beach Park
+title = c_beach_park
+max_settlements = 3
+culture = americano
+religion = catholic
+b_beach_park_a = castle
+b_beach_park_b = city
+b_beach_park_c = temple

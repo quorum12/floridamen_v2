@@ -1,0 +1,8 @@
+# 122 - Carahatas
+title = c_carahatas
+max_settlements = 4
+culture = carahatani
+religion = rastafarian
+b_carahatas_a = city
+b_carahatas_b = temple
+b_carahatas_c = castle

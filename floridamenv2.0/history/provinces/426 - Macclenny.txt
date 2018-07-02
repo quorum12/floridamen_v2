@@ -1,0 +1,8 @@
+# 426 - Macclenny
+title = c_macclenny
+max_settlements = 4
+culture = seminole
+religion = american_spiritual_pagan
+b_macclenny_a = castle
+b_macclenny_b = city
+b_macclenny_c = temple

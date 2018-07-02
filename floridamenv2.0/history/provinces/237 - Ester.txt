@@ -1,0 +1,8 @@
+# 237 - Ester
+title = c_ester
+max_settlements = 3
+culture = louisiannan
+religion = catholic
+b_ester_a = castle
+b_ester_b = city
+b_ester_c = temple

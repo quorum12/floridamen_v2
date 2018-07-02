@@ -1,0 +1,8 @@
+# 345 - Iota
+title = c_iota
+max_settlements = 3
+culture = texan
+religion = catholic
+b_iota_a = castle
+b_iota_b = city
+b_iota_c = temple

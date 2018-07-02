@@ -1,0 +1,4 @@
+2140.1.1 = {
+	holder = 4006080
+	liege = k_juventud
+}

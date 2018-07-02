@@ -1,0 +1,8 @@
+# 408 - Lessburg
+title = c_lessburg
+max_settlements = 3
+culture = lakelander
+religion = catholic
+b_lessburg_a = castle
+b_lessburg_b = city
+b_lessburg_c = temple

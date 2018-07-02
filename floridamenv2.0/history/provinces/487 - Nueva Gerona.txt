@@ -1,0 +1,8 @@
+# 487 - Nueva Gerona
+title = c_nueva_gerona
+max_settlements = 3
+culture = juventudan
+religion = none
+b_nueva_gerona_a = temple
+b_nueva_gerona_b = city
+b_nueva_gerona_c = castle

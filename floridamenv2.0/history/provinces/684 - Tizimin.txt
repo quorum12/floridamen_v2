@@ -1,0 +1,8 @@
+# 684 - Tizimin
+title = c_tizimin
+max_settlements = 3
+culture = valladolidian
+religion = uahomche
+b_tizimin_a = castle
+b_tizimin_b = city
+b_tizimin_c = temple

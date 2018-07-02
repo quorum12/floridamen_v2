@@ -1,0 +1,8 @@
+# 471 - Navarre
+title = c_navarre
+max_settlements = 3
+culture = pensacolan
+religion = baptist
+b_navarre_a = castle
+b_navarre_b = city
+b_navarre_c = temple

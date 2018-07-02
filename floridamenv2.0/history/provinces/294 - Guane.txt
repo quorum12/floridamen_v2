@@ -1,0 +1,8 @@
+# 294 - Guane
+title = c_guane
+max_settlements = 3
+culture = mantuan
+religion = catholic
+b_guane_a = castle
+b_guane_b = city
+b_guane_c = temple

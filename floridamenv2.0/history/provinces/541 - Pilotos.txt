@@ -1,0 +1,8 @@
+# 541 - Pilotos
+title = c_pilotos
+max_settlements = 3
+culture = mantuan
+religion = catholic
+b_pilotos_a = castle
+b_pilotos_b = city
+b_pilotos_c = temple

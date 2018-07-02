@@ -1,0 +1,8 @@
+# 97 - Brewster
+title = c_brewster
+max_settlements = 3
+culture = tampanian
+religion = baptist
+b_brewster_a = castle
+b_brewster_b = city
+b_brewster_c = temple

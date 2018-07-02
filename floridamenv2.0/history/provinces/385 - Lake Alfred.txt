@@ -1,0 +1,8 @@
+# 385 - Lake Alfred
+title = c_lake_alfred
+max_settlements = 3
+culture = lakelander
+religion = catholic
+b_lake_alfred_a = castle
+b_lake_alfred_b = city
+b_lake_alfred_c = temple

@@ -1,0 +1,8 @@
+# 465 - Myakka
+title = c_myakka
+max_settlements = 4
+culture = venicen
+religion = caimano
+b_myakka_a = castle
+b_myakka_b = city
+b_myakka_c = temple

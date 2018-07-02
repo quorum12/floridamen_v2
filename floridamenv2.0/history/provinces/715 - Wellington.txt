@@ -1,0 +1,8 @@
+# 715 - Wellington
+title = c_wellington
+max_settlements = 3
+culture = miamimen
+religion = catholic
+b_wellington_a = castle
+b_wellington_b = city
+b_wellington_c = temple

@@ -1,0 +1,8 @@
+# 312 - Heriverto Orellanes
+title = c_heriverto_orellanes
+max_settlements = 3
+culture = oceanmen
+religion = none
+b_heriverto_orellanes_a = castle
+b_heriverto_orellanes_b = city
+b_heriverto_orellanes_c = temple

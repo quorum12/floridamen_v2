@@ -1,0 +1,8 @@
+# 506 - Pablo De A Torriente Brau
+title = c_pablo_de_a_torriente_brau
+max_settlements = 3
+culture = cubano
+religion = catholic
+b_pablo_de_a_torriente_brau_a = castle
+b_pablo_de_a_torriente_brau_b = city
+b_pablo_de_a_torriente_brau_c = temple

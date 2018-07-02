@@ -1,0 +1,8 @@
+# 290 - Green Cove Springs
+title = c_green_cove_springs
+max_settlements = 3
+culture = jacksonvillean
+religion = americanist
+b_green_cove_springs_a = castle
+b_green_cove_springs_b = city
+b_green_cove_springs_c = temple

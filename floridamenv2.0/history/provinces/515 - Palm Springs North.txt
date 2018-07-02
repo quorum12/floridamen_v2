@@ -1,0 +1,8 @@
+# 515 - Palm Springs North
+title = c_palm_springs_north
+max_settlements = 3
+culture = americano
+religion = catholic
+b_palm_springs_north_a = castle
+b_palm_springs_north_b = city
+b_palm_springs_north_c = temple

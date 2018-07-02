@@ -1,0 +1,6 @@
+# 291 - Green Swamp Wilderness Preserve
+title = c_green_swamp_wilderness_preserve
+max_settlements = 2
+culture = lakelander
+religion = baptist
+b_green_swamp_wilderness_preserve_a = tribal

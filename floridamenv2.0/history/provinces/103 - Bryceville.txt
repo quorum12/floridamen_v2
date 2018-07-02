@@ -1,0 +1,8 @@
+# 103 - Bryceville
+title = c_bryceville
+max_settlements = 3
+culture = seminole
+religion = american_spiritual_pagan
+b_bryceville_a = castle
+b_bryceville_b = city
+b_bryceville_c = temple

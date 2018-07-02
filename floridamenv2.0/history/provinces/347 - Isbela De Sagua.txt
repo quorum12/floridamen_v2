@@ -1,0 +1,8 @@
+# 347 - Isbela De Sagua
+title = c_isbela_de_sagua
+max_settlements = 3
+culture = oceanmen
+religion = catholic
+b_isbela_de_sagua_a = castle
+b_isbela_de_sagua_b = city
+b_isbela_de_sagua_c = temple

@@ -1,0 +1,8 @@
+# 539 - Pijirigua
+title = c_pijirigua
+max_settlements = 3
+culture = havanan
+religion = catholic
+b_pijirigua_a = castle
+b_pijirigua_b = city
+b_pijirigua_c = temple

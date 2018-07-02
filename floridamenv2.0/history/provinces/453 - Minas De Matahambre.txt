@@ -1,0 +1,8 @@
+# 453 - Minas De Matahambre
+title = c_minas_de_matahambre
+max_settlements = 4
+culture = mantuan
+religion = atomicist
+b_minas_de_matahambre_a = castle
+b_minas_de_matahambre_b = city
+b_minas_de_matahambre_c = temple

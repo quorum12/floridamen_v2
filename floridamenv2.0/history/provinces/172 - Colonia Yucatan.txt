@@ -1,0 +1,8 @@
+# 172 - Colonia Yucatan
+title = c_colonia_yucatan
+max_settlements = 3
+culture = valladolidian
+religion = catholic
+b_colonia_yucatan_a = castle
+b_colonia_yucatan_b = city
+b_colonia_yucatan_c = temple

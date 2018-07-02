@@ -1,0 +1,8 @@
+# 264 - Fort Myers Beach
+title = c_fort_myers_beach
+max_settlements = 3
+culture = gulfard
+religion = caimano
+b_fort_myers_beach_a = castle
+b_fort_myers_beach_b = city
+b_fort_myers_beach_c = temple

@@ -1,0 +1,8 @@
+# 586 - Rio Lagartos
+title = c_rio_lagartos
+max_settlements = 3
+culture = cancuni
+religion = uahomche
+b_rio_lagartos_a = castle
+b_rio_lagartos_b = city
+b_rio_lagartos_c = temple

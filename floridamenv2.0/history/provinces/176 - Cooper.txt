@@ -1,0 +1,8 @@
+# 176 - Cooper
+title = c_cooper
+max_settlements = 3
+culture = miamimen
+religion = catholic
+b_cooper_a = castle
+b_cooper_b = city
+b_cooper_c = temple

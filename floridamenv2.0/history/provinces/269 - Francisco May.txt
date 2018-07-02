@@ -1,0 +1,8 @@
+# 269 - Francisco May
+title = c_francisco_may
+max_settlements = 3
+culture = cancuni
+religion = uahomche
+b_francisco_may_a = castle
+b_francisco_may_b = city
+b_francisco_may_c = temple

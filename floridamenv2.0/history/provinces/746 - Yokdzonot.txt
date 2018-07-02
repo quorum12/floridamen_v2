@@ -1,0 +1,8 @@
+# 746 - Yokdzonot
+title = c_yokdzonot
+max_settlements = 3
+culture = valladolidian
+religion = catholic
+b_yokdzonot_a = castle
+b_yokdzonot_b = city
+b_yokdzonot_c = temple

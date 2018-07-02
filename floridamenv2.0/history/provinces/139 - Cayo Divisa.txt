@@ -1,0 +1,6 @@
+# 139 - Cayo Divisa
+title = c_cayo_divisa
+max_settlements = 2
+culture = islander
+religion = none
+b_cayo_divisa_a = tribal

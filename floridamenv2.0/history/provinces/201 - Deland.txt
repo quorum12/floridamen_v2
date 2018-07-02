@@ -1,0 +1,8 @@
+# 201 - Deland
+title = c_deland
+max_settlements = 4
+culture = jacksonvillean
+religion = americanist
+b_deland_a = castle
+b_deland_b = city
+b_deland_c = temple

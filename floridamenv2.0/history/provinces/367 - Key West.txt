@@ -1,0 +1,8 @@
+# 367 - Key West
+title = c_key_west
+max_settlements = 4
+culture = keysian
+religion = caimano
+b_key_west_a = castle
+b_key_west_b = city
+b_key_west_c = temple

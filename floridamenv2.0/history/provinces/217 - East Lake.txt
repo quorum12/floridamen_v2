@@ -1,0 +1,8 @@
+# 217 - East Lake
+title = c_east_lake
+max_settlements = 3
+culture = tampanian
+religion = catholic
+b_east_lake_a = castle
+b_east_lake_b = city
+b_east_lake_c = temple

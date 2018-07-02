@@ -1,0 +1,8 @@
+# 187 - Crossings
+title = c_crossings
+max_settlements = 3
+culture = afroanglo
+religion = baptist
+b_crossings_a = castle
+b_crossings_b = city
+b_crossings_c = temple

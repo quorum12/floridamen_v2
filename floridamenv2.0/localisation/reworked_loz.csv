@@ -1,0 +1,292 @@
+bear.6.undo;I should do less drugs...;;;;;;;;;;x
+
+atheist;Atheist Movement;;;;;;;;;;;;;x
+atheist_desc;This character is part of an atheist movement to turn their realm into a secular state.;;;;;;;;;;;;;x
+atheistrev;Atheist Revolutionary;;;;;;;;;;;;;x
+atheistrev_desc;In a society that burns apostates, eventually the apostates are going to respond in kind.;;;;;;;;;;;;;x
+GK_GOD;Reason;;;;;;;;;;;;;x
+GK_HUMANITY;Humanity;;;;;;;;;;;;;x
+GK_REASON;Reason;;;;;;;;;;;;;x
+GK_CRUSADE;Liberation;;;;;;;;;;;;;x
+GK_SCRIPTURE;Science;;;;;;;;;;;;;x
+GK_PIETY_NAME;Reason;;;;;;;;;;;;;x
+GK_PRIEST_TITLE;Scholar;;;;;;;;;;;;;x
+GK_POPE;=Pope=;;;;;;;;;;;;;x
+STAT_PIETY_GK_REASON;Reason;;;;;;;;;;;;;x
+STAT_PIETY_DESC_GK_REASON;Reason is respected by other non-religious people. Like Prestige, it is added to your score on the death of a ruler.;;;;;;;;;;;;;x
+none;No Religion;;;;;;;;;;;;;x
+none_group;No Religion;;;;;;;;;;;;;x
+none_DESC;Atheism is the lack of belief in any gods. It is not a religion, but it is often wrongly treated as one. Atheists still have moral codes, including a sense of right and wrong. Those codes often come from an inner sense of compassion for their fellow human beings.;;;;;;;;;;;;;x
+d_militant_atheists;Communist Defense League;;;;;;;;;;;;;x
+d_legion_freethinkers;Legion of Freethinkers;;;;;;;;;;;;;x
+d_knights_reason;Knights of Reason;;;;;;;;;;;;;x
+CB_NAME_ATHEISTLIBERATION;Secular Liberation of [Title.GetBaseName];;;;;;;;;;;;;x
+WAR_NAME_ATHEISTLIBERATION;Secular Liberation of [Title.GetBaseName];;;;;;;;;;;;;x
+secular_liberation_desc;Atheist rulers can liberate territory from religious ones. Nearby religious rulers will likely join in to help the defender. Conquered lands will be distributed to claimants and those who contributed most to the war, much like a crusade. If the target abandons religion, the war will invalidate.;;;;;;;;;;;;;x
+nick_the_liberator;The Liberator;;;;;;;;;;;;;x
+
+###########################   Culture/Religion Specific Title Holder Names   #####################
+temple_baron_voodoo;Priest;;;;;;;;;;;;;x
+temple_baron_voodoos;Priests;;;;;;;;;;;;;x
+temple_baron_american_totemist_pagan_reformeds;Priests;;;;;;;;;;;;;x
+temple_baron_american_totemist_pagans;Priests;;;;;;;;;;;;;x
+temple_baron_american_spiritual_pagan_reformeds;Priests;;;;;;;;;;;;;x
+temple_baron_american_spiritual_pagans;Priests;;;;;;;;;;;;;x
+
+######################## The Nones ###############################################
+temple_baron_none;Adjunct;;;;;;;;;;;;;x
+temple_baron_nones;Adjuncts;;;;;;;;;;;;;x
+temple_barony_of_none;Laboratory of;;;;;;;;;;;;;x
+temple_county_of_none;College of;;;;;;;;;;;;;x
+temple_count_none;Professor;;;;;;;;;;;;;x
+temple_duchy_of_none;University of;;;;;;;;;;;;;x
+temple_duke_none;Lord Provost;;;;;;;;;;;;;x
+job_spiritual_none;Court Rationalist;;;;;;;;;;;;;x
+temple_barony_none;Laboratory;;;;;;;;;;;;;x
+temple_county_none;College;;;;;;;;;;;;;x
+temple_duchy_none;University;;;;;;;;;;;;;x
+
+############################Rastafarian #########################################
+afro_syncretic;Afro Syncretic;;;;;;;;;;;;;x
+####### Caimano ##################################
+caimano;Sun Faith;Sun Faith;Sun Faith;;;;;;;;;x
+caimano_DESC;The Sun Faith is a syncretic faith worshipping the various animals and spirits of Southern Florida, with origins in local native faiths, eastern philosophies, and various neo-pagans that left their works behind before the event.;;;;;;;;;x
+caimano_reformed;Caimano;Caimano;Caimano;Caimano;;;;;;;;;x
+d_caimano;Council of Oracles;Council of Oracles;Council of Oracles;Council of Oracles;;;;;;;;;x
+GOD_APHRODITE;Aphrodite;Aphrodite;Aphrodite;Aphrodite;;;;;;;;;x
+GOD_AUGUSTINA;Augustina;Augustina;Augustina;Augustina;;;;;;;;;x
+GOD_COLUMBUS;Columbus;Columbus;Columbus;Columbus;;;;;;;;;x
+GOD_FLAGLER;Flagler;Flagler;Flagler;Flagler;;;;;;;;;x
+GOD_HANNO;Hanno;Hanno;Hanno;Hanno;;;;;;;;;x
+GOD_HEREOTHOS;Hereothos;Hereothos;Hereothos;Hereothos;;;;;;;;;x
+GOD_KREGTHOS;Kregthos;Kregthos;Kregthos;Kregthos;;;;;;;;;x
+GOD_LIBERTAS;Libertas;Libertas;GERMAN;SPANISH;;;;;;;;;x
+GOD_LUNTHIR;Lunthir;Lunthir;Lunthir;Lunthir;;;;;;;;;x
+GOD_MAGELLAN;Magellan;Magellan;Magellan;Magellan;;;;;;;;;x
+GOD_NETHUNIR;Nethunir;Nethunir;Nethunir;Nethunir;;;;;;;;;x
+GOD_PONCE_DE_LEON;Ponce de Leon;Ponce de Leon;Ponce de Leon;Ponce de Leon;;;;;;;;;x
+GOD_PONCE_DE_LEON;Ponce de León;Ponce de León;Ponce de León;Ponce de León;;;;;;;;;x
+GOD_SUNNA;Sunna;Sunna;Sunna;Sunna;;;;;;;;;x
+GOD_THE_ETERNAL_SWAMP;The Eternal Sun;The Eternal Sun;The Eternal Sun;The Eternal Sun;;;;;;;;;x
+GOD_THE_GLADES;The Glades;The Glades;The Glades;The Glades;;;;;;;;;x
+GOD_THE_GREAT_GATOR;The Great Gator;The Great Gator;The Great Gator;The Great Gator;;;;;;;;;x
+GOD_THE_SEAS;The Seas;The Seas;The Seas;The Seas;;;;;;;;;x
+GOD_THE_SWAMPS;The Swamps;The Swamps;The Swamps;The Swamps;;;;;;;;;x
+GOD_URSA;Ursa;Ursa;Ursa;Ursa;;;;;;;;;x
+GOD_WEDEN;Weden;Weden;Weden;Weden;;;;;;;;;x
+GRAND_ORACLE;Grand Oracle;Grand Oracle;Grand Oracle;Grand Oracle;;;;;;;;;x
+caimano_reformed_DESC;The Caimano Faith, reformed under the wise guidance of the Council of St. Augustine, has codified and organized the faith around five High Oracles and one Grand Oracle, residing in St. Augustine. Now, the worship of the twelve Caimans is highly ritualized and the term Caimano has found widespread acceptance, even by other faiths..;;;;;;;;;x
+PRIEST_caimano;Oracle;Oracle;Oracle;Oracle;;;;;;;;;x
+realm_temple_baron_caimano_reformeds;Oracle;Oracle;Oracle;Oracle;;;;;;;;;x
+realm_temple_baron_caimanos;Oracle;Oracle;Oracle;Oracle;;;;;;;;;x
+ROUGH_WATERS;Rough Waters;Rough Waters;Rough Waters;Rough Waters;;;;;;;;;x
+temple_baron_caimano;Oracle;Oracle;Oracle;Oracle;;;;;;;;;x
+temple_barony_caimano;Seerse;Seerse;Seerse;Seerse;;;;;;;;;x
+temple_barony_of_caimano;Seerse of;;;;;;;;;;;;;x
+temple_count_caimano;High Oracle;;;;;;;;;;;;;x
+temple_county_caimano;High Seerse;;;;;;;;;;;;;x
+temple_county_of_caimano;High Seerse of;;;;;;;;;;;;;x
+temple_duke_caimano;Grand Seer;;;;;;;;;;;;;x
+temple_duchy_caimano;Grand Seerse;;;;;;;;;;;;;x
+temple_duchy_of_caimano;Grand Seerse of;;;;;;;;;;;;;x
+temple_king_caimano;All-Seer;;;;;;;;;;;;;x
+temple_kingdom_caimano;All-Seerse;;;;;;;;;;;;;x
+temple_kingdom_of_caimano;All-Seerse of;;;;;;;;;;;;;x
+########################  Voodoo and Totemist Heresies [Totemist taken care of in original loz##################################
+american_spiritual_pagan;Spiritual;;;;;;;;;;;x
+american_spiritual_pagan_reformed;Spiritual;;;;;;;;;;;x
+american_spiritual_pagan_DESC;The Spiritual Native American religions shun the usage of totem polls, saying that they are distractions from the true gods, instead relying mainly on oral tales to pass down the legends.;;;;;;;;;;;x
+american_spiritual_pagan_reformed_DESC;Reformed Spiritualism has a organized set of beliefs and a holy book of their own.;;;;;;;;;;;x
+american_spiritual;Spiritual High Church;;;;;;;;;;;x
+american_spiritual_adj;Spiritualist;;;;;;;;;;;x
+american_totemist_pagan;Totemist;;;;;;;;;;;x
+american_totemist_pagan_reformed;Totemist;;;;;;;;;;;x
+american_totemist_pagan_DESC;The Native American religion is shattered and diverse. Every tribes history is written on their own totem pole represented by different types of animals and creatures.;;;;;;;;;;;x
+d_american_totemist;Totemist High Church;;;;;;;;;;;x
+d_american_totemist_adj;Totemist;;;;;;;;;;;x
+american_totemist_pagan_reformed_DESC;Reformed Totemism has a organized set of beliefs and a holy book of their own.;;;;;;;;;;;x
+
+voodoo;Voodoo;;;;;;;;;;x
+voodoo_DESC;The Voodoo or Vodoun faith is a Pagan religion practised by Caribbean peoples. The religion varies between the many islands, but is a rather organized religion compared to other Pagan faiths. ;;;;;;;;;;x
+##############################Other Christian ####################################################
+anglican;Anglican;;;;;;;;;;X
+anglican_DESC;Anglicanism is the religion of England and Wales. It is a reformed religion like Calvinism and Lutheranism, founded as a protest against the Catholic 
+baptist_DESC;The Baptist church is the Christian branch of the South. It sprode along the East-Coast  during the early 21st-century, and is really popular amongst the people around the Mississippi as well.;;;;;;;;;;;;;x
+baptist;Baptist;;;;;;;;;;;;;x
+calvinist;Calvinist;;;;;;;;;;X
+calvinist_DESC;Calvinism is a branch of Protestantism found and named by a French theologian Jean Calvin in the 16th century. It represents the whole Reformed church in game, and covers Holland, Scotland and Switzerland.;;;;;;;;;;X
+lutheran;Lutheran;;;;;;;;;;X
+lutheran_DESC;Lutheranis was found by Martin Luther, a man who opposed the corruption of the Catholic church in early 15th century. His original goal was to not divide, but reform the church to the older and more traditional ways. This, however, failed and gave birth to various Protestant churches.;;;;;;;;;;X
+methodist_DESC;Methodism started of as an sect in the Anglica church, but later on it became a Baptist heresy. It was found by an English cleric John Wesley.;;;;;;;;;;;;x
+methodist;Methodist;;;;;;;;;;;;x
+mormon;Mormon;;;;;;;;;;;;;x
+mormon_DESC;Mormonism is a sect in Christianity that formerly resided in the Rocky Mountains.;;;;;;;;;;;;;x
+############### CULTURES #########################################################################
+latin_american;Latin American;;;;;;;;;;;;;x
+mexican;Mexican;;;;;;;;;;;;;x
+americo_hispanic;Americano;;;;;;;;;;;;;x
+
+caribbean;Caribbean;;;;;;;;;;x
+cubano;Cubano;;;;;;;;;;x
+hispaniolan;Hispaniolan;;;;;;;;;;x
+antillais;Antillais;;;;;;;;;;x
+
+deepsouth;Dixie;;;;;;;;;;;;;x
+new_orleanser;New Orleanser;;;;;;;;;;;;;x
+louisianan;Louisianan;;;;;;;;;;;x
+dixie;Dixie;;;;;;;;;;;;;x
+texan;Texan;;;;;;;;;;;x
+
+afro-american;Afro-American;;;;;;;;;;;;x
+southerner;Southerner;;;;;;;;;;;;x
+
+floridian;Floridian;;;;;;;;;;;;x
+tallahassean;Tallahassean;;;;;;;;;;;;x
+jacksonvillean;Jacksonvillean;;;;;;;;;;x
+tampanian;Tampanian;;;;;;;;;;;;;x
+miamimen;Miamimen;;;;;;;;;;;;;x
+orlandoan;Orlandoan;;;;;;;;;;;;;x
+
+native;Native;;;;;;;;;;;;;x
+calusa;Calusan;;;;;;;;;;;;;x
+
+
+################## Religions ###########################
+reform;Reformed;;;;;;;;;;;;;x
+reform_desc;Reformed Judaism is a form of Judaism, initiated in Germany by the philosopher Moses Mendelssohn, that has reformed or abandoned aspects of Orthodox Jewish worship and ritual in an attempt to adapt to modern changes in social, political, and cultural life.;;;;;;;;;;;;;x
+
+#############  Famous Dynasty Descriptions #######################3
+
+DYN1_DESC;With a score of $SCORE$ you$FAILED$ beat House Castro, which formerly ruled over a united Cuba for many generatons.;;;;;;;;;;;;;x
+DYN2_DESC;With a score of $SCORE$ you$FAILED$ beat House Landrieu, a family that has produced numerous mayors, senators, and even governors from the Louisianna region.;;;;;;;;;;;;;x
+DYN3_DESC;With a score of $SCORE$ you$FAILED$ beat House Scott, an astoundingly rich family that once layed claim to all of Florida as a result of their holdings on the governorship.;;;;;;;;;;;;;x
+DYN4_DESC;With a score of $SCORE$ you$FAILED$ beat House Ros-Lehtinen, a politician from the Everglades known for her dogged persistance in increasingly difficult elections.;;;;;;;;;;;;;x
+DYN5_DESC;With a score of $SCORE$ you$FAILED$ beat House Poe, which once ruled over all Gainesville.;;;;;;;;;;;;;x
+DYN6_DESC;With a score of $SCORE$ you$FAILED$ beat House Cruz.  Originally from the distant lands of Canada, House Cruz reigned over all Texas, and at one point had designs on the entire united states.;;;;;;;;;;;;;x
+DYN7_DESC;With a score of $SCORE$ you$FAILED$ beat House Vives, the original settlers of the Isle of Youth.  Though their lifespans were as ours, they found a way to live forever - in the memory of history.;;;;;;;;;;;;;x
+DYN8_DESC;With a score of $SCORE$ you$FAILED$ beat House Tarrazo, which at one point hosted the King of the Yucatan.;;;;;;;;;;;;;x
+DYN9_DESC;With a score of $SCORE$ you$FAILED$ beat House Dyer, mayors of Orlando in the early 21st century.;;;;;;;;;;;;;x
+DYN10_DESC;With a score of $SCORE$ you$FAILED$ beat House Hood, another family that sired mayors of Orlando in the early 21st century.;;;;;;;;;;;;;x
+DYN11_DESC;With a score of $SCORE$ you$FAILED$ beat House Dosal, rulers of Merida.;;;;;;;;;;;;;x
+DYN12_DESC;With a score of $SCORE$ you$FAILED$ beat House Latimer, mayors of Tampa.;;;;;;;;;;;;;x
+DYN13_DESC;With a score of $SCORE$ you$FAILED$ beat House Shaver, the true mayors of Jacksonville.;;;;;;;;;;;;;x
+DYN14_DESC;With a score of $SCORE$ you$FAILED$ beat House Caalus, which once ruled over the - now greatly reduced - Calusa tribesmen.;;;;;;;;;;;;;x
+DYN15_DESC;With a score of $SCORE$ you$FAILED$ beat House Barnett, mayors of Naples.;;;;;;;;;;;;;x
+
+
+
+########### Selectable Characters ########################################3
+
+ERA_CHAR_NAME_4000265;Clark Landrieu;;;;;;;;;;;;;x
+ERA_CHAR_INFO_4000265;Surrounded on most sides by infidels and with disgrunted vassals due to culture differences, the Kingdom of Louisanna needs strong leadership.  Can the last of the famous Landrieu line placate the heathen vassal and subjugate the aggressive neighbors, and even then, who can withstand the Christian and Native onslaughts?;;;;;;;;;;;;;x
+
+ERA_CHAR_NAME_4007370;Virginia Russell;;;;;;;;;;;;;x
+ERA_CHAR_INFO_4007370;Located in the best approximation in Florida's version of the HRE, Count Russell is surrounded by numerous other counts, each vying for dominance.  Some will succeed, but far more will be picked off by their hostile neighbors or the growing realms of Gainesville and the Tampa Kingdoms.;;;;;;;;;;;;;x
+
+ERA_CHAR_NAME_4001020;Caldwal Begaye;;;;;;;;;;;;;x
+ERA_CHAR_INFO_4001020;As a Spiritualist surrounded by those who are not, Caldwal will face constant threats from the surrounding baptists and the Pious lands of the Americanists.  However, Caldwal is a bright individual, and well-trained in the ways of war.  Will it be enough?;;;;;;;;;;;;;x
+
+ERA_CHAR_NAME_4005490;Maximo Castro;;;;;;;;;;;;;x
+ERA_CHAR_INFO_4005490;Ruler of a tribal Kingdom centered on Havana, Maximo may yet struggle to repair the kingdom of his forefathers.  Surrounded by atheists from the Isle of Youth and atomicists, can the last dominions of the Castros create a baston of Catholicism before it's too late?;;;;;;;;;;;;;x
+
+ERA_CHAR_NAME_4007470;Santino Tarrazo;;;;;;;;;;;;;x
+ERA_CHAR_INFO_4007470;As the weak Emperor of the Yucatan, can Tarrazo fight off the neighboring Catholics, restore the full borders of the Empire, and proclaim himself to be the Living God, the Uahomche savior of the world?  Or will his empire fall to the heathens both within and without?;;;;;;;;;;;;;x
+
+BM_NEW_WORLD;The Florida Men;;;;;;;;;;;;x
+BM_NEW_WORLD_INFO;The enterprising Dukes and upright Kings rebuild, and the tribes of the Everglades and Voodoomen of Louisianna rise in conquest once more.  The greedy mayors and holy priests bemoan the rise of the irreligious - while the Baptist-Catholic conflict heats to a boil.  The pines whisper, and the world awaits the one to be called ... Florida Man.;;;;;;;;;;;;x
+
+################## Knights of Santa Maria #########################
+EVTNAME39102;The Teutonic Order;L'Ordre teutonique;Der Deutsche Orden;;La Orden Teutónica;;;;;;;;;x
+#EVTDESC39102;The Order of Brothers of the Floridian House of Saint Mary in Carnestown has been formed, sponsored by [ThePope.GetTitledFirstName] and the good Catholic rulers. The Teutonic Order, much like the Knights of St. John and the Knights Templar, primarily protect and care for pilgrims to the Holy Land, but will serve any good Catholic ruler willing to pay for their upkeep. Being a religious order, they will not fight other Catholics.;;Unterstützt von [ThePope.GetTitledFirstName] und dem Heiligen Römischen Kaiser wurde der Orden der Brüder vom Deutschen Haus Sankt Mariens in Jerusalem gegründet. Wie die Johanniter und die Tempelritter bieten auch die Ritter des Deutschen Ordens hauptsächlich Pilgern im Heiligen Land Schutz und Pflege. Generell aber dienen sie jedem rechtschaffenen katholischen Herrscher, der für ihren Unterhalt aufkommt. Als religiöser Orden kämpfen sie nicht gegen katholische Glaubensbrüder.;;Se ha creado la Orden de los Caballeros Teutónicos del Hospital de Santa María de Jerusalén, auspiciada por [ThePope.GetTitledFirstName] y el Sacro Emperador Romano. La principal tarea de dicha Orden, igual que en el caso de los Caballeros de San Juan y los Templarios, es proteger a los peregrinos a Tierra Santa, pero servirán a cualquier buen gobernante católico dispuesto a pagar su mantenimiento. Al ser una Orden religiosa, no lucharán contra otros católicos.;;;;;;;;;x
+EVTOPTA39102;The infidels will fall.;;;;;;;;;x
+EVTOPTB39102;The infidels come in many flavors;Il existe toutes sortes d'infidèles.;Die Ungläubigen sind gar vielfältiger Natur;;Los infieles tienen muchos sabores;;;;;;;;;x
+
+EVTDESC39100;The Kingdoms of the North are lost.  With the loss of the Tallahassee and Gainesville kingdoms - Christianity's greatest defense against the voodoomen and home to the breadbasket of Florida, the dire situation has convinced His Holiness to issue a decree confirming the formation of a new religious military order - the Knights of Santa Maria. The Knights, who have already protected and cared for sick pilgrims in Cuba for some time, now have the full weight of the [Root.Religion.GetName] Church behind them. Pious [Root.Religion.GetName] rulers may call on their support in wars against heretics and heathens, but they will not fight those of their own faith.;;;;;;;;;x
+EVTNAME39100;The Knights of Santa Maria;Les Chevaliers de Saint Jean;Die Ritter des Johanniterordens;;Los Caballeros de San Juan;;;;;;;;;x
+d_knights_hospitaler;Knights of Santa Maria;;;;;;;;;x
+EVTDESC39100_CABANAS;The baston of Catholicism in the South.  With the loss of Canabas to the infidels, Christianity recoils at the thought of possbile destruction at the hands of the vile atheists.  The dire situation has convinced His Holiness to issue a decree confirming the formation of a new religious military order - the Knights of Santa Maria. The Knights, who have already protected and cared for sick pilgrims in Cuba for some time, now have the full weight of the [Root.Religion.GetName] Church behind them. Pious [Root.Religion.GetName] rulers may call on their support in wars against heretics and heathens, but they will not fight those of their own faith.;;;;;;;;;x
+EVTDESC39100_Saint_Augustine;The fall of Saint Augustine, one of Florida's oldest Christian lands has shaken the pope to the very core.  The dire situation has convinced His Holiness to issue a decree confirming the formation of a new religious military order - the Knights of Santa Maria. The Knights, who have already protected and cared for sick pilgrims in Cuba for some time, now have the full weight of the [Root.Religion.GetName] Church behind them. Pious [Root.Religion.GetName] rulers may call on their support in wars against heretics and heathens, but they will not fight those of their own faith.;;;;;;;;;x
+EVTDESC39100_HOMESTEAD;Homestead has fallen.  With the loss of the Miami region - Christianity's firm defense against the Carribbean and home to some of its most valuable lands, the dire situation has convinced His Holiness to issue a decree confirming the formation of a new religious military order - the Knights of Santa Maria. The Knights, who have already protected and cared for sick pilgrims in Cuba for some time, now have the full weight of the [Root.Religion.GetName] Church behind them. Pious [Root.Religion.GetName] rulers may call on their support in wars against heretics and heathens, but they will not fight those of their own faith.;;;;;;;;;x
+
+######### Cultural Buildings ####################3####
+ca_culture_mexican_1;Tequihua Workshop;;;;;;;;;x
+ca_culture_mexican_2;Tequihua Camp;;;;;;;;;x
+ca_culture_mexican_3;Tequihua Training Grounds;;;;;;;;;x
+ca_culture_mexican_4;Tequihua Barracks;;;;;;;;;x
+ca_culture_mexican_1_desc;The Mexican archers - refered to as Tequihua in the local language - are legendary for their fights against other Mexican tribes.;;;;;;;;;x
+
+ca_culture_tallahassean_1;Pikemen Workshop;;;;;;;;;x
+ca_culture_tallahassean_2;Pikemen Camp;;;;;;;;;x
+ca_culture_tallahassean_3;Pikemen Training Grounds;;;;;;;;;x
+ca_culture_tallahassean_4;Pikemen Barracks;;;;;;;;;x
+ca_culture_tallahassean_1_desc;The Tallahassee Pikemen are trained to present an impenetrable wall of steel to enemy cavalry and infantry.;;;;;;;;;x
+
+ca_culture_group_southerner_1;Heavy Infanty Workshop;;;;;;;;;x
+ca_culture_group_southerner_2;Heavy Infanty Camp;;;;;;;;;x
+ca_culture_group_southerner_3;Heavy Infanty Training Grounds;;;;;;;;;x
+ca_culture_group_southerner_4;Heavy Infanty Barracks;;;;;;;;;x
+ca_culture_group_southerner_1_desc;This is where the strongest and bravest of the Southern heavy infantry are trained.;;;;;;;;;x
+
+ca_culture_dixie_louisianan_jacksonvillean_1;Knights Workshop;;;;;;;;;x
+ca_culture_dixie_louisianan_jacksonvillean_2;Knights Camp;;;;;;;;;x
+ca_culture_dixie_louisianan_jacksonvillean_3;Knights Training Grounds;;;;;;;;;x
+ca_culture_dixie_louisianan_jacksonvillean_4;Knights Barracks;;;;;;;;;x
+ca_culture_dixie_louisianan_jacksonvillean_1_desc;Here the knights of the Floridian North face off against each other in jousting tournaments and other chivalrous competitions.;;;;;;;;;x
+
+ca_culture_texan_calusa_1;Light Calvary Workshop;;;;;;;;;x
+ca_culture_texan_calusa_2;Light Calvary Camp;;;;;;;;;x
+ca_culture_texan_calusa_3;Light Calvary Training Grounds;;;;;;;;;x
+ca_culture_texan_calusa_4;Light Calvary Barracks;;;;;;;;;x
+ca_culture_texan_calusa_1_desc;The agile light cavalry of the Calusa and Texan kingdoms are raised here. These horsemen are skilled in skirmishing and harassment.;;;;;;;;;x
+
+ca_culture_new_orleanser_miamimen_tampanian_orlandoan_1;Light Infantry Workshop;;;;;;;;;x
+ca_culture_new_orleanser_miamimen_tampanian_orlandoan_2;Light Infantry Camp;;;;;;;;;x
+ca_culture_new_orleanser_miamimen_tampanian_orlandoan_3;Light Infantry Training Grounds;;;;;;;;;x
+ca_culture_new_orleanser_miamimen_tampanian_orlandoan_4;Light Infantry Barracks;;;;;;;;;x
+ca_culture_new_orleanser_miamimen_tampanian_orlandoan_1_desc;The adapt light infantry trained here are pulled from the strongest and most capable subjects.;;;;;;;;;x
+
+ca_culture_americo_hispanic_cubano_1;Free Warrior Workshop;;;;;;;;;x
+ca_culture_americo_hispanic_cubano_2;Free Warrior Camp;;;;;;;;;x
+ca_culture_americo_hispanic_cubano_3;Free Warrior Training Grounds;;;;;;;;;x
+ca_culture_americo_hispanic_cubano_4;Free Warrior Barracks;;;;;;;;;x
+ca_culture_americo_hispanic_cubano_1_desc;The free warriors from proper hispanic society are treated far better than regular peasants, and their skill shows from it.;;;;;;;;;x
+
+ca_culture_hispaniolan_antillais_1;Island Fighter Workshop;;;;;;;;;x
+ca_culture_hispaniolan_antillais_2;Island Fighter Camp;;;;;;;;;x
+ca_culture_hispaniolan_antillais_3;Island Fighter Training Grounds;;;;;;;;;x
+ca_culture_hispaniolan_antillais_4;Island Fighter Barracks;;;;;;;;;x
+ca_culture_hispaniolan_antillais_1_desc;The harsh conditions of the open sea life create an ideal climate for powerful heavy infantry to smash through weaker defenses.;;;;;;;;;x
+
+##############  Pagan Reformation ############################
+EVTDESC670_FL;The ancient [Root.Religion.GetName] religion is proving unable to withstand the onslaught of the Cross and the Void. Rather than abandoning the old ways, [Root.GetTitledName] and the most powerful priests have decided to reform the [Root.Religion.GetName] faith. With codified rites, a holy scripture and a strict church hierarchy under a single leader, they hope that the reformed [Root.Religion.GetName] faith is better armed to fight back against the weak and effeminate foreign beliefs!;L'ancienne religion [Root.Religion.GetName] n'est pas à même de résister à l'assaut de la Croix et de la Lune. Plutôt que d'abandonner leur ancienne foi, [Root.Get_le_Title][Root.GetTitledName], ainsi que les plus puissants prêtres, ont décidé de la réformer. Grâce à des rites codifiés, à des textes sacrés et à une hiérarchie religieuse sous un seul chef, ils espèrent que la foi [Root.Religion.GetName] réformée est ainsi mieux armée pour repousser les croyances étrangères faibles et efféminées ! ;Die altertümliche [Root.Religion.GetName]e Religion kann dem Ansturm des Kreuzes und des Mondes nichts entgegensetzen. Doch statt die alten Pfade zu verlassen, haben sich [Root.GetTitledName] und die mächtigsten Priester dazu entschlossen, den [Root.Religion.GetName]en Glauben zu reformieren. Mit kodifizierten Riten, einer heiligen Schrift und einer strikten Kirchenhierarchie unter einem einzelnen Oberhaupt hoffen sie, dass der reformierte [Root.Religion.GetName]e Glaube besser gegen die schwachen und infamen, fremden Ansichten bestehen kann!;;La antigua religión [Root.Religion.GetName] está demostrando ser incapaz de resistir la arremetida de la Cruz y de la Luna. En lugar de abandonar las viejas costumbres, [Root.GetTitledName] y los más poderosos sacerdotes han decidido reformar la fe [Root.Religion.GetName]. Con ritos codificados, una escritura sagrada y una jerarquía estricta en la iglesia bajo un solo líder, esperan que la fe [Root.Religion.GetName] reformada esté mejor armada para luchar contra las creencias extranjeras débiles y afeminadas!;;;;;;;;;x
+EVIL_TOTEMS1;The Evil Spirits;;;;;;;;;x
+EVIL_TOTEMS2;The Vulture;;;;;;;;;x
+
+###############  Florida Man ############################
+EVT_NAME_FLMAN1;The Rise of Florida Man;;;;;;;;;;X
+EVTN_DESC_FLMAN1;A local Florida man has arisen, proclaiming that he knows how to save us from what is about to come.  He warns that the world will soon be again destroyed unless all Floridians follow him and atone for their misdeeds.  Many prophets have come before him, preaching similar doctrines of fated destruction but attracting few followers, but this man is different. This prophet's oratory has given him thousands of followers, who are now spreading their doctrine across Florida by his words and by the sword.;;;;;;;;;;X
+EVT_OPT_A_FLMAN_REVOLT;That's me! Yahoo!;;;;;;;;;;X
+EVT_OPT_B_FLMAN_REVOLT;Do I dare fight the legends?;;;;;;;;;;X
+EVT_OPT_C_FLMAN_REVOLT;Just another lunatic.;;;;;;;;;;X
+EVT_OPT_D_FLMAN_REVOLT;That's what I've been saying!;;;;;;;;;;X
+EVT_OPT_E_FLMAN_REVOLT;His gods will be no match for mine.;;;;;;;;;;X
+d_flman;Florida Man's Dominion;;;;;;;;;;X
+d_flman_adj;Lunatic;;;;;;;;;;X
+FLMAN_REVOLT;Florida Man's Dominion;;;;;;;;;;X
+nick_the_flman;The Florida Man;;;;;;;;;;X
+FLMAN_TITLE;Chief;;;;;;;;;;X
+COMPL_SAYYID_FLMAN;legend;;;;;;;;;;X
+COMPL_SAYYID_FLMAN_ADJ;legendary;;;;;;;;;;X
+sayyid_flman;Descendant of Florida Man;;;;;;;;;;X
+sayyid_flman_desc;This character is either Florida Man himself or descended from him;;;;;;;;;;X
+
+
+################### Saoshyant #######################
+COMPL_LIVING_GOD;The Living God;;;;;;;;;;X 
+become_saoshyant;Become The Living God;;;;;;;;;;X 
+become_saoshyant_desc;If you can drive out the Catholics and enfore Uahomche rule over the entirety of the Yucatan and Uahomche Holy Sites, you may declare yourself to be Uahomche's prophesied Living God – the chosen savior of the world.;;;;;;;;;;;X 
+nick_the_living_god;The Living God;;;;;;;;;;X 
+saoshyant;The Living God;;;;;;;;;;X 
+saoshyant_desc;This character is the The Living God, the promised savior of the world and a holy icon according to the Uahomche belief.;;;;;;;;;;X 
+saoshyant_descendant;The Living God's DescendantThe Living God
+saoshyant_descendant_desc;This character is a descendant of the The Living God, who was the savior of the world according to the Zoroastrian belief.;;;;;;;;;;X 

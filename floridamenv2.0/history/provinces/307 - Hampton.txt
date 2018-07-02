@@ -1,0 +1,8 @@
+# 307 - Hampton
+title = c_hampton
+max_settlements = 4
+culture = dixie
+religion = baptist
+b_hampton_a = castle
+b_hampton_b = city
+b_hampton_c = temple

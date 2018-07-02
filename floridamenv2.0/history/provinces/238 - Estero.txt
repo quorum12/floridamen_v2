@@ -1,0 +1,8 @@
+# 238 - Estero
+title = c_estero
+max_settlements = 3
+culture = venicen
+religion = catholic
+b_estero_a = castle
+b_estero_b = city
+b_estero_c = temple

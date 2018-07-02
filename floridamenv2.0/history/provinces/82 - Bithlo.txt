@@ -1,0 +1,8 @@
+# 82 - Bithlo
+title = c_bithlo
+max_settlements = 3
+culture = orlandoan
+religion = catholic
+b_bithlo_a = castle
+b_bithlo_b = city
+b_bithlo_c = temple

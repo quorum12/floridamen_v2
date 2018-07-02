@@ -1,0 +1,6 @@
+# 439 - Marsh Island
+title = c_marsh_island
+max_settlements = 2
+culture = chitimacha
+religion = american_totemist_pagan
+b_marsh_island_a = tribal

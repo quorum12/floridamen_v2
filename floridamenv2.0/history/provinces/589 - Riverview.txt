@@ -1,0 +1,8 @@
+# 589 - Riverview
+title = c_riverview
+max_settlements = 3
+culture = tampanian
+religion = caimano
+b_riverview_a = castle
+b_riverview_b = city
+b_riverview_c = temple

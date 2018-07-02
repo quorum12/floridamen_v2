@@ -1,0 +1,8 @@
+# 563 - Port Carnaval
+title = c_port_carnaval
+max_settlements = 3
+culture = jacksonvillean
+religion = atomicist
+b_port_carnaval_a = city
+b_port_carnaval_b = temple
+b_port_carnaval_c = castle

@@ -1,0 +1,8 @@
+# 157 - Chelem
+title = c_chelem
+max_settlements = 4
+culture = meridan
+religion = uahomche
+b_chelem_a = castle
+b_chelem_b = city
+b_chelem_c = temple

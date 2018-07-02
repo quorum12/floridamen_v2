@@ -1,0 +1,8 @@
+# 381 - La Panchita
+title = c_la_panchita
+max_settlements = 3
+culture = carahatani
+religion = catholic
+b_la_panchita_a = castle
+b_la_panchita_b = city
+b_la_panchita_c = temple

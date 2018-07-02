@@ -1,0 +1,8 @@
+# 664 - Suwannee Beach
+title = c_suwannee_beach
+max_settlements = 3
+culture = gulfard
+religion = baptist
+b_suwannee_beach_a = castle
+b_suwannee_beach_b = city
+b_suwannee_beach_c = temple

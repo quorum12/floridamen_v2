@@ -1,0 +1,6 @@
+# 268 - Francis S. Taylor Wildlife Area
+title = c_francis_s._taylor_wildlife_area
+max_settlements = 2
+culture = miamimen
+religion = catholic
+b_francis_s._taylor_wildlife_area_a = tribal

@@ -1,0 +1,8 @@
+# 709 - Wacissa
+title = c_wacissa
+max_settlements = 4
+culture = tallahassean
+religion = methodist
+b_wacissa_a = castle
+b_wacissa_b = city
+b_wacissa_c = temple

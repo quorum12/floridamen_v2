@@ -1,0 +1,8 @@
+# 533 - Pensacola Beach
+title = c_pensacola_beach
+max_settlements = 3
+culture = gulfard
+religion = baptist
+b_pensacola_beach_a = castle
+b_pensacola_beach_b = city
+b_pensacola_beach_c = temple

@@ -1,0 +1,8 @@
+# 468 - Naples
+title = c_naples
+max_settlements = 4
+culture = naplesian
+religion = caimano
+b_naples_a = castle
+b_naples_b = city
+b_naples_c = temple

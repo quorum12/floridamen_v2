@@ -1,0 +1,6 @@
+# 554 - Playa Giron
+title = c_playa_giron
+max_settlements = 2
+culture = constancian
+religion = catholic
+b_playa_giron_a = tribal

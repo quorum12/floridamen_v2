@@ -1,0 +1,8 @@
+# 547 - Pittman
+title = c_pittman
+max_settlements = 3
+culture = orlandoan
+religion = catholic
+b_pittman_a = castle
+b_pittman_b = city
+b_pittman_c = temple

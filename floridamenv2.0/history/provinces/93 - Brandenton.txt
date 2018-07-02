@@ -1,0 +1,8 @@
+# 93 - Brandenton
+title = c_brandenton
+max_settlements = 3
+culture = venicen
+religion = caimano
+b_brandenton_a = city
+b_brandenton_b = temple
+b_brandenton_c = castle

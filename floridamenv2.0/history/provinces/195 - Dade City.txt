@@ -1,0 +1,8 @@
+# 195 - Dade City
+title = c_dade_city
+max_settlements = 3
+culture = tampanian
+religion = cathar
+b_dade_city_a = castle
+b_dade_city_b = city
+b_dade_city_c = temple

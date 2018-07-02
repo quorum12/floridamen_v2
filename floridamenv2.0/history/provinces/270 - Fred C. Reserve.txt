@@ -1,0 +1,6 @@
+# 270 - Fred C. Reserve
+title = c_fred_c._reserve
+max_settlements = 2
+culture = naplesian
+religion = baptist
+b_fred_c._reserve_a = tribal

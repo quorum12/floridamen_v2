@@ -1,0 +1,8 @@
+# 96 - Breaux Bridge
+title = c_breaux_bridge
+max_settlements = 3
+culture = louisiannan
+religion = mormon
+b_breaux_bridge_a = castle
+b_breaux_bridge_b = city
+b_breaux_bridge_c = temple

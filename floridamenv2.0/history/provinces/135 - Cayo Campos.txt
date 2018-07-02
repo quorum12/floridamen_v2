@@ -1,0 +1,6 @@
+# 135 - Cayo Campos
+title = c_cayo_campos
+max_settlements = 2
+culture = islander
+religion = none
+b_cayo_campos_a = tribal

@@ -1,0 +1,8 @@
+# 653 - Starke
+title = c_starke
+max_settlements = 3
+culture = jacksonvillean
+religion = americanist
+b_starke_a = castle
+b_starke_b = city
+b_starke_c = temple

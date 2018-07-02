@@ -1,0 +1,8 @@
+# 221 - Edgar
+title = c_edgar
+max_settlements = 3
+culture = dixie
+religion = catholic
+b_edgar_a = castle
+b_edgar_b = city
+b_edgar_c = temple

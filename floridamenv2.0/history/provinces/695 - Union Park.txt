@@ -1,0 +1,8 @@
+# 695 - Union Park
+title = c_union_park
+max_settlements = 3
+culture = americano
+religion = catholic
+b_union_park_a = castle
+b_union_park_b = city
+b_union_park_c = temple

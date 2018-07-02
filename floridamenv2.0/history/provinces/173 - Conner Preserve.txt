@@ -1,0 +1,6 @@
+# 173 - Conner Preserve
+title = c_conner_preserve
+max_settlements = 2
+culture = lakelander
+religion = cathar
+b_conner_preserve_a = tribal

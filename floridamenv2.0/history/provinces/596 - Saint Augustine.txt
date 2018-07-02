@@ -1,0 +1,8 @@
+# 596 - Saint Augustine
+title = c_saint_augustine
+max_settlements = 4
+culture = jacksonvillean
+religion = americanist
+b_saint_augustine_a = temple
+b_saint_augustine_b = castle
+b_saint_augustine_c = city

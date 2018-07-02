@@ -1,0 +1,8 @@
+# 333 - Hudson
+title = c_hudson
+max_settlements = 3
+culture = tampanian
+religion = catholic
+b_hudson_a = castle
+b_hudson_b = city
+b_hudson_c = temple

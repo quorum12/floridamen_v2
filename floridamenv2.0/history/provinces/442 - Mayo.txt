@@ -1,0 +1,8 @@
+# 442 - Mayo
+title = c_mayo
+max_settlements = 3
+culture = dixie
+religion = baptist
+b_mayo_a = castle
+b_mayo_b = city
+b_mayo_c = temple

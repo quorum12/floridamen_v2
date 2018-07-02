@@ -1,0 +1,8 @@
+# 241 - Everglades Alligator Farm
+title = c_everglades_alligator_farm
+max_settlements = 3
+culture = americano
+religion = catholic
+b_everglades_alligator_farm_a = castle
+b_everglades_alligator_farm_b = city
+b_everglades_alligator_farm_c = temple

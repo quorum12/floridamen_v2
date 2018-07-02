@@ -1,0 +1,8 @@
+# 729 - White
+title = c_white
+max_settlements = 4
+culture = beacher
+religion = catholic
+b_white_a = castle
+b_white_b = city
+b_white_c = temple

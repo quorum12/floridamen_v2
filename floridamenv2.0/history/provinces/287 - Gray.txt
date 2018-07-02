@@ -1,0 +1,8 @@
+# 287 - Gray
+title = c_gray
+max_settlements = 4
+culture = chitimacha
+religion = american_totemist_pagan
+b_gray_a = castle
+b_gray_b = city
+b_gray_c = temple

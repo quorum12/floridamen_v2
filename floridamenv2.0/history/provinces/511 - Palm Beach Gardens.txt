@@ -1,0 +1,8 @@
+# 511 - Palm Beach Gardens
+title = c_palm_beach_gardens
+max_settlements = 3
+culture = miamimen
+religion = brethren
+b_palm_beach_gardens_a = castle
+b_palm_beach_gardens_b = city
+b_palm_beach_gardens_c = temple

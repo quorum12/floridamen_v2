@@ -1,0 +1,8 @@
+# 169 - Coba
+title = c_coba
+max_settlements = 4
+culture = cancuni
+religion = catholic
+b_coba_a = castle
+b_coba_b = city
+b_coba_c = temple

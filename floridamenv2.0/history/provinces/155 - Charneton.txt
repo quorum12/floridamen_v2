@@ -1,0 +1,8 @@
+# 155 - Charneton
+title = c_charneton
+max_settlements = 3
+culture = louisiannan
+religion = catholic
+b_charneton_a = castle
+b_charneton_b = city
+b_charneton_c = temple

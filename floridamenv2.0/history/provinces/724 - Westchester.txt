@@ -1,0 +1,8 @@
+# 724 - Westchester
+title = c_westchester
+max_settlements = 3
+culture = miamimen
+religion = reform
+b_westchester_a = city
+b_westchester_b = castle
+b_westchester_c = temple

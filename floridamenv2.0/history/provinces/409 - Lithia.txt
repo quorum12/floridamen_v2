@@ -1,0 +1,8 @@
+# 409 - Lithia
+title = c_lithia
+max_settlements = 4
+culture = tampanian
+religion = catholic
+b_lithia_a = castle
+b_lithia_b = city
+b_lithia_c = temple

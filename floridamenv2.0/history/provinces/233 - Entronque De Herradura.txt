@@ -1,0 +1,8 @@
+# 233 - Entronque De Herradura
+title = c_entronque_de_herradura
+max_settlements = 3
+culture = cubano
+religion = catholic
+b_entronque_de_herradura_a = castle
+b_entronque_de_herradura_b = city
+b_entronque_de_herradura_c = temple

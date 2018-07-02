@@ -1,0 +1,8 @@
+# 663 - Surgidero De Batabano
+title = c_surgidero_de_batabano
+max_settlements = 3
+culture = havanan
+religion = atomicist
+b_surgidero_de_batabano_a = castle
+b_surgidero_de_batabano_b = city
+b_surgidero_de_batabano_c = temple

@@ -1,0 +1,8 @@
+# 178 - Coral Springs
+title = c_coral_springs
+max_settlements = 3
+culture = miamimen
+religion = reform
+b_coral_springs_a = castle
+b_coral_springs_b = city
+b_coral_springs_c = temple

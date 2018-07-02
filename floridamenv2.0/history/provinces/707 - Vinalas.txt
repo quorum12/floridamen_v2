@@ -1,0 +1,8 @@
+# 707 - Vinalas
+title = c_vinalas
+max_settlements = 3
+culture = mantuan
+religion = atomicist
+b_vinalas_a = castle
+b_vinalas_b = city
+b_vinalas_c = temple

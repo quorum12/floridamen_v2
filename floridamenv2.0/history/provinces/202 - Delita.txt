@@ -1,0 +1,6 @@
+# 202 - Delita
+title = c_delita
+max_settlements = 4
+culture = juventudan
+religion = none
+b_delita_a = tribal

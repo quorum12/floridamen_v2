@@ -1,0 +1,8 @@
+# 717 - West Melbourne
+title = c_west_melbourne
+max_settlements = 3
+culture = beacher
+religion = catholic
+b_west_melbourne_a = castle
+b_west_melbourne_b = city
+b_west_melbourne_c = temple

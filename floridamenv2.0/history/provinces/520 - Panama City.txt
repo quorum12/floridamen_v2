@@ -1,0 +1,8 @@
+# 520 - Panama City
+title = c_panama_city
+max_settlements = 3
+culture = pensacolan
+religion = baptist
+b_panama_city_a = castle
+b_panama_city_b = city
+b_panama_city_c = temple

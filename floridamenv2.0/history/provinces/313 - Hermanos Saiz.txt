@@ -1,0 +1,8 @@
+# 313 - Hermanos Saiz
+title = c_hermanos_saiz
+max_settlements = 3
+culture = cubano
+religion = catholic
+b_hermanos_saiz_a = castle
+b_hermanos_saiz_b = city
+b_hermanos_saiz_c = temple

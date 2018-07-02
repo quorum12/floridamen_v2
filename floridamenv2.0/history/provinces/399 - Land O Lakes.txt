@@ -1,0 +1,8 @@
+# 399 - Land O Lakes
+title = c_land_o_lakes
+max_settlements = 3
+culture = tampanian
+religion = cathar
+b_land_o_lakes_a = castle
+b_land_o_lakes_b = city
+b_land_o_lakes_c = temple

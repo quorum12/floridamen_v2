@@ -1,0 +1,8 @@
+# 400 - Laplace
+title = c_laplace
+max_settlements = 4
+culture = new_orleanser
+religion = voodoo
+b_laplace_a = castle
+b_laplace_b = city
+b_laplace_c = temple

@@ -1,0 +1,8 @@
+# 715 - Werisdale
+title = c_werisdale
+max_settlements = 3
+culture = lakelander
+religion = catholic
+b_werisdale_a = castle
+b_werisdale_b = city
+b_werisdale_c = temple

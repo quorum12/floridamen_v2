@@ -1,0 +1,8 @@
+# 680 - Tiado
+title = c_tiado
+max_settlements = 3
+culture = gulfard
+religion = baptist
+b_tiado_a = castle
+b_tiado_b = city
+b_tiado_c = temple

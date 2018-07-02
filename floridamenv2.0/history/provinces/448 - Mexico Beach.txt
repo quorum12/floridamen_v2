@@ -1,0 +1,8 @@
+# 448 - Mexico Beach
+title = c_mexico_beach
+max_settlements = 3
+culture = gulfard
+religion = baptist
+b_mexico_beach_a = castle
+b_mexico_beach_b = city
+b_mexico_beach_c = temple

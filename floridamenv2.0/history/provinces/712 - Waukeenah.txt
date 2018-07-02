@@ -1,0 +1,8 @@
+# 712 - Waukeenah
+title = c_waukeenah
+max_settlements = 3
+culture = dixie
+religion = methodist
+b_waukeenah_a = castle
+b_waukeenah_b = city
+b_waukeenah_c = temple

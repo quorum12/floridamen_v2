@@ -1,0 +1,8 @@
+# 69 - Bay St. Louis
+title = c_bay_st._louis
+max_settlements = 3
+culture = biloxi
+religion = american_totemist_pagan
+b_bay_st._louis_a = castle
+b_bay_st._louis_b = city
+b_bay_st._louis_c = temple

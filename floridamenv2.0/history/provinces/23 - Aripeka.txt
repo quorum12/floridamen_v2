@@ -1,0 +1,8 @@
+# 23 - Aripeka
+title = c_aripeka
+max_settlements = 3
+culture = tampanian
+religion = catholic
+b_aripeka_a = castle
+b_aripeka_b = city
+b_aripeka_c = temple

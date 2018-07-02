@@ -1,0 +1,8 @@
+# 597 - Saint George
+title = c_saint_george
+max_settlements = 3
+culture = seminole
+religion = american_spiritual_pagan
+b_saint_george_a = temple
+b_saint_george_b = castle
+b_saint_george_c = city

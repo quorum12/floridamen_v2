@@ -1,0 +1,8 @@
+# 165 - Citrus Hills
+title = c_citrus_hills
+max_settlements = 4
+culture = lakelander
+religion = catholic
+b_citrus_hills_a = castle
+b_citrus_hills_b = city
+b_citrus_hills_c = temple

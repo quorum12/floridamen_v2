@@ -1,0 +1,8 @@
+# 87 - Bon Secour
+title = c_bon_secour
+max_settlements = 4
+culture = biloxi
+religion = american_totemist_pagan
+b_bon_secour_a = castle
+b_bon_secour_b = city
+b_bon_secour_c = temple

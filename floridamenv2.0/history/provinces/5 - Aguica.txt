@@ -1,0 +1,8 @@
+# 5 - Aguica
+title = c_aguica
+max_settlements = 3
+culture = constancian
+religion = none
+b_aguica_a = castle
+b_aguica_b = city
+b_aguica_c = temple

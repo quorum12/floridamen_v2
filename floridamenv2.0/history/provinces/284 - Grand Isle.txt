@@ -1,0 +1,8 @@
+# 284 - Grand Isle
+title = c_grand_isle
+max_settlements = 3
+culture = new_orleanser
+religion = voodoo
+b_grand_isle_a = castle
+b_grand_isle_b = city
+b_grand_isle_c = temple

@@ -1,0 +1,8 @@
+# 98 - Broad Branch
+title = c_broad_branch
+max_settlements = 3
+culture = tallahassean
+religion = baptist
+b_broad_branch_a = castle
+b_broad_branch_b = city
+b_broad_branch_c = temple

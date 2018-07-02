@@ -1,0 +1,8 @@
+# 699 - Varno
+title = c_varno
+max_settlements = 3
+culture = venicen
+religion = caimano
+b_varno_a = city
+b_varno_b = temple
+b_varno_c = castle

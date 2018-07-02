@@ -1,0 +1,8 @@
+# 463 - Mt Dora
+title = c_mt_dora
+max_settlements = 3
+culture = tallahassean
+religion = baptist
+b_mt_dora_a = castle
+b_mt_dora_b = city
+b_mt_dora_c = temple

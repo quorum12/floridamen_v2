@@ -1,0 +1,8 @@
+# 110 - Calimete
+title = c_calimete
+max_settlements = 3
+culture = constancian
+religion = catholic
+b_calimete_a = castle
+b_calimete_b = city
+b_calimete_c = temple

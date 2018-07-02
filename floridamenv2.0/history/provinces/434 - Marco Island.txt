@@ -1,0 +1,6 @@
+# 434 - Marco Island
+title = c_marco_island
+max_settlements = 2
+culture = naplesian
+religion = catholic
+b_marco_island_a = tribal

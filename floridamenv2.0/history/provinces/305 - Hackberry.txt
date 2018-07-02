@@ -1,0 +1,8 @@
+# 305 - Hackberry
+title = c_hackberry
+max_settlements = 3
+culture = texan
+religion = catholic
+b_hackberry_a = castle
+b_hackberry_b = city
+b_hackberry_c = temple

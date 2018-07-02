@@ -1,0 +1,8 @@
+# 213 - Dunnellon
+title = c_dunnellon
+max_settlements = 3
+culture = ocale
+religion = catholic
+b_dunnellon_a = castle
+b_dunnellon_b = city
+b_dunnellon_c = temple

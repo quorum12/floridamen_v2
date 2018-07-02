@@ -1,0 +1,8 @@
+# 147 - Ceiba Mocha
+title = c_ceiba_mocha
+max_settlements = 3
+culture = matzanazi
+religion = catholic
+b_ceiba_mocha_a = castle
+b_ceiba_mocha_b = city
+b_ceiba_mocha_c = temple

@@ -1,0 +1,8 @@
+# 398 - Lanark
+title = c_lanark
+max_settlements = 3
+culture = tallahassean
+religion = methodist
+b_lanark_a = castle
+b_lanark_b = city
+b_lanark_c = temple

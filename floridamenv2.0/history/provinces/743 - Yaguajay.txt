@@ -1,0 +1,8 @@
+# 743 - Yaguajay
+title = c_yaguajay
+max_settlements = 4
+culture = carahatani
+religion = none
+b_yaguajay_a = castle
+b_yaguajay_b = city
+b_yaguajay_c = temple

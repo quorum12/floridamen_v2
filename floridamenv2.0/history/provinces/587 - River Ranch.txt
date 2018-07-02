@@ -1,0 +1,8 @@
+# 587 - River Ranch
+title = c_river_ranch
+max_settlements = 4
+culture = okeechobean
+religion = catholic
+b_river_ranch_a = castle
+b_river_ranch_b = city
+b_river_ranch_c = temple

@@ -1,0 +1,8 @@
+# 355 - Jacksonville Heights
+title = c_jacksonville_heights
+max_settlements = 3
+culture = afroanglo
+religion = baptist
+b_jacksonville_heights_a = castle
+b_jacksonville_heights_b = city
+b_jacksonville_heights_c = temple

@@ -1,0 +1,8 @@
+# 511 - Palm Bay
+title = c_palm_bay
+max_settlements = 3
+culture = beacher
+religion = catholic
+b_palm_bay_a = castle
+b_palm_bay_b = city
+b_palm_bay_c = temple

@@ -1,0 +1,8 @@
+# 637 - South Fort Pierce
+title = c_south_fort_pierce
+max_settlements = 3
+culture = beacher
+religion = catholic
+b_south_fort_pierce_a = castle
+b_south_fort_pierce_b = city
+b_south_fort_pierce_c = temple

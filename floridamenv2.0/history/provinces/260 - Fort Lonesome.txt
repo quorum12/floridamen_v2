@@ -1,0 +1,8 @@
+# 260 - Fort Lonesome
+title = c_fort_lonesome
+max_settlements = 3
+culture = lakelander
+religion = baptist
+b_fort_lonesome_a = castle
+b_fort_lonesome_b = city
+b_fort_lonesome_c = temple

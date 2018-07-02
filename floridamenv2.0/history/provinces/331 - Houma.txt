@@ -1,0 +1,8 @@
+# 331 - Houma
+title = c_houma
+max_settlements = 4
+culture = new_orleanser
+religion = voodoo
+b_houma_a = castle
+b_houma_b = city
+b_houma_c = temple

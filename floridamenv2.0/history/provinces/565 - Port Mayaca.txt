@@ -1,0 +1,8 @@
+# 565 - Port Mayaca
+title = c_port_mayaca
+max_settlements = 3
+culture = okeechobean
+religion = catholic
+b_port_mayaca_a = castle
+b_port_mayaca_b = city
+b_port_mayaca_c = temple

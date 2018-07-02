@@ -1,0 +1,8 @@
+# 624 - Seminole
+title = c_seminole
+max_settlements = 3
+culture = tampanian
+religion = catholic
+b_seminole_a = temple
+b_seminole_b = city
+b_seminole_c = castle

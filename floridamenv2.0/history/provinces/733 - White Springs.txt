@@ -1,0 +1,8 @@
+# 733 - White Springs
+title = c_white_springs
+max_settlements = 3
+culture = afroanglo
+religion = baptist
+b_white_springs_a = castle
+b_white_springs_b = city
+b_white_springs_c = temple

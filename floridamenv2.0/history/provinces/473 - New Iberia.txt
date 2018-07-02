@@ -1,0 +1,8 @@
+# 473 - New Iberia
+title = c_new_iberia
+max_settlements = 3
+culture = afroanglo
+religion = baptist
+b_new_iberia_a = castle
+b_new_iberia_b = city
+b_new_iberia_c = temple

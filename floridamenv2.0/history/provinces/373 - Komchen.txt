@@ -1,0 +1,8 @@
+# 373 - Komchen
+title = c_komchen
+max_settlements = 3
+culture = meridan
+religion = uahomche
+b_komchen_a = castle
+b_komchen_b = city
+b_komchen_c = temple

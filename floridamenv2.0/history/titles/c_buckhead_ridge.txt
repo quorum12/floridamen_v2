@@ -1,0 +1,4 @@
+2140.1.1 = {
+	holder = 4001030
+	liege = d_shawnee
+}

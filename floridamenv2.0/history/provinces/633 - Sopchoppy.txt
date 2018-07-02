@@ -1,0 +1,8 @@
+# 633 - Sopchoppy
+title = c_sopchoppy
+max_settlements = 3
+culture = tallahassean
+religion = baptist
+b_sopchoppy_a = temple
+b_sopchoppy_b = city
+b_sopchoppy_c = castle

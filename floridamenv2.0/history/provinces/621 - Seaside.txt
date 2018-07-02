@@ -1,0 +1,8 @@
+# 621 - Seaside
+title = c_seaside
+max_settlements = 4
+culture = pensacolan
+religion = baptist
+b_seaside_a = castle
+b_seaside_b = city
+b_seaside_c = temple

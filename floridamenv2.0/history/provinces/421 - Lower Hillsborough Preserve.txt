@@ -1,0 +1,6 @@
+# 421 - Lower Hillsborough Preserve
+title = c_lower_hillsborough_preserve
+max_settlements = 2
+culture = lakelander
+religion = cathar
+b_lower_hillsborough_preserve_a = tribal

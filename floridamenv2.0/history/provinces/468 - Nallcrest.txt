@@ -1,0 +1,8 @@
+# 468 - Nallcrest
+title = c_nallcrest
+max_settlements = 3
+culture = okeechobean
+religion = baptist
+b_nallcrest_a = castle
+b_nallcrest_b = city
+b_nallcrest_c = temple

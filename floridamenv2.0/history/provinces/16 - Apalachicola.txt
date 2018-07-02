@@ -1,0 +1,8 @@
+# 16 - Apalachicola
+title = c_apalachicola
+max_settlements = 3
+culture = tallahassean
+religion = baptist
+b_apalachicola_a = temple
+b_apalachicola_b = city
+b_apalachicola_c = castle

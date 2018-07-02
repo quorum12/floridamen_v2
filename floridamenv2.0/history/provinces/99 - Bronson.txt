@@ -1,0 +1,8 @@
+# 99 - Bronson
+title = c_bronson
+max_settlements = 4
+culture = gulfard
+religion = baptist
+b_bronson_a = castle
+b_bronson_b = city
+b_bronson_c = temple

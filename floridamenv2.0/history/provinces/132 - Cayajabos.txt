@@ -1,0 +1,8 @@
+# 132 - Cayajabos
+title = c_cayajabos
+max_settlements = 3
+culture = cubano
+religion = atomicist
+b_cayajabos_a = castle
+b_cayajabos_b = city
+b_cayajabos_c = temple

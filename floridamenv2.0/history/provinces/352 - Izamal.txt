@@ -1,0 +1,8 @@
+# 352 - Izamal
+title = c_izamal
+max_settlements = 3
+culture = valladolidian
+religion = uahomche
+b_izamal_a = castle
+b_izamal_b = city
+b_izamal_c = temple

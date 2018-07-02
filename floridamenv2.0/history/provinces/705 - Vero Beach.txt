@@ -1,0 +1,8 @@
+# 705 - Vero Beach
+title = c_vero_beach
+max_settlements = 4
+culture = beacher
+religion = catholic
+b_vero_beach_a = castle
+b_vero_beach_b = city
+b_vero_beach_c = temple

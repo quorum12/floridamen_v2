@@ -1,0 +1,8 @@
+# 748 - Yum Balam
+title = c_yum_balam
+max_settlements = 3
+culture = cancuni
+religion = uahomche
+b_yum_balam_a = castle
+b_yum_balam_b = city
+b_yum_balam_c = temple

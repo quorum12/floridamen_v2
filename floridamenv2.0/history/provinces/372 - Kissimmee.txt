@@ -1,0 +1,8 @@
+# 372 - Kissimmee
+title = c_kissimmee
+max_settlements = 4
+culture = americano
+religion = baptist
+b_kissimmee_a = castle
+b_kissimmee_b = city
+b_kissimmee_c = temple

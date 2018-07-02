@@ -1,0 +1,8 @@
+# 585 - Right Islands
+title = c_right_islands
+max_settlements = 2
+culture = oceanmen
+religion = catholic
+b_right_islands_a = temple
+b_right_islands_b = castle
+b_right_islands_c = city

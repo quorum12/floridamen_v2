@@ -1,0 +1,6 @@
+# 156 - Chassahowitzka Wildlife Area
+title = c_chassahowitzka_wildlife_area
+max_settlements = 2
+culture = tampanian
+religion = catholic
+b_chassahowitzka_wildlife_area_a = tribal

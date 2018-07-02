@@ -1,0 +1,8 @@
+# 488 - Nueva Paz
+title = c_nueva_paz
+max_settlements = 4
+culture = matzanazi
+religion = catholic
+b_nueva_paz_a = castle
+b_nueva_paz_b = city
+b_nueva_paz_c = temple

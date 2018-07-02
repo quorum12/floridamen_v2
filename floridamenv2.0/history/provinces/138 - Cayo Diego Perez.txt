@@ -1,0 +1,6 @@
+# 138 - Cayo Diego Perez
+title = c_cayo_diego_perez
+max_settlements = 2
+culture = islander
+religion = none
+b_cayo_diego_perez_a = tribal

@@ -1,0 +1,8 @@
+# 382 - La Teja
+title = c_la_teja
+max_settlements = 3
+culture = carahatani
+religion = rastafarian
+b_la_teja_a = castle
+b_la_teja_b = city
+b_la_teja_c = temple

@@ -1,0 +1,6 @@
+# 484 - North Relay Wildlife Area
+title = c_north_relay_wildlife_area
+max_settlements = 2
+culture = jacksonvillean
+religion = americanist
+b_north_relay_wildlife_area_a = tribal

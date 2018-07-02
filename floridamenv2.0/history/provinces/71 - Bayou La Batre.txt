@@ -1,0 +1,8 @@
+# 71 - Bayou La Batre
+title = c_bayou_la_batre
+max_settlements = 3
+culture = biloxi
+religion = american_totemist_pagan
+b_bayou_la_batre_a = castle
+b_bayou_la_batre_b = city
+b_bayou_la_batre_c = temple

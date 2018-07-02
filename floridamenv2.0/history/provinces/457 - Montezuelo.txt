@@ -1,0 +1,8 @@
+# 457 - Montezuelo
+title = c_montezuelo
+max_settlements = 3
+culture = mantuan
+religion = catholic
+b_montezuelo_a = castle
+b_montezuelo_b = city
+b_montezuelo_c = temple

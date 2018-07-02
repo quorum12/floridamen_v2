@@ -1,0 +1,8 @@
+# 185 - Crescent Beach
+title = c_crescent_beach
+max_settlements = 3
+culture = beacher
+religion = americanist
+b_crescent_beach_a = castle
+b_crescent_beach_b = city
+b_crescent_beach_c = temple

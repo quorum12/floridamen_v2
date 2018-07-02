@@ -1,0 +1,8 @@
+# 271 - Frink
+title = c_frink
+max_settlements = 3
+culture = tallahassean
+religion = baptist
+b_frink_a = temple
+b_frink_b = city
+b_frink_c = castle

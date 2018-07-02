@@ -1,0 +1,8 @@
+# 370 - Killian
+title = c_killian
+max_settlements = 3
+culture = afroanglo
+religion = baptist
+b_killian_a = castle
+b_killian_b = city
+b_killian_c = temple

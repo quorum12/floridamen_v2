@@ -1,0 +1,8 @@
+# 578 - Punta De La Sierra
+title = c_punta_de_la_sierra
+max_settlements = 3
+culture = mantuan
+religion = atomicist
+b_punta_de_la_sierra_a = castle
+b_punta_de_la_sierra_b = city
+b_punta_de_la_sierra_c = temple

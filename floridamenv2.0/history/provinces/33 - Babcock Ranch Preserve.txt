@@ -1,0 +1,6 @@
+# 33 - Babcock Ranch Preserve
+title = c_babcock_ranch_preserve
+max_settlements = 2
+culture = naplesian
+religion = baptist
+b_babcock_ranch_preserve_a = tribal

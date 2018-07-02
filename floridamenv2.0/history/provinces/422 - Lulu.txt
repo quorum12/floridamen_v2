@@ -1,0 +1,8 @@
+# 422 - Lulu
+title = c_lulu
+max_settlements = 4
+culture = dixie
+religion = baptist
+b_lulu_a = castle
+b_lulu_b = city
+b_lulu_c = temple

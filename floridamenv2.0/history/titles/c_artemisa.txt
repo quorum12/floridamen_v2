@@ -1,0 +1,4 @@
+2140.1.1 = {
+	holder = 4000240
+	liege = d_artemisa
+}

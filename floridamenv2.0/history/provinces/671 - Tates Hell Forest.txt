@@ -1,0 +1,8 @@
+# 671 - Tates Hell Forest
+title = c_tates_hell_forest
+max_settlements = 3
+culture = tallahassean
+religion = baptist
+b_tates_hell_forest_a = castle
+b_tates_hell_forest_b = city
+b_tates_hell_forest_c = temple

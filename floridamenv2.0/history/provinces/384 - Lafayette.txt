@@ -1,0 +1,8 @@
+# 384 - Lafayette
+title = c_lafayette
+max_settlements = 4
+culture = louisiannan
+religion = mormon
+b_lafayette_a = castle
+b_lafayette_b = city
+b_lafayette_c = temple

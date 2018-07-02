@@ -1,0 +1,8 @@
+# 504 - Osceola Forest
+title = c_osceola_forest
+max_settlements = 3
+culture = dixie
+religion = baptist
+b_osceola_forest_a = castle
+b_osceola_forest_b = city
+b_osceola_forest_c = temple

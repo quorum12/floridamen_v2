@@ -1,0 +1,8 @@
+# 698 - Varadero
+title = c_varadero
+max_settlements = 3
+culture = oceanmen
+religion = none
+b_varadero_a = city
+b_varadero_b = temple
+b_varadero_c = castle

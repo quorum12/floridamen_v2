@@ -1,0 +1,8 @@
+# 657 - Sumatra
+title = c_sumatra
+max_settlements = 3
+culture = tallahassean
+religion = baptist
+b_sumatra_a = temple
+b_sumatra_b = city
+b_sumatra_c = castle

@@ -1,0 +1,8 @@
+# 696 - Up The Grove Beach
+title = c_up_the_grove_beach
+max_settlements = 3
+culture = beacher
+religion = catholic
+b_up_the_grove_beach_a = castle
+b_up_the_grove_beach_b = city
+b_up_the_grove_beach_c = temple

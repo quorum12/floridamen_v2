@@ -1,0 +1,8 @@
+# 311 - Hawthorne
+title = c_hawthorne
+max_settlements = 3
+culture = dixie
+religion = catholic
+b_hawthorne_a = castle
+b_hawthorne_b = city
+b_hawthorne_c = temple

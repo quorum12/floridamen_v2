@@ -1,0 +1,8 @@
+# 261 - Fort Mccoy
+title = c_fort_mccoy
+max_settlements = 3
+culture = dixie
+religion = catholic
+b_fort_mccoy_a = castle
+b_fort_mccoy_b = city
+b_fort_mccoy_c = temple

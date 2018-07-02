@@ -1,0 +1,6 @@
+# 648 - St. Marks Wildlife Refuge
+title = c_st._marks_wildlife_refuge
+max_settlements = 2
+culture = tallahassean
+religion = baptist
+b_st._marks_wildlife_refuge_a = tribal

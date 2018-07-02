@@ -1,0 +1,8 @@
+# 615 - Sarasota
+title = c_sarasota
+max_settlements = 4
+culture = venicen
+religion = caimano
+b_sarasota_a = castle
+b_sarasota_b = city
+b_sarasota_c = temple

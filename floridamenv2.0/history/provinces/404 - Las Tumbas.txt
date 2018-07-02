@@ -1,0 +1,8 @@
+# 404 - Las Tumbas
+title = c_las_tumbas
+max_settlements = 4
+culture = mantuan
+religion = catholic
+b_las_tumbas_a = castle
+b_las_tumbas_b = city
+b_las_tumbas_c = temple

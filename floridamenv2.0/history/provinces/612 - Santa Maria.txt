@@ -1,0 +1,8 @@
+# 612 - Santa Maria
+title = c_santa_maria
+max_settlements = 4
+culture = cubano
+religion = catholic
+b_santa_maria_a = temple
+b_santa_maria_b = city
+b_santa_maria_c = castle

@@ -1,0 +1,8 @@
+# 450 - Miami Shores
+title = c_miami_shores
+max_settlements = 3
+culture = miamimen
+religion = jewish
+b_miami_shores_a = city
+b_miami_shores_b = castle
+b_miami_shores_c = temple

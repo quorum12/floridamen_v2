@@ -1,0 +1,8 @@
+# 691 - Twelve Mile Swamp
+title = c_twelve_mile_swamp
+max_settlements = 3
+culture = jacksonvillean
+religion = americanist
+b_twelve_mile_swamp_a = temple
+b_twelve_mile_swamp_b = city
+b_twelve_mile_swamp_c = castle

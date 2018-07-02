@@ -1,0 +1,6 @@
+# 494 - Okaloacoochee Slough Forest
+title = c_okaloacoochee_slough_forest
+max_settlements = 3
+culture = calusa
+religion = american_spiritual_pagan
+b_okaloacoochee_slough_forest_a = tribal

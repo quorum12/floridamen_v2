@@ -1,0 +1,6 @@
+# 141 - Cayo Ramona
+title = c_cayo_ramona
+max_settlements = 2
+culture = islander
+religion = catholic
+b_cayo_ramona_a = tribal

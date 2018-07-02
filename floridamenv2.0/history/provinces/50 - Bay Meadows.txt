@@ -1,0 +1,8 @@
+# 50 - Bay Meadows
+title = c_bay_meadows
+max_settlements = 3
+culture = jacksonvillean
+religion = americanist
+b_bay_meadows_a = castle
+b_bay_meadows_b = city
+b_bay_meadows_c = temple

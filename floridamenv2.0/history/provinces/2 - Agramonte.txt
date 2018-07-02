@@ -1,0 +1,8 @@
+# 2 - Agramonte
+title = c_agramonte
+max_settlements = 3
+culture = constancian
+religion = catholic
+b_agramonte_a = castle
+b_agramonte_b = city
+b_agramonte_c = temple

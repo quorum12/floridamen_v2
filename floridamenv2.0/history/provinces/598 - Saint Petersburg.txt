@@ -1,0 +1,8 @@
+# 598 - Saint Petersburg
+title = c_saint_petersburg
+max_settlements = 4
+culture = afroanglo
+religion = baptist
+b_saint_petersburg_a = temple
+b_saint_petersburg_b = castle
+b_saint_petersburg_c = city

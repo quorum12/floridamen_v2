@@ -1,0 +1,8 @@
+# 374 - La Coloma
+title = c_la_coloma
+max_settlements = 4
+culture = mantuan
+religion = catholic
+b_la_coloma_a = castle
+b_la_coloma_b = city
+b_la_coloma_c = temple

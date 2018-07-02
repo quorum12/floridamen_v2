@@ -1,0 +1,8 @@
+# 624 - Seffner
+title = c_seffner
+max_settlements = 4
+culture = tampanian
+religion = catholic
+b_seffner_a = castle
+b_seffner_b = city
+b_seffner_c = temple

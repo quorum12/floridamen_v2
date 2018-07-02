@@ -1,0 +1,8 @@
+# 609 - Santa Fe
+title = c_santa_fe
+max_settlements = 4
+culture = juventudan
+religion = none
+b_santa_fe_a = temple
+b_santa_fe_b = city
+b_santa_fe_c = castle

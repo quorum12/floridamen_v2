@@ -1,0 +1,8 @@
+# 44 - Balm
+title = c_balm
+max_settlements = 3
+culture = tampanian
+religion = catholic
+b_balm_a = castle
+b_balm_b = city
+b_balm_c = temple

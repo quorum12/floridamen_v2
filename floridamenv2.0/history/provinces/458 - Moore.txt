@@ -1,0 +1,6 @@
+# 458 - Moore
+title = c_moore
+max_settlements = 3
+culture = naplesian
+religion = lutheran
+b_moore_a = tribal

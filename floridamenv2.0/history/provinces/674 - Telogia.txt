@@ -1,0 +1,8 @@
+# 674 - Telogia
+title = c_telogia
+max_settlements = 3
+culture = tallahassean
+religion = baptist
+b_telogia_a = temple
+b_telogia_b = city
+b_telogia_c = castle

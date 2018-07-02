@@ -1,0 +1,8 @@
+# 489 - Ocala
+title = c_ocala
+max_settlements = 4
+culture = dixie
+religion = baptist
+b_ocala_a = castle
+b_ocala_b = city
+b_ocala_c = temple

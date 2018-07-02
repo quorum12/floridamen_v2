@@ -1,0 +1,8 @@
+# 461 - Morriston
+title = c_morriston
+max_settlements = 3
+culture = dixie
+religion = baptist
+b_morriston_a = castle
+b_morriston_b = city
+b_morriston_c = temple

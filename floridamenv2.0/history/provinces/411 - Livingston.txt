@@ -1,0 +1,8 @@
+# 411 - Livingston
+title = c_livingston
+max_settlements = 3
+culture = afroanglo
+religion = baptist
+b_livingston_a = castle
+b_livingston_b = city
+b_livingston_c = temple

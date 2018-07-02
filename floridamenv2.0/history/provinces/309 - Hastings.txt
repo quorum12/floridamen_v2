@@ -1,0 +1,8 @@
+# 309 - Hastings
+title = c_hastings
+max_settlements = 3
+culture = jacksonvillean
+religion = americanist
+b_hastings_a = castle
+b_hastings_b = city
+b_hastings_c = temple

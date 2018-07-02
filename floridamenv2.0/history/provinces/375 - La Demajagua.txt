@@ -1,0 +1,6 @@
+# 375 - La Demajagua
+title = c_la_demajagua
+max_settlements = 3
+culture = juventudan
+religion = none
+b_la_demajagua_a = tribal

@@ -1,0 +1,6 @@
+# 348 - Isla Mujeres
+title = c_isla_mujeres
+max_settlements = 2
+culture = islander
+religion = catholic
+b_isla_mujeres_a = tribal

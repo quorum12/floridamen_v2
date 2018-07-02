@@ -1,0 +1,8 @@
+# 412 - Loana Vicario
+title = c_loana_vicario
+max_settlements = 3
+culture = cancuni
+religion = catholic
+b_loana_vicario_a = castle
+b_loana_vicario_b = city
+b_loana_vicario_c = temple

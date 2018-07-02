@@ -1,0 +1,6 @@
+# 555 - Playa Larga
+title = c_playa_larga
+max_settlements = 2
+culture = constancian
+religion = catholic
+b_playa_larga_a = tribal

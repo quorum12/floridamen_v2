@@ -1,0 +1,6 @@
+# 663 - Sunnyhills Restoration Area
+title = c_sunnyhills_restoration_area
+max_settlements = 2
+culture = dixie
+religion = baptist
+b_sunnyhills_restoration_area_a = tribal

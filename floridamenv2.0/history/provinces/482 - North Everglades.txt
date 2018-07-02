@@ -1,0 +1,8 @@
+# 482 - North Everglades
+title = c_north_everglades
+max_settlements = 3
+culture = calusa
+religion = american_spiritual_pagan
+b_north_everglades_a = castle
+b_north_everglades_b = city
+b_north_everglades_c = temple

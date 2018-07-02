@@ -1,0 +1,8 @@
+# 272 - Fruit Cove
+title = c_fruit_cove
+max_settlements = 3
+culture = jacksonvillean
+religion = americanist
+b_fruit_cove_a = temple
+b_fruit_cove_b = city
+b_fruit_cove_c = castle

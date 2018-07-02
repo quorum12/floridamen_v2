@@ -1,0 +1,8 @@
+# 437 - Marion Oaks
+title = c_marion_oaks
+max_settlements = 4
+culture = lakelander
+religion = catholic
+b_marion_oaks_a = castle
+b_marion_oaks_b = city
+b_marion_oaks_c = temple

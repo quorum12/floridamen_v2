@@ -1,0 +1,6 @@
+# 92 - Branan Field Wildlife Area
+title = c_branan_field_wildlife_area
+max_settlements = 2
+culture = jacksonvillean
+religion = americanist
+b_branan_field_wildlife_area_a = tribal

@@ -1,0 +1,8 @@
+# 354 - Jacksonville Beach
+title = c_jacksonville_beach
+max_settlements = 3
+culture = jacksonvillean
+religion = americanist
+b_jacksonville_beach_a = castle
+b_jacksonville_beach_b = city
+b_jacksonville_beach_c = temple

@@ -1,0 +1,8 @@
+# 431 - Mantua
+title = c_mantua
+max_settlements = 4
+culture = mantuan
+religion = catholic
+b_mantua_a = castle
+b_mantua_b = city
+b_mantua_c = temple

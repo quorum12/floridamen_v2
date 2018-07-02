@@ -1,0 +1,8 @@
+# 388 - Lake City
+title = c_lake_city
+max_settlements = 3
+culture = dixie
+religion = methodist
+b_lake_city_a = castle
+b_lake_city_b = city
+b_lake_city_c = temple

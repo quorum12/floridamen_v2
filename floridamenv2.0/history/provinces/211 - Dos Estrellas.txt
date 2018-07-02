@@ -1,0 +1,8 @@
+# 211 - Dos Estrellas
+title = c_dos_estrellas
+max_settlements = 3
+culture = cancuni
+religion = uahomche
+b_dos_estrellas_a = castle
+b_dos_estrellas_b = city
+b_dos_estrellas_c = temple

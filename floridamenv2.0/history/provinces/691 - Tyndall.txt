@@ -1,0 +1,8 @@
+# 691 - Tyndall
+title = c_tyndall
+max_settlements = 4
+culture = pensacolan
+religion = baptist
+b_tyndall_a = castle
+b_tyndall_b = city
+b_tyndall_c = temple

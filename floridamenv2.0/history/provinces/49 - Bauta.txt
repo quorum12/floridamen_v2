@@ -1,0 +1,8 @@
+# 49 - Bauta
+title = c_bauta
+max_settlements = 3
+culture = havanan
+religion = catholic
+b_bauta_a = castle
+b_bauta_b = city
+b_bauta_c = temple

@@ -1,0 +1,8 @@
+# 515 - Palma Rubia
+title = c_palma_rubia
+max_settlements = 4
+culture = cubano
+religion = catholic
+b_palma_rubia_a = castle
+b_palma_rubia_b = city
+b_palma_rubia_c = temple

@@ -1,0 +1,8 @@
+# 95 - Branford
+title = c_branford
+max_settlements = 3
+culture = dixie
+religion = baptist
+b_branford_a = castle
+b_branford_b = city
+b_branford_c = temple

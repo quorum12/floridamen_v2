@@ -1,0 +1,8 @@
+# 610 - Santa Isabel
+title = c_santa_isabel
+max_settlements = 3
+culture = mantuan
+religion = catholic
+b_santa_isabel_a = temple
+b_santa_isabel_b = city
+b_santa_isabel_c = castle

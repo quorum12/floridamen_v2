@@ -1,0 +1,6 @@
+# 681 - Timucan Ecological Preserve
+title = c_timucan_ecological_preserve
+max_settlements = 2
+culture = jacksonvillean
+religion = americanist
+b_timucan_ecological_preserve_a = tribal

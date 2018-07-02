@@ -1,0 +1,8 @@
+# 275 - Galliano
+title = c_galliano
+max_settlements = 3
+culture = new_orleanser
+religion = voodoo
+b_galliano_a = castle
+b_galliano_b = city
+b_galliano_c = temple

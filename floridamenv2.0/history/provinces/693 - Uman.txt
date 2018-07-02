@@ -1,0 +1,8 @@
+# 693 - Uman
+title = c_uman
+max_settlements = 3
+culture = meridan
+religion = uahomche
+b_uman_a = castle
+b_uman_b = city
+b_uman_c = temple

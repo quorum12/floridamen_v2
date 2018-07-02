@@ -1,0 +1,8 @@
+# 363 - Kendale Lakes
+title = c_kendale_lakes
+max_settlements = 3
+culture = afroanglo
+religion = baptist
+b_kendale_lakes_a = castle
+b_kendale_lakes_b = city
+b_kendale_lakes_c = temple

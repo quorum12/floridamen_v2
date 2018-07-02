@@ -1,0 +1,8 @@
+# 101 - Broussard
+title = c_broussard
+max_settlements = 3
+culture = louisiannan
+religion = voodoo
+b_broussard_a = castle
+b_broussard_b = city
+b_broussard_c = temple

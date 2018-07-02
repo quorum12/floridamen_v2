@@ -1,0 +1,8 @@
+# 451 - Middleburg
+title = c_middleburg
+max_settlements = 4
+culture = jacksonvillean
+religion = americanist
+b_middleburg_a = castle
+b_middleburg_b = city
+b_middleburg_c = temple

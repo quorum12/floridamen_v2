@@ -1,0 +1,8 @@
+# 25 - Artemisa
+title = c_artemisa
+max_settlements = 4
+culture = havanan
+religion = atomicist
+b_artemisa_a = castle
+b_artemisa_b = city
+b_artemisa_c = temple

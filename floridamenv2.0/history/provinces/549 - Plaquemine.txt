@@ -1,0 +1,8 @@
+# 549 - Plaquemine
+title = c_plaquemine
+max_settlements = 4
+culture = louisiannan
+religion = voodoo
+b_plaquemine_a = castle
+b_plaquemine_b = city
+b_plaquemine_c = temple

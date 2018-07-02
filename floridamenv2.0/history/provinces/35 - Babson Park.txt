@@ -1,0 +1,8 @@
+# 35 - Babson Park
+title = c_babson_park
+max_settlements = 4
+culture = okeechobean
+religion = baptist
+b_babson_park_a = castle
+b_babson_park_b = city
+b_babson_park_c = temple

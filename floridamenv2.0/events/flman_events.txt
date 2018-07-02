@@ -1,0 +1,165 @@
+namespace = florida_man
+
+# RISE OF Florida Man
+narrative_event = {
+	id = florida_man.1
+	title = EVT_NAME_FLMAN1
+	desc = EVTN_DESC_FLMAN1
+	picture = GFX_evt_bishop
+	border = GFX_event_narrative_frame_religion
+	
+	major = yes
+	
+	only_independent = yes
+	only_playable = yes
+	
+	trigger = {
+		year = 2144
+		controls_religion = no
+		is_landed = yes
+		is_tribal = no
+		is_female = no
+		realm_size = 3
+		NOT = {realm_size = 4}
+		NOT = {
+			trait = cynical
+		}
+		NOT = { has_global_flag = flman_sucessful }
+		OR = {
+			culture = dixie
+			culture = tallahassean
+			culture = tampanian
+			culture = americano
+			culture = miamimen
+			culture = jacksonvillean
+			culture = southerner
+			culture = orlandoan
+		}
+		NOT = { has_global_flag = flman_revolt_ongoing }
+		any_realm_province = {
+			kingdom = {
+				OR = {
+					has_holder = no
+					holder_scope = {
+						character = ROOT
+					}
+				}
+			}
+		}
+	}
+	
+	mean_time_to_happen = {
+		years = 1
+		modifier = {
+			factor = 10
+			ai = no
+		}
+	}
+	
+
+	option = {
+		name = "EVT_OPT_A_FLMAN_REVOLT"
+		trigger = {
+			has_character_flag = flman_revolt 
+		}
+		clr_character_flag = flman_revolt
+	} 
+	
+	option = {
+		trigger = {
+			NOT = {
+				OR = {
+					trait = cynical
+					trait = lunatic
+					trait = zealous
+				}
+			}
+		}
+		name = "EVT_OPT_B_FLMAN_REVOLT"
+	}
+
+	option = {
+		trigger = {
+			trait = cynical
+		}
+		name = "EVT_OPT_C_FLMAN_REVOLT"
+	}
+
+	option = {
+		trigger = {
+			trait = lunatic
+		}
+		name = "EVT_OPT_D_FLMAN_REVOLT"
+	}
+
+	option = {
+		trigger = {
+			trait = zealous
+		}
+		name = "EVT_OPT_E_FLMAN_REVOLT"
+	}
+
+	immediate = {
+		set_global_flag = flman_sucessful
+		holder_scope = {
+			#Replace EDU trait with martial lev 4
+			remove_trait = naive_appeaser
+			remove_trait = underhanded_rogue
+			remove_trait = charismatic_negotiator
+			remove_trait = grey_eminence
+			remove_trait = misguided_warrior
+			remove_trait = tough_soldier
+			remove_trait = skilled_tactician
+			remove_trait = indulgent_wastrel
+			remove_trait = thrifty_clerk
+			remove_trait = fortune_builder
+			remove_trait = midas_touched
+			remove_trait = amateurish_plotter
+			remove_trait = flamboyant_schemer
+			remove_trait = intricate_webweaver
+			remove_trait = elusive_shadow
+			remove_trait = detached_priest
+			remove_trait = martial_cleric
+			remove_trait = scholarly_theologian
+			remove_trait = mastermind_theologian
+			remove_trait = slothful
+			remove_trait = content
+			remove_trait = humble
+			add_trait = genius
+			add_trait = strong
+			add_trait = brilliant_strategist
+			add_trait = lunatic
+			add_trait = possessed
+			add_trait = zealous
+			add_trait = paranoid
+			add_trait = holy_warrior
+			add_trait = siege_leader
+			add_trait = ambitious
+			add_trait = brave
+			add_trait = diligent
+			add_trait = sayyid_flman
+			remove_trait = chaste
+			remove_trait = deceitful
+			remove_trait = honest
+			remove_trait = envious
+			remove_trait = cruel
+			remove_trait = shy
+			change_martial = 3
+			health = 2
+			give_nickname = nick_the_flman
+			wealth = 2400
+			random_list = {
+				7 = {	religion = jewish }
+				8 = {	religion = reform }
+				11 = {	religion = none }
+				10 = {	religion = american_totemist_pagan }
+				18 = {	religion = voodoo }
+				13 = {	religion = methodist }
+				12 = {	religion = lutheran }
+				11 = {	religion = cathar }
+				11 = {	religion = fraticelli }
+			}
+		}
+		activate_title = d_flman
+	}
+}

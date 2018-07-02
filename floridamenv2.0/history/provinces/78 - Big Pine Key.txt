@@ -1,0 +1,8 @@
+# 78 - Big Pine Key
+title = c_big_pine_key
+max_settlements = 3
+culture = keysian
+religion = rastafarian
+b_big_pine_key_a = castle
+b_big_pine_key_b = city
+b_big_pine_key_c = temple

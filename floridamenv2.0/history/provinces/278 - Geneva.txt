@@ -1,0 +1,8 @@
+# 278 - Geneva
+title = c_geneva
+max_settlements = 3
+culture = orlandoan
+religion = baptist
+b_geneva_a = castle
+b_geneva_b = city
+b_geneva_c = temple

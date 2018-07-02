@@ -1,0 +1,8 @@
+# 200 - Deer Park
+title = c_deer_park
+max_settlements = 3
+culture = okeechobean
+religion = catholic
+b_deer_park_a = castle
+b_deer_park_b = city
+b_deer_park_c = temple

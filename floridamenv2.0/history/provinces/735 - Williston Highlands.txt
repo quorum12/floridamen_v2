@@ -1,0 +1,8 @@
+# 735 - Williston Highlands
+title = c_williston_highlands
+max_settlements = 3
+culture = gulfard
+religion = baptist
+b_williston_highlands_a = castle
+b_williston_highlands_b = city
+b_williston_highlands_c = temple

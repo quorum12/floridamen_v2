@@ -1,0 +1,8 @@
+# 667 - Tampa
+title = c_tampa
+max_settlements = 4
+culture = afroanglo
+religion = baptist
+b_tampa_a = castle
+b_tampa_b = city
+b_tampa_c = temple

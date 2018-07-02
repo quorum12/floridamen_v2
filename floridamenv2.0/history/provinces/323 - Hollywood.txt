@@ -1,0 +1,8 @@
+# 323 - Hollywood
+title = c_hollywood
+max_settlements = 4
+culture = miamimen
+religion = reform
+b_hollywood_a = city
+b_hollywood_b = castle
+b_hollywood_c = temple

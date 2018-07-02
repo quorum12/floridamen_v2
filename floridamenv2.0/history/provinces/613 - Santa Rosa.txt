@@ -1,0 +1,8 @@
+# 613 - Santa Rosa
+title = c_santa_rosa
+max_settlements = 3
+culture = oceanmen
+religion = none
+b_santa_rosa_a = temple
+b_santa_rosa_b = city
+b_santa_rosa_c = castle

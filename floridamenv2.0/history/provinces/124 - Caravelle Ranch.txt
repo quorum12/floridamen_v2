@@ -1,0 +1,8 @@
+# 124 - Caravelle Ranch
+title = c_caravelle_ranch
+max_settlements = 3
+culture = dixie
+religion = catholic
+b_caravelle_ranch_a = castle
+b_caravelle_ranch_b = city
+b_caravelle_ranch_c = temple

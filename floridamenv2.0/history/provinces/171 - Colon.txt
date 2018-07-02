@@ -1,0 +1,8 @@
+# 171 - Colon
+title = c_colon
+max_settlements = 4
+culture = constancian
+religion = none
+b_colon_a = castle
+b_colon_b = city
+b_colon_c = temple

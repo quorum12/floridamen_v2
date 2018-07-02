@@ -1,0 +1,8 @@
+# 443 - Mc Alpin
+title = c_mc_alpin
+max_settlements = 3
+culture = dixie
+religion = methodist
+b_mc_alpin_a = castle
+b_mc_alpin_b = city
+b_mc_alpin_c = temple

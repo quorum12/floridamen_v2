@@ -1,0 +1,8 @@
+# 737 - Wilson
+title = c_wilson
+max_settlements = 3
+culture = jacksonvillean
+religion = atomicist
+b_wilson_a = castle
+b_wilson_b = city
+b_wilson_c = temple

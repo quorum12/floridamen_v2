@@ -1,0 +1,8 @@
+# 293 - Groveland
+title = c_groveland
+max_settlements = 3
+culture = lakelander
+religion = catholic
+b_groveland_a = castle
+b_groveland_b = city
+b_groveland_c = temple

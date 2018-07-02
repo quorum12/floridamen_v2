@@ -1,0 +1,6 @@
+# 189 - Crystal River
+title = c_crystal_river
+max_settlements = 4
+culture = tampanian
+religion = catholic
+b_crystal_river_a = tribal

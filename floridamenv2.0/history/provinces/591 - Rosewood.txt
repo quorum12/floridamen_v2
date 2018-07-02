@@ -1,0 +1,8 @@
+# 591 - Rosewood
+title = c_rosewood
+max_settlements = 4
+culture = gulfard
+religion = baptist
+b_rosewood_a = castle
+b_rosewood_b = city
+b_rosewood_c = temple

@@ -1,0 +1,6 @@
+# 708 - Waccasassa Bay Preserve
+title = c_waccasassa_bay_preserve
+max_settlements = 2
+culture = ocale
+religion = american_spiritual_pagan
+b_waccasassa_bay_preserve_a = tribal

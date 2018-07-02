@@ -1,0 +1,8 @@
+# 288 - Greater Carrollwood
+title = c_greater_carrollwood
+max_settlements = 3
+culture = tampanian
+religion = catholic
+b_greater_carrollwood_a = castle
+b_greater_carrollwood_b = city
+b_greater_carrollwood_c = temple

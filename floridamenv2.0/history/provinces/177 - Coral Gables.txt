@@ -1,0 +1,8 @@
+# 177 - Coral Gables
+title = c_coral_gables
+max_settlements = 4
+culture = miamimen
+religion = catholic
+b_coral_gables_a = city
+b_coral_gables_b = castle
+b_coral_gables_c = temple

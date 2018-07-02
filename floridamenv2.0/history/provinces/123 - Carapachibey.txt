@@ -1,0 +1,6 @@
+# 123 - Carapachibey
+title = c_carapachibey
+max_settlements = 3
+culture = juventudan
+religion = none
+b_carapachibey_a = tribal

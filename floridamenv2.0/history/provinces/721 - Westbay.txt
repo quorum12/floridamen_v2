@@ -1,0 +1,8 @@
+# 721 - Westbay
+title = c_westbay
+max_settlements = 3
+culture = pensacolan
+religion = baptist
+b_westbay_a = castle
+b_westbay_b = city
+b_westbay_c = temple

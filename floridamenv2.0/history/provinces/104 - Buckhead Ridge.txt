@@ -1,0 +1,8 @@
+# 104 - Buckhead Ridge
+title = c_buckhead_ridge
+max_settlements = 3
+culture = okeechobean
+religion = lutheran
+b_buckhead_ridge_a = castle
+b_buckhead_ridge_b = city
+b_buckhead_ridge_c = temple

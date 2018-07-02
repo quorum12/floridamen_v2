@@ -1,0 +1,6 @@
+# 504 - Osceola Wildlife Management Area
+title = c_osceola_wildlife_management_area
+max_settlements = 2
+culture = dixie
+religion = baptist
+b_osceola_wildlife_management_area_a = tribal

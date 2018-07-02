@@ -1,0 +1,8 @@
+# 318 - Highland Park
+title = c_highland_park
+max_settlements = 3
+culture = okeechobean
+religion = lutheran
+b_highland_park_a = castle
+b_highland_park_b = city
+b_highland_park_c = temple

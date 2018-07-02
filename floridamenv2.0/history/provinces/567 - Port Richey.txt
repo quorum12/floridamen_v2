@@ -1,0 +1,8 @@
+# 567 - Port Richey
+title = c_port_richey
+max_settlements = 3
+culture = gulfard
+religion = catholic
+b_port_richey_a = temple
+b_port_richey_b = city
+b_port_richey_c = castle

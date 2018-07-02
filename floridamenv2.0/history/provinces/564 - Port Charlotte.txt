@@ -1,0 +1,8 @@
+# 564 - Port Charlotte
+title = c_port_charlotte
+max_settlements = 3
+culture = venicen
+religion = catholic
+b_port_charlotte_a = castle
+b_port_charlotte_b = city
+b_port_charlotte_c = temple

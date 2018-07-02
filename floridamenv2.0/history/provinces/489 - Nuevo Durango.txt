@@ -1,0 +1,8 @@
+# 489 - Nuevo Durango
+title = c_nuevo_durango
+max_settlements = 3
+culture = valladolidian
+religion = catholic
+b_nuevo_durango_a = castle
+b_nuevo_durango_b = city
+b_nuevo_durango_c = temple

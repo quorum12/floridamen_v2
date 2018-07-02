@@ -1,0 +1,6 @@
+# 552 - Playa Del Carmen
+title = c_playa_del_carmen
+max_settlements = 2
+culture = cancuni
+religion = catholic
+b_playa_del_carmen_a = tribal

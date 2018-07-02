@@ -1,0 +1,8 @@
+# 283 - Grand Chenier
+title = c_grand_chenier
+max_settlements = 3
+culture = texan
+religion = catholic
+b_grand_chenier_a = castle
+b_grand_chenier_b = city
+b_grand_chenier_c = temple

@@ -1,0 +1,8 @@
+# 174 - Consolacion Del Sur
+title = c_consolacion_del_sur
+max_settlements = 3
+culture = cubano
+religion = catholic
+b_consolacion_del_sur_a = castle
+b_consolacion_del_sur_b = city
+b_consolacion_del_sur_c = temple

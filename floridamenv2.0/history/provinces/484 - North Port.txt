@@ -1,0 +1,8 @@
+# 484 - North Port
+title = c_north_port
+max_settlements = 3
+culture = venicen
+religion = catholic
+b_north_port_a = castle
+b_north_port_b = city
+b_north_port_c = temple

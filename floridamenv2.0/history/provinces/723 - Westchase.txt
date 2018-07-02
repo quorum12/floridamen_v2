@@ -1,0 +1,8 @@
+# 723 - Westchase
+title = c_westchase
+max_settlements = 4
+culture = tampanian
+religion = catholic
+b_westchase_a = castle
+b_westchase_b = city
+b_westchase_c = temple

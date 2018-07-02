@@ -1,0 +1,8 @@
+# 295 - Guanimar
+title = c_guanimar
+max_settlements = 3
+culture = havanan
+religion = catholic
+b_guanimar_a = castle
+b_guanimar_b = city
+b_guanimar_c = temple

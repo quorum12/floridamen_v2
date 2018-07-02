@@ -1,0 +1,8 @@
+# 498 - Orange Park
+title = c_orange_park
+max_settlements = 4
+culture = jacksonvillean
+religion = americanist
+b_orange_park_a = castle
+b_orange_park_b = city
+b_orange_park_c = temple

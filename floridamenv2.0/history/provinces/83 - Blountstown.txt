@@ -1,0 +1,8 @@
+# 83 - Blountstown
+title = c_blountstown
+max_settlements = 3
+culture = afroanglo
+religion = baptist
+b_blountstown_a = castle
+b_blountstown_b = city
+b_blountstown_c = temple

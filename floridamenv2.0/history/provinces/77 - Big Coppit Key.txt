@@ -1,0 +1,8 @@
+# 77 - Big Coppit Key
+title = c_big_coppit_key
+max_settlements = 3
+culture = keysian
+religion = catholic
+b_big_coppit_key_a = castle
+b_big_coppit_key_b = city
+b_big_coppit_key_c = temple

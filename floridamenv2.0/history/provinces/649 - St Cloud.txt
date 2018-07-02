@@ -1,0 +1,8 @@
+# 649 - St Cloud
+title = c_st_cloud
+max_settlements = 3
+culture = americano
+religion = catholic
+b_st_cloud_a = castle
+b_st_cloud_b = city
+b_st_cloud_c = temple

@@ -1,0 +1,8 @@
+# 747 - Youngstown
+title = c_youngstown
+max_settlements = 3
+culture = dixie
+religion = baptist
+b_youngstown_a = castle
+b_youngstown_b = city
+b_youngstown_c = temple

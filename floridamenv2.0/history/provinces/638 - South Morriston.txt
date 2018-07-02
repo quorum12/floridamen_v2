@@ -1,0 +1,8 @@
+# 638 - South Morriston
+title = c_south_morriston
+max_settlements = 3
+culture = ocale
+religion = american_spiritual_pagan
+b_south_morriston_a = castle
+b_south_morriston_b = city
+b_south_morriston_c = temple

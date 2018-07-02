@@ -1,0 +1,8 @@
+# 570 - Port Saint Lucie
+title = c_port_saint_lucie
+max_settlements = 3
+culture = beacher
+religion = catholic
+b_port_saint_lucie_a = temple
+b_port_saint_lucie_b = castle
+b_port_saint_lucie_c = city

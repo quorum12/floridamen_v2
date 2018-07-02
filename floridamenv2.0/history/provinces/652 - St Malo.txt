@@ -1,0 +1,8 @@
+# 652 - St Malo
+title = c_st_malo
+max_settlements = 3
+culture = afroanglo
+religion = baptist
+b_st_malo_a = castle
+b_st_malo_b = city
+b_st_malo_c = temple

@@ -1,0 +1,8 @@
+# 583 - Reynold Garcia
+title = c_reynold_garcia
+max_settlements = 3
+culture = constancian
+religion = none
+b_reynold_garcia_a = castle
+b_reynold_garcia_b = city
+b_reynold_garcia_c = temple

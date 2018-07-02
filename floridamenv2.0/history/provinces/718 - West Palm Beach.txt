@@ -1,0 +1,8 @@
+# 718 - West Palm Beach
+title = c_west_palm_beach
+max_settlements = 4
+culture = beacher
+religion = brethren
+b_west_palm_beach_a = castle
+b_west_palm_beach_b = city
+b_west_palm_beach_c = temple

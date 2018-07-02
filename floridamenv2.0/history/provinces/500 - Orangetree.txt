@@ -1,0 +1,8 @@
+# 500 - Orangetree
+title = c_orangetree
+max_settlements = 4
+culture = naplesian
+religion = baptist
+b_orangetree_a = castle
+b_orangetree_b = city
+b_orangetree_c = temple

@@ -1,0 +1,8 @@
+# 405 - Lawney
+title = c_lawney
+max_settlements = 3
+culture = dixie
+religion = baptist
+b_lawney_a = castle
+b_lawney_b = city
+b_lawney_c = temple

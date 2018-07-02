@@ -1,0 +1,8 @@
+# 410 - Live Oak
+title = c_live_oak
+max_settlements = 3
+culture = dixie
+religion = methodist
+b_live_oak_a = castle
+b_live_oak_b = city
+b_live_oak_c = temple

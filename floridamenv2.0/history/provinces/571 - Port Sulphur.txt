@@ -1,0 +1,8 @@
+# 571 - Port Sulphur
+title = c_port_sulphur
+max_settlements = 3
+culture = new_orleanser
+religion = voodoo
+b_port_sulphur_a = castle
+b_port_sulphur_b = city
+b_port_sulphur_c = temple

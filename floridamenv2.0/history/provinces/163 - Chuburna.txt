@@ -1,0 +1,8 @@
+# 163 - Chuburna
+title = c_chuburna
+max_settlements = 3
+culture = meridan
+religion = catholic
+b_chuburna_a = castle
+b_chuburna_b = city
+b_chuburna_c = temple

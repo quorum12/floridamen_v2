@@ -1,0 +1,8 @@
+# 415 - Lopez Pena
+title = c_lopez_pena
+max_settlements = 3
+culture = cubano
+religion = catholic
+b_lopez_pena_a = castle
+b_lopez_pena_b = city
+b_lopez_pena_c = temple

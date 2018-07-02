@@ -1,0 +1,8 @@
+# 535 - Perry
+title = c_perry
+max_settlements = 4
+culture = dixie
+religion = methodist
+b_perry_a = castle
+b_perry_b = city
+b_perry_c = temple

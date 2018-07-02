@@ -1,0 +1,8 @@
+# 737 - Winter Haven
+title = c_winter_haven
+max_settlements = 4
+culture = lakelander
+religion = baptist
+b_winter_haven_a = castle
+b_winter_haven_b = city
+b_winter_haven_c = temple

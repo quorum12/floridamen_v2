@@ -1,0 +1,8 @@
+# 362 - Kantunilkin
+title = c_kantunilkin
+max_settlements = 3
+culture = valladolidian
+religion = uahomche
+b_kantunilkin_a = castle
+b_kantunilkin_b = city
+b_kantunilkin_c = temple

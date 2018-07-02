@@ -1,0 +1,8 @@
+# 161 - Chokoloskee
+title = c_chokoloskee
+max_settlements = 4
+culture = keysian
+religion = caimano
+b_chokoloskee_a = castle
+b_chokoloskee_b = city
+b_chokoloskee_c = temple

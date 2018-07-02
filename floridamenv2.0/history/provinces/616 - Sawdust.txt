@@ -1,0 +1,8 @@
+# 616 - Sawdust
+title = c_sawdust
+max_settlements = 3
+culture = afroanglo
+religion = baptist
+b_sawdust_a = castle
+b_sawdust_b = city
+b_sawdust_c = temple

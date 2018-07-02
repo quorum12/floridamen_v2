@@ -1,0 +1,8 @@
+# 474 - Newberry
+title = c_newberry
+max_settlements = 4
+culture = dixie
+religion = methodist
+b_newberry_a = castle
+b_newberry_b = city
+b_newberry_c = temple

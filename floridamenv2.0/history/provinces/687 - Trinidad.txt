@@ -1,0 +1,8 @@
+# 687 - Trinidad
+title = c_trinidad
+max_settlements = 4
+culture = oceanmen
+religion = rastafarian
+b_trinidad_a = castle
+b_trinidad_b = city
+b_trinidad_c = temple

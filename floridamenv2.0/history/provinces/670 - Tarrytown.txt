@@ -1,0 +1,8 @@
+# 670 - Tarrytown
+title = c_tarrytown
+max_settlements = 3
+culture = lakelander
+religion = catholic
+b_tarrytown_a = castle
+b_tarrytown_b = city
+b_tarrytown_c = temple

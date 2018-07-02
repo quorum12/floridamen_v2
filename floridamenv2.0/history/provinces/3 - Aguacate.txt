@@ -1,0 +1,8 @@
+# 3 - Aguacate
+title = c_aguacate
+max_settlements = 4
+culture = matzanazi
+religion = catholic
+b_aguacate_a = castle
+b_aguacate_b = city
+b_aguacate_c = temple

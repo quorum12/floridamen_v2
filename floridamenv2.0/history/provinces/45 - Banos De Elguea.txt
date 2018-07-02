@@ -1,0 +1,8 @@
+# 45 - Banos De Elguea
+title = c_banos_de_elguea
+max_settlements = 3
+culture = oceanmen
+religion = catholic
+b_banos_de_elguea_a = temple
+b_banos_de_elguea_b = city
+b_banos_de_elguea_c = castle

@@ -1,0 +1,6 @@
+# 553 - Playa El Rosario
+title = c_playa_el_rosario
+max_settlements = 2
+culture = matzanazi
+religion = catholic
+b_playa_el_rosario_a = tribal

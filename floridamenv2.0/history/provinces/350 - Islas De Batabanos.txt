@@ -1,0 +1,6 @@
+# 350 - Islas De Batabanos
+title = c_islas_de_batabanos
+max_settlements = 2
+culture = juventudan
+religion = none
+b_islas_de_batabanos_a = tribal

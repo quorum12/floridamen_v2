@@ -1,0 +1,8 @@
+# 530 - Penney Farms
+title = c_penney_farms
+max_settlements = 3
+culture = jacksonvillean
+religion = americanist
+b_penney_farms_a = castle
+b_penney_farms_b = city
+b_penney_farms_c = temple

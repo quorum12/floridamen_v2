@@ -1,0 +1,8 @@
+# 158 - Chemax
+title = c_chemax
+max_settlements = 4
+culture = valladolidian
+religion = uahomche
+b_chemax_a = castle
+b_chemax_b = city
+b_chemax_c = temple

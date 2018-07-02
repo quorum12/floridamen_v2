@@ -1,0 +1,8 @@
+# 396 - Lakeport
+title = c_lakeport
+max_settlements = 3
+culture = okeechobean
+religion = lutheran
+b_lakeport_a = castle
+b_lakeport_b = city
+b_lakeport_c = temple

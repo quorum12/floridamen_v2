@@ -1,0 +1,8 @@
+# 258 - Fort Green
+title = c_fort_green
+max_settlements = 3
+culture = lakelander
+religion = baptist
+b_fort_green_a = castle
+b_fort_green_b = city
+b_fort_green_c = temple

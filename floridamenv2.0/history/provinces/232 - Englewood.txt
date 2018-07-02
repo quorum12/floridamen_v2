@@ -1,0 +1,8 @@
+# 232 - Englewood
+title = c_englewood
+max_settlements = 3
+culture = venicen
+religion = caimano
+b_englewood_a = castle
+b_englewood_b = city
+b_englewood_c = temple

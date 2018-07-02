@@ -1,0 +1,8 @@
+# 593 - Ruskin
+title = c_ruskin
+max_settlements = 3
+culture = tampanian
+religion = caimano
+b_ruskin_a = castle
+b_ruskin_b = city
+b_ruskin_c = temple

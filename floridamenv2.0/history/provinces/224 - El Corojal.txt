@@ -1,0 +1,8 @@
+# 224 - El Corojal
+title = c_el_corojal
+max_settlements = 3
+culture = cubano
+religion = atomicist
+b_el_corojal_a = city
+b_el_corojal_b = temple
+b_el_corojal_c = castle

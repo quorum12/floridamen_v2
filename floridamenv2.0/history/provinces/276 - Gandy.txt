@@ -1,0 +1,8 @@
+# 276 - Gandy
+title = c_gandy
+max_settlements = 3
+culture = afroanglo
+religion = catholic
+b_gandy_a = temple
+b_gandy_b = city
+b_gandy_c = castle

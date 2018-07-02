@@ -1,0 +1,8 @@
+# 108 - Caimito
+title = c_caimito
+max_settlements = 3
+culture = havanan
+religion = catholic
+b_caimito_a = castle
+b_caimito_b = city
+b_caimito_c = temple

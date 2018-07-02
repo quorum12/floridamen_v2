@@ -1,0 +1,8 @@
+# 581 - Redland
+title = c_redland
+max_settlements = 3
+culture = americano
+religion = catholic
+b_redland_a = castle
+b_redland_b = city
+b_redland_c = temple

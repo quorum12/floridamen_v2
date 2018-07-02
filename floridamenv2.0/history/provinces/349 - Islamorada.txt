@@ -1,0 +1,6 @@
+# 349 - Islamorada
+title = c_islamorada
+max_settlements = 2
+culture = islander
+religion = rastafarian
+b_islamorada_a = tribal

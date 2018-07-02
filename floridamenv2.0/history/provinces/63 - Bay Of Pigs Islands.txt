@@ -1,0 +1,6 @@
+# 63 - Bay Of Pigs Islands
+title = c_bay_of_pigs_islands
+max_settlements = 2
+culture = constancian
+religion = none
+b_bay_of_pigs_islands_a = tribal

@@ -1,0 +1,8 @@
+# 146 - Cedar Key
+title = c_cedar_key
+max_settlements = 3
+culture = gulfard
+religion = baptist
+b_cedar_key_a = castle
+b_cedar_key_b = city
+b_cedar_key_c = temple

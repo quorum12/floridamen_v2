@@ -1,0 +1,8 @@
+# 701 - Venice
+title = c_venice
+max_settlements = 4
+culture = venicen
+religion = caimano
+b_venice_a = castle
+b_venice_b = city
+b_venice_c = temple

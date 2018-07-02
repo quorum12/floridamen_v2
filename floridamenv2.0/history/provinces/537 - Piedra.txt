@@ -1,0 +1,8 @@
+# 537 - Piedra
+title = c_piedra
+max_settlements = 3
+culture = meridan
+religion = uahomche
+b_piedra_a = castle
+b_piedra_b = city
+b_piedra_c = temple

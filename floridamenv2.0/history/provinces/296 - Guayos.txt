@@ -1,0 +1,8 @@
+# 296 - Guayos
+title = c_guayos
+max_settlements = 3
+culture = oceanmen
+religion = rastafarian
+b_guayos_a = temple
+b_guayos_b = city
+b_guayos_c = castle

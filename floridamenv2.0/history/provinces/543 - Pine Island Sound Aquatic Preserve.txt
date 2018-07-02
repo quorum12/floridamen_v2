@@ -1,0 +1,6 @@
+# 543 - Pine Island Sound Aquatic Preserve
+title = c_pine_island_sound_aquatic_preserve
+max_settlements = 2
+culture = venicen
+religion = catholic
+b_pine_island_sound_aquatic_preserve_a = tribal

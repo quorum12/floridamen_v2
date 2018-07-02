@@ -1,0 +1,8 @@
+# 748 - Yulee
+title = c_yulee
+max_settlements = 3
+culture = jacksonvillean
+religion = americanist
+b_yulee_a = castle
+b_yulee_b = city
+b_yulee_c = temple

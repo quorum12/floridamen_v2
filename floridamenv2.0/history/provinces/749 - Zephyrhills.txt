@@ -1,0 +1,8 @@
+# 749 - Zephyrhills
+title = c_zephyrhills
+max_settlements = 3
+culture = tampanian
+religion = catholic
+b_zephyrhills_a = castle
+b_zephyrhills_b = city
+b_zephyrhills_c = temple

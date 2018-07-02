@@ -1,0 +1,8 @@
+# 644 - Southside
+title = c_southside
+max_settlements = 4
+culture = jacksonvillean
+religion = americanist
+b_southside_a = castle
+b_southside_b = city
+b_southside_c = temple

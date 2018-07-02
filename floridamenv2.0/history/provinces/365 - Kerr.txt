@@ -1,0 +1,8 @@
+# 365 - Kerr
+title = c_kerr
+max_settlements = 3
+culture = dixie
+religion = baptist
+b_kerr_a = castle
+b_kerr_b = city
+b_kerr_c = temple

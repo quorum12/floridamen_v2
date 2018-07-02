@@ -1,0 +1,8 @@
+# 214 - Dzidzantun
+title = c_dzidzantun
+max_settlements = 3
+culture = meridan
+religion = uahomche
+b_dzidzantun_a = castle
+b_dzidzantun_b = city
+b_dzidzantun_c = temple

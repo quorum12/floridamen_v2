@@ -1,0 +1,8 @@
+# 42 - Baker
+title = c_baker
+max_settlements = 3
+culture = afroanglo
+religion = baptist
+b_baker_a = castle
+b_baker_b = city
+b_baker_c = temple

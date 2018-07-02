@@ -1,0 +1,8 @@
+# 327 - Horquitas
+title = c_horquitas
+max_settlements = 3
+culture = oceanmen
+religion = catholic
+b_horquitas_a = castle
+b_horquitas_b = city
+b_horquitas_c = temple

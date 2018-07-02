@@ -1,0 +1,8 @@
+# 105 - Buras Triump
+title = c_buras_triump
+max_settlements = 3
+culture = afroanglo
+religion = baptist
+b_buras_triump_a = castle
+b_buras_triump_b = city
+b_buras_triump_c = temple

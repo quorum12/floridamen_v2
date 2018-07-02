@@ -1,0 +1,8 @@
+# 315 - Herradura
+title = c_herradura
+max_settlements = 3
+culture = cubano
+religion = catholic
+b_herradura_a = castle
+b_herradura_b = city
+b_herradura_c = temple

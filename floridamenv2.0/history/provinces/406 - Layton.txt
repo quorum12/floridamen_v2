@@ -1,0 +1,8 @@
+# 406 - Layton
+title = c_layton
+max_settlements = 3
+culture = oceanmen
+religion = rastafarian
+b_layton_a = castle
+b_layton_b = city
+b_layton_c = temple

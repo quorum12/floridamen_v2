@@ -1,0 +1,6 @@
+# 244 - Everglades Wildlife Area
+title = c_everglades_wildlife_area
+max_settlements = 2
+culture = miamimen
+religion = catholic
+b_everglades_wildlife_area_a = tribal

@@ -1,0 +1,8 @@
+# 73 - Bejucal
+title = c_bejucal
+max_settlements = 3
+culture = havanan
+religion = catholic
+b_bejucal_a = castle
+b_bejucal_b = city
+b_bejucal_c = temple

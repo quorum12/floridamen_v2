@@ -1,0 +1,8 @@
+# 216 - Dzonot Carretero
+title = c_dzonot_carretero
+max_settlements = 3
+culture = cancuni
+religion = uahomche
+b_dzonot_carretero_a = castle
+b_dzonot_carretero_b = city
+b_dzonot_carretero_c = temple

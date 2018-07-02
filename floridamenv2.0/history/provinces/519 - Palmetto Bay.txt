@@ -1,0 +1,8 @@
+# 519 - Palmetto Bay
+title = c_palmetto_bay
+max_settlements = 3
+culture = afroanglo
+religion = baptist
+b_palmetto_bay_a = city
+b_palmetto_bay_b = castle
+b_palmetto_bay_c = temple

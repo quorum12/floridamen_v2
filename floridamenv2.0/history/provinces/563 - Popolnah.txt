@@ -1,0 +1,8 @@
+# 563 - Popolnah
+title = c_popolnah
+max_settlements = 3
+culture = valladolidian
+religion = catholic
+b_popolnah_a = castle
+b_popolnah_b = city
+b_popolnah_c = temple

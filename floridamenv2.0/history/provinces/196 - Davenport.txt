@@ -1,0 +1,8 @@
+# 196 - Davenport
+title = c_davenport
+max_settlements = 3
+culture = orlandoan
+religion = catholic
+b_davenport_a = castle
+b_davenport_b = city
+b_davenport_c = temple

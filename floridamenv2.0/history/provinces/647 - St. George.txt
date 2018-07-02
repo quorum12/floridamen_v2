@@ -1,0 +1,8 @@
+# 647 - St. George
+title = c_st._george
+max_settlements = 3
+culture = seminole
+religion = american_spiritual_pagan
+b_st._george_a = castle
+b_st._george_b = city
+b_st._george_c = temple

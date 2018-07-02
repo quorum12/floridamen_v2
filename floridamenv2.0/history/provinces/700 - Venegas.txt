@@ -1,0 +1,8 @@
+# 700 - Venegas
+title = c_venegas
+max_settlements = 3
+culture = oceanmen
+religion = none
+b_venegas_a = castle
+b_venegas_b = city
+b_venegas_c = temple

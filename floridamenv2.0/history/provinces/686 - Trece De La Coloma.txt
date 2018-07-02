@@ -1,0 +1,8 @@
+# 686 - Trece De La Coloma
+title = c_trece_de_la_coloma
+max_settlements = 3
+culture = cubano
+religion = catholic
+b_trece_de_la_coloma_a = castle
+b_trece_de_la_coloma_b = city
+b_trece_de_la_coloma_c = temple

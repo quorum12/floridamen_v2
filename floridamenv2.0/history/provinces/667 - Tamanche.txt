@@ -1,0 +1,8 @@
+# 667 - Tamanche
+title = c_tamanche
+max_settlements = 3
+culture = meridan
+religion = uahomche
+b_tamanche_a = castle
+b_tamanche_b = city
+b_tamanche_c = temple

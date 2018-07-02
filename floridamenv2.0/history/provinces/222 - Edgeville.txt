@@ -1,0 +1,8 @@
+# 222 - Edgeville
+title = c_edgeville
+max_settlements = 4
+culture = lakelander
+religion = baptist
+b_edgeville_a = castle
+b_edgeville_b = city
+b_edgeville_c = temple

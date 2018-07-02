@@ -1,0 +1,6 @@
+# 351 - Islas De Mangles
+title = c_islas_de_mangles
+max_settlements = 2
+culture = juventudan
+religion = none
+b_islas_de_mangles_a = tribal

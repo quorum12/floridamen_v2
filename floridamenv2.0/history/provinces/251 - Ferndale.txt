@@ -1,0 +1,8 @@
+# 251 - Ferndale
+title = c_ferndale
+max_settlements = 3
+culture = orlandoan
+religion = baptist
+b_ferndale_a = castle
+b_ferndale_b = city
+b_ferndale_c = temple

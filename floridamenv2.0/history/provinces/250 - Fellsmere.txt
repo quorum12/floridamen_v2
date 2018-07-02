@@ -1,0 +1,8 @@
+# 250 - Fellsmere
+title = c_fellsmere
+max_settlements = 3
+culture = beacher
+religion = brethren
+b_fellsmere_a = castle
+b_fellsmere_b = city
+b_fellsmere_c = temple

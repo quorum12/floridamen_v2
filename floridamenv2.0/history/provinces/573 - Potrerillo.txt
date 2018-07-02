@@ -1,0 +1,8 @@
+# 573 - Potrerillo
+title = c_potrerillo
+max_settlements = 3
+culture = oceanmen
+religion = rastafarian
+b_potrerillo_a = temple
+b_potrerillo_b = city
+b_potrerillo_c = castle

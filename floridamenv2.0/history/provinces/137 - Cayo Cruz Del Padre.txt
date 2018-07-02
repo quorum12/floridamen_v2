@@ -1,0 +1,6 @@
+# 137 - Cayo Cruz Del Padre
+title = c_cayo_cruz_del_padre
+max_settlements = 2
+culture = islander
+religion = catholic
+b_cayo_cruz_del_padre_a = tribal

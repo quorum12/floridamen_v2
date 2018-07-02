@@ -1,0 +1,8 @@
+# 416 - Los Arabos
+title = c_los_arabos
+max_settlements = 3
+culture = constancian
+religion = none
+b_los_arabos_a = castle
+b_los_arabos_b = city
+b_los_arabos_c = temple

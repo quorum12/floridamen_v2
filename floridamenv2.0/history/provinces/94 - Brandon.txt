@@ -1,0 +1,8 @@
+# 94 - Brandon
+title = c_brandon
+max_settlements = 4
+culture = lakelander
+religion = catholic
+b_brandon_a = castle
+b_brandon_b = city
+b_brandon_c = temple

@@ -1,0 +1,8 @@
+# 608 - Santa Cruz Del Norte
+title = c_santa_cruz_del_norte
+max_settlements = 3
+culture = oceanmen
+religion = catholic
+b_santa_cruz_del_norte_a = temple
+b_santa_cruz_del_norte_b = city
+b_santa_cruz_del_norte_c = castle

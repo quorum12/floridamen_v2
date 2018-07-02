@@ -1,0 +1,8 @@
+# 34 - Babiney
+title = c_babiney
+max_settlements = 3
+culture = mantuan
+religion = catholic
+b_babiney_a = castle
+b_babiney_b = city
+b_babiney_c = temple

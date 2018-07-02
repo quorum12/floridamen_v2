@@ -1,0 +1,8 @@
+# 460 - Morgan
+title = c_morgan
+max_settlements = 4
+culture = chitimacha
+religion = american_totemist_pagan
+b_morgan_a = castle
+b_morgan_b = city
+b_morgan_c = temple

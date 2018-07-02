@@ -1,0 +1,8 @@
+# 579 - Raiford
+title = c_raiford
+max_settlements = 3
+culture = gulfard
+religion = baptist
+b_raiford_a = castle
+b_raiford_b = city
+b_raiford_c = temple

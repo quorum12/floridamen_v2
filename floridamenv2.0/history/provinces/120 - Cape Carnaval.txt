@@ -1,0 +1,8 @@
+# 120 - Cape Carnaval
+title = c_cape_carnaval
+max_settlements = 4
+culture = jacksonvillean
+religion = atomicist
+b_cape_carnaval_a = city
+b_cape_carnaval_b = temple
+b_cape_carnaval_c = castle

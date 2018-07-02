@@ -1,0 +1,8 @@
+# 428 - Manaja
+title = c_manaja
+max_settlements = 4
+culture = mantuan
+religion = atomicist
+b_manaja_a = castle
+b_manaja_b = city
+b_manaja_c = temple

@@ -1,0 +1,6 @@
+# 134 - Cayo Cabezos
+title = c_cayo_cabezos
+max_settlements = 2
+culture = islander
+religion = catholic
+b_cayo_cabezos_a = tribal

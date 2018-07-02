@@ -1,0 +1,8 @@
+# 226 - El Maja
+title = c_el_maja
+max_settlements = 4
+culture = oceanmen
+religion = none
+b_el_maja_a = castle
+b_el_maja_b = city
+b_el_maja_c = temple

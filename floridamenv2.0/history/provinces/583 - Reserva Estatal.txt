@@ -1,0 +1,8 @@
+# 583 - Reserva Estatal
+title = c_reserva_estatal
+max_settlements = 3
+culture = meridan
+religion = uahomche
+b_reserva_estatal_a = castle
+b_reserva_estatal_b = city
+b_reserva_estatal_c = temple

@@ -1,0 +1,8 @@
+# 524 - Paruqe La Guira
+title = c_paruqe_la_guira
+max_settlements = 3
+culture = cubano
+religion = catholic
+b_paruqe_la_guira_a = castle
+b_paruqe_la_guira_b = city
+b_paruqe_la_guira_c = temple

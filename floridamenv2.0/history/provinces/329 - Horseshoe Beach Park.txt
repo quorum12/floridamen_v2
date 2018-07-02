@@ -1,0 +1,8 @@
+# 329 - Horseshoe Beach Park
+title = c_horseshoe_beach_park
+max_settlements = 3
+culture = gulfard
+religion = jewish
+b_horseshoe_beach_park_a = city
+b_horseshoe_beach_park_b = castle
+b_horseshoe_beach_park_c = temple

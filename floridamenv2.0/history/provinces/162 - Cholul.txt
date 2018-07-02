@@ -1,0 +1,8 @@
+# 162 - Cholul
+title = c_cholul
+max_settlements = 3
+culture = meridan
+religion = catholic
+b_cholul_a = castle
+b_cholul_b = city
+b_cholul_c = temple

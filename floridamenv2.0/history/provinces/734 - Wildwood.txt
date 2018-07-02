@@ -1,0 +1,8 @@
+# 734 - Wildwood
+title = c_wildwood
+max_settlements = 3
+culture = lakelander
+religion = catholic
+b_wildwood_a = castle
+b_wildwood_b = city
+b_wildwood_c = temple

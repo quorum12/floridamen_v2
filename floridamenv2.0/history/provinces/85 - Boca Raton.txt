@@ -1,0 +1,8 @@
+# 85 - Boca Raton
+title = c_boca_raton
+max_settlements = 3
+culture = miamimen
+religion = jewish
+b_boca_raton_a = castle
+b_boca_raton_b = city
+b_boca_raton_c = temple

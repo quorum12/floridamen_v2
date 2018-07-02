@@ -1,0 +1,8 @@
+# 560 - Polk City
+title = c_polk_city
+max_settlements = 3
+culture = lakelander
+religion = baptist
+b_polk_city_a = castle
+b_polk_city_b = city
+b_polk_city_c = temple

@@ -1,0 +1,8 @@
+# 130 - Caucel
+title = c_caucel
+max_settlements = 3
+culture = meridan
+religion = catholic
+b_caucel_a = castle
+b_caucel_b = city
+b_caucel_c = temple

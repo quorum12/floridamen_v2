@@ -1,0 +1,8 @@
+# 682 - Titusville
+title = c_titusville
+max_settlements = 3
+culture = beacher
+religion = atomicist
+b_titusville_a = castle
+b_titusville_b = city
+b_titusville_c = temple

@@ -1,0 +1,6 @@
+# 550 - Playa Baracoa
+title = c_playa_baracoa
+max_settlements = 2
+culture = havanan
+religion = catholic
+b_playa_baracoa_a = tribal

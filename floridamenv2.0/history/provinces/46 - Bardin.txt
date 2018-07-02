@@ -1,0 +1,8 @@
+# 46 - Bardin
+title = c_bardin
+max_settlements = 3
+culture = dixie
+religion = baptist
+b_bardin_a = castle
+b_bardin_b = city
+b_bardin_c = temple

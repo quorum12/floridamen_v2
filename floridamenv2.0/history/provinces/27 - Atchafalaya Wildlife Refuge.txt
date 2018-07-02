@@ -1,0 +1,6 @@
+# 27 - Atchafalaya Wildlife Refuge
+title = c_atchafalaya_wildlife_refuge
+max_settlements = 2
+culture = louisiannan
+religion = voodoo
+b_atchafalaya_wildlife_refuge_a = tribal

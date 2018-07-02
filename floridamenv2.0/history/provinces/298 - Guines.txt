@@ -1,0 +1,8 @@
+# 298 - Guines
+title = c_guines
+max_settlements = 3
+culture = matzanazi
+religion = catholic
+b_guines_a = castle
+b_guines_b = city
+b_guines_c = temple

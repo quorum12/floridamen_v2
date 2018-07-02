@@ -1,0 +1,8 @@
+# 480 - North Cat Cay
+title = c_north_cat_cay
+max_settlements = 3
+culture = islander
+religion = baptist
+b_north_cat_cay_a = castle
+b_north_cat_cay_b = city
+b_north_cat_cay_c = temple

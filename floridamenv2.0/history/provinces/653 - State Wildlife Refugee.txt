@@ -1,0 +1,6 @@
+# 653 - State Wildlife Refugee
+title = c_state_wildlife_refugee
+max_settlements = 2
+culture = louisiannan
+religion = catholic
+b_state_wildlife_refugee_a = tribal

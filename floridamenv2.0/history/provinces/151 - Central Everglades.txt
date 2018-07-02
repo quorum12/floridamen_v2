@@ -1,0 +1,8 @@
+# 151 - Central Everglades
+title = c_central_everglades
+max_settlements = 4
+culture = calusa
+religion = american_spiritual_pagan
+b_central_everglades_a = castle
+b_central_everglades_b = city
+b_central_everglades_c = temple

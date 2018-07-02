@@ -1,0 +1,8 @@
+# 423 - Lutz
+title = c_lutz
+max_settlements = 4
+culture = tampanian
+religion = cathar
+b_lutz_a = castle
+b_lutz_b = city
+b_lutz_c = temple

@@ -1,0 +1,8 @@
+# 631 - Sisal
+title = c_sisal
+max_settlements = 3
+culture = meridan
+religion = catholic
+b_sisal_a = castle
+b_sisal_b = city
+b_sisal_c = temple

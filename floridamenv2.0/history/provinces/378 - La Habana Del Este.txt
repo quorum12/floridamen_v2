@@ -1,0 +1,8 @@
+# 378 - La Habana Del Este
+title = c_la_habana_del_este
+max_settlements = 3
+culture = havanan
+religion = catholic
+b_la_habana_del_este_a = castle
+b_la_habana_del_este_b = city
+b_la_habana_del_este_c = temple

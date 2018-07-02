@@ -1,0 +1,8 @@
+# 90 - Bowling Green
+title = c_bowling_green
+max_settlements = 4
+culture = lakelander
+religion = baptist
+b_bowling_green_a = castle
+b_bowling_green_b = city
+b_bowling_green_c = temple

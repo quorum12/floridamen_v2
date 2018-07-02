@@ -1,0 +1,8 @@
+# 750 - Zolfo Springs
+title = c_zolfo_springs
+max_settlements = 3
+culture = americano
+religion = baptist
+b_zolfo_springs_a = castle
+b_zolfo_springs_b = city
+b_zolfo_springs_c = temple

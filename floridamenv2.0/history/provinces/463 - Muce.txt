@@ -1,0 +1,6 @@
+# 463 - Muce
+title = c_muce
+max_settlements = 4
+culture = naplesian
+religion = baptist
+b_muce_a = tribal

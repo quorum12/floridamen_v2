@@ -1,0 +1,8 @@
+# 28 - Athena
+title = c_athena
+max_settlements = 3
+culture = tallahassean
+religion = baptist
+b_athena_a = castle
+b_athena_b = city
+b_athena_c = temple

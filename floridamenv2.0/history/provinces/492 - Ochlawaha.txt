@@ -1,0 +1,8 @@
+# 492 - Ochlawaha
+title = c_ochlawaha
+max_settlements = 4
+culture = lakelander
+religion = catholic
+b_ochlawaha_a = castle
+b_ochlawaha_b = city
+b_ochlawaha_c = temple

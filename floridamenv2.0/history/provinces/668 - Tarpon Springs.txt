@@ -1,0 +1,8 @@
+# 668 - Tarpon Springs
+title = c_tarpon_springs
+max_settlements = 4
+culture = tampanian
+religion = catholic
+b_tarpon_springs_a = castle
+b_tarpon_springs_b = city
+b_tarpon_springs_c = temple

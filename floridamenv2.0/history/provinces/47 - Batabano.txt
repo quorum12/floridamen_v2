@@ -1,0 +1,8 @@
+# 47 - Batabano
+title = c_batabano
+max_settlements = 4
+culture = havanan
+religion = atomicist
+b_batabano_a = castle
+b_batabano_b = city
+b_batabano_c = temple

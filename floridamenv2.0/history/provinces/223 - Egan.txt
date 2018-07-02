@@ -1,0 +1,8 @@
+# 223 - Egan
+title = c_egan
+max_settlements = 3
+culture = texan
+religion = catholic
+b_egan_a = castle
+b_egan_b = city
+b_egan_c = temple

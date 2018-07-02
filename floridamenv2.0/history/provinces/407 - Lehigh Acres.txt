@@ -1,0 +1,8 @@
+# 407 - Lehigh Acres
+title = c_lehigh_acres
+max_settlements = 3
+culture = naplesian
+religion = caimano
+b_lehigh_acres_a = castle
+b_lehigh_acres_b = city
+b_lehigh_acres_c = temple

@@ -1,0 +1,8 @@
+# 397 - Lakeside
+title = c_lakeside
+max_settlements = 3
+culture = jacksonvillean
+religion = americanist
+b_lakeside_a = castle
+b_lakeside_b = city
+b_lakeside_c = temple

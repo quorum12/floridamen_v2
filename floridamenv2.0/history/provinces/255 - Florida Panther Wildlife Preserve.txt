@@ -1,0 +1,6 @@
+# 255 - Florida Panther Wildlife Preserve
+title = c_florida_panther_wildlife_preserve
+max_settlements = 2
+culture = naplesian
+religion = lutheran
+b_florida_panther_wildlife_preserve_a = tribal

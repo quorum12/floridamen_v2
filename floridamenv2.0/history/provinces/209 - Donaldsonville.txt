@@ -1,0 +1,8 @@
+# 209 - Donaldsonville
+title = c_donaldsonville
+max_settlements = 3
+culture = chitimacha
+religion = american_totemist_pagan
+b_donaldsonville_a = castle
+b_donaldsonville_b = city
+b_donaldsonville_c = temple

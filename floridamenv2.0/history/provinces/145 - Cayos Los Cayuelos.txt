@@ -1,0 +1,6 @@
+# 145 - Cayos Los Cayuelos
+title = c_cayos_los_cayuelos
+max_settlements = 2
+culture = islander
+religion = none
+b_cayos_los_cayuelos_a = tribal

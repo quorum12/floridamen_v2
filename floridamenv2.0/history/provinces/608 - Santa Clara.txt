@@ -1,0 +1,8 @@
+# 608 - Santa Clara
+title = c_santa_clara
+max_settlements = 4
+culture = oceanmen
+religion = none
+b_santa_clara_a = temple
+b_santa_clara_b = city
+b_santa_clara_c = castle

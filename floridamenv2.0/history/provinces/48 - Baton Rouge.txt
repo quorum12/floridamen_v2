@@ -1,0 +1,8 @@
+# 48 - Baton Rouge
+title = c_baton_rouge
+max_settlements = 4
+culture = louisiannan
+religion = catholic
+b_baton_rouge_a = castle
+b_baton_rouge_b = city
+b_baton_rouge_c = temple

@@ -1,0 +1,8 @@
+# 462 - Morse
+title = c_morse
+max_settlements = 3
+culture = texan
+religion = catholic
+b_morse_a = castle
+b_morse_b = city
+b_morse_c = temple

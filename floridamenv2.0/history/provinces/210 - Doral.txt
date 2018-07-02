@@ -1,0 +1,8 @@
+# 210 - Doral
+title = c_doral
+max_settlements = 3
+culture = miamimen
+religion = catholic
+b_doral_a = castle
+b_doral_b = city
+b_doral_c = temple

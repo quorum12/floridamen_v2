@@ -1,0 +1,8 @@
+# 43 - Baldwin
+title = c_baldwin
+max_settlements = 3
+culture = dixie
+religion = baptist
+b_baldwin_a = castle
+b_baldwin_b = city
+b_baldwin_c = temple

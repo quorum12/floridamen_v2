@@ -1,0 +1,8 @@
+# 636 - South Everglades
+title = c_south_everglades
+max_settlements = 3
+culture = keysian
+religion = caimano
+b_south_everglades_a = castle
+b_south_everglades_b = city
+b_south_everglades_c = temple

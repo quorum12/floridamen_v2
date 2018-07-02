@@ -1,0 +1,8 @@
+# 310 - Havana
+title = c_havana
+max_settlements = 4
+culture = havanan
+religion = catholic
+b_havana_a = castle
+b_havana_b = city
+b_havana_c = temple

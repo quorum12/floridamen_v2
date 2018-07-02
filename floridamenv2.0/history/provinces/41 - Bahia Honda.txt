@@ -1,0 +1,8 @@
+# 41 - Bahia Honda
+title = c_bahia_honda
+max_settlements = 3
+culture = cubano
+religion = catholic
+b_bahia_honda_a = castle
+b_bahia_honda_b = city
+b_bahia_honda_c = temple

@@ -1,0 +1,6 @@
+# 524 - Parque Ria Lagartos
+title = c_parque_ria_lagartos
+max_settlements = 2
+culture = cancuni
+religion = uahomche
+b_parque_ria_lagartos_a = tribal

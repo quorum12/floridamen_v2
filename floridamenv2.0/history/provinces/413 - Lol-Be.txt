@@ -1,0 +1,8 @@
+# 413 - Lol-Be
+title = c_lol-be
+max_settlements = 3
+culture = valladolidian
+religion = catholic
+b_lol-be_a = castle
+b_lol-be_b = city
+b_lol-be_c = temple

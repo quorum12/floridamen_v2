@@ -1,0 +1,8 @@
+# 658 - Summerland Key
+title = c_summerland_key
+max_settlements = 3
+culture = keysian
+religion = rastafarian
+b_summerland_key_a = castle
+b_summerland_key_b = city
+b_summerland_key_c = temple

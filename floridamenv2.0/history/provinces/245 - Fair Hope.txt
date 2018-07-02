@@ -1,0 +1,8 @@
+# 245 - Fair Hope
+title = c_fair_hope
+max_settlements = 3
+culture = biloxi
+religion = american_totemist_pagan
+b_fair_hope_a = castle
+b_fair_hope_b = city
+b_fair_hope_c = temple

@@ -1,0 +1,8 @@
+# 14 - Amelia
+title = c_amelia
+max_settlements = 4
+culture = americano
+religion = american_totemist_pagan
+b_amelia_a = castle
+b_amelia_b = city
+b_amelia_c = temple

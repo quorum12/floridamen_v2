@@ -1,0 +1,8 @@
+# 259 - Fort Lauderdale
+title = c_fort_lauderdale
+max_settlements = 4
+culture = miamimen
+religion = reform
+b_fort_lauderdale_a = castle
+b_fort_lauderdale_b = city
+b_fort_lauderdale_c = temple

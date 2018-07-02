@@ -1,0 +1,8 @@
+# 203 - Delray Beach
+title = c_delray_beach
+max_settlements = 3
+culture = beacher
+religion = brethren
+b_delray_beach_a = castle
+b_delray_beach_b = city
+b_delray_beach_c = temple

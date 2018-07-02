@@ -1,0 +1,8 @@
+# 702 - Venus
+title = c_venus
+max_settlements = 3
+culture = naplesian
+religion = baptist
+b_venus_a = castle
+b_venus_b = city
+b_venus_c = temple

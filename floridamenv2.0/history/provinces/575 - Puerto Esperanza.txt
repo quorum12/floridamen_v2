@@ -1,0 +1,8 @@
+# 575 - Puerto Esperanza
+title = c_puerto_esperanza
+max_settlements = 3
+culture = cubano
+religion = catholic
+b_puerto_esperanza_a = castle
+b_puerto_esperanza_b = city
+b_puerto_esperanza_c = temple

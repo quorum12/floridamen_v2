@@ -1,0 +1,8 @@
+# 379 - La Jaula
+title = c_la_jaula
+max_settlements = 3
+culture = mantuan
+religion = catholic
+b_la_jaula_a = castle
+b_la_jaula_b = city
+b_la_jaula_c = temple

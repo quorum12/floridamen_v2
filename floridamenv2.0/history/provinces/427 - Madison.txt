@@ -1,0 +1,8 @@
+# 427 - Madison
+title = c_madison
+max_settlements = 3
+culture = afroanglo
+religion = baptist
+b_madison_a = castle
+b_madison_b = city
+b_madison_c = temple

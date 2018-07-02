@@ -1,0 +1,8 @@
+# 449 - Miami
+title = c_miami
+max_settlements = 4
+culture = miamimen
+religion = jewish
+b_miami_a = city
+b_miami_b = castle
+b_miami_c = temple

@@ -1,0 +1,8 @@
+# 79 - Biloxi
+title = c_biloxi
+max_settlements = 4
+culture = biloxi
+religion = american_totemist_pagan
+b_biloxi_a = castle
+b_biloxi_b = city
+b_biloxi_c = temple

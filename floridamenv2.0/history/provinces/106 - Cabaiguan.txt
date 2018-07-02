@@ -1,0 +1,8 @@
+# 106 - Cabaiguan
+title = c_cabaiguan
+max_settlements = 3
+culture = carahatani
+religion = none
+b_cabaiguan_a = castle
+b_cabaiguan_b = city
+b_cabaiguan_c = temple

@@ -1,0 +1,8 @@
+# 111 - Callahan
+title = c_callahan
+max_settlements = 4
+culture = seminole
+religion = american_spiritual_pagan
+b_callahan_a = castle
+b_callahan_b = city
+b_callahan_c = temple

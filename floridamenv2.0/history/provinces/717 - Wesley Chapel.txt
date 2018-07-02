@@ -1,0 +1,8 @@
+# 717 - Wesley Chapel
+title = c_wesley_chapel
+max_settlements = 3
+culture = tampanian
+religion = cathar
+b_wesley_chapel_a = temple
+b_wesley_chapel_b = castle
+b_wesley_chapel_c = city

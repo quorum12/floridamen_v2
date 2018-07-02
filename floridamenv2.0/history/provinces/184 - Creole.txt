@@ -1,0 +1,8 @@
+# 184 - Creole
+title = c_creole
+max_settlements = 4
+culture = texan
+religion = catholic
+b_creole_a = castle
+b_creole_b = city
+b_creole_c = temple

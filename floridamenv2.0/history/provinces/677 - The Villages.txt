@@ -1,0 +1,8 @@
+# 677 - The Villages
+title = c_the_villages
+max_settlements = 3
+culture = ocale
+religion = catholic
+b_the_villages_a = castle
+b_the_villages_b = city
+b_the_villages_c = temple

@@ -1,0 +1,6 @@
+# 430 - Mangrove Preserve
+title = c_mangrove_preserve
+max_settlements = 2
+culture = miamimen
+religion = catholic
+b_mangrove_preserve_a = tribal

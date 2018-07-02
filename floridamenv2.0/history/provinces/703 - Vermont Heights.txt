@@ -1,0 +1,8 @@
+# 703 - Vermont Heights
+title = c_vermont_heights
+max_settlements = 3
+culture = jacksonvillean
+religion = libertarian
+b_vermont_heights_a = castle
+b_vermont_heights_b = city
+b_vermont_heights_c = temple

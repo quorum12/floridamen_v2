@@ -1,0 +1,8 @@
+# 317 - High Springs
+title = c_high_springs
+max_settlements = 3
+culture = dixie
+religion = baptist
+b_high_springs_a = castle
+b_high_springs_b = city
+b_high_springs_c = temple

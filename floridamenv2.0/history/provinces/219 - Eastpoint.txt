@@ -1,0 +1,8 @@
+# 219 - Eastpoint
+title = c_eastpoint
+max_settlements = 3
+culture = tallahassean
+religion = baptist
+b_eastpoint_a = castle
+b_eastpoint_b = city
+b_eastpoint_c = temple

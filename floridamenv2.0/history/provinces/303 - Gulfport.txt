@@ -1,0 +1,8 @@
+# 303 - Gulfport
+title = c_gulfport
+max_settlements = 3
+culture = biloxi
+religion = american_totemist_pagan
+b_gulfport_a = castle
+b_gulfport_b = city
+b_gulfport_c = temple

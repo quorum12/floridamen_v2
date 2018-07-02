@@ -1,0 +1,8 @@
+# 212 - Dry Tortugas National Park
+title = c_dry_tortugas_national_park
+max_settlements = 3
+culture = keysian
+religion = caimano
+b_dry_tortugas_national_park_a = castle
+b_dry_tortugas_national_park_b = city
+b_dry_tortugas_national_park_c = temple

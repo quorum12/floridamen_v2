@@ -1,0 +1,8 @@
+# 304 - Gun Cay
+title = c_gun_cay
+max_settlements = 3
+culture = islander
+religion = baptist
+b_gun_cay_a = castle
+b_gun_cay_b = city
+b_gun_cay_c = temple

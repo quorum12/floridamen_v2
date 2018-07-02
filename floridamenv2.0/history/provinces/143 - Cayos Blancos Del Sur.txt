@@ -1,0 +1,6 @@
+# 143 - Cayos Blancos Del Sur
+title = c_cayos_blancos_del_sur
+max_settlements = 2
+culture = islander
+religion = catholic
+b_cayos_blancos_del_sur_a = tribal

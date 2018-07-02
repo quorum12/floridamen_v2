@@ -1,0 +1,8 @@
+# 360 - Jovellanos
+title = c_jovellanos
+max_settlements = 3
+culture = matzanazi
+religion = catholic
+b_jovellanos_a = castle
+b_jovellanos_b = city
+b_jovellanos_c = temple

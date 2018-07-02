@@ -1,0 +1,8 @@
+# 273 - Fruitville
+title = c_fruitville
+max_settlements = 3
+culture = venicen
+religion = catholic
+b_fruitville_a = city
+b_fruitville_b = temple
+b_fruitville_c = castle

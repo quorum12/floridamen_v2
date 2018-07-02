@@ -1,0 +1,8 @@
+# 542 - Pinar Del Rio
+title = c_pinar_del_rio
+max_settlements = 4
+culture = cubano
+religion = catholic
+b_pinar_del_rio_a = castle
+b_pinar_del_rio_b = city
+b_pinar_del_rio_c = temple

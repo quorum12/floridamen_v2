@@ -1,0 +1,8 @@
+# 148 - Celebration
+title = c_celebration
+max_settlements = 3
+culture = orlandoan
+religion = catholic
+b_celebration_a = castle
+b_celebration_b = city
+b_celebration_c = temple

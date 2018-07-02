@@ -1,0 +1,8 @@
+# 282 - Golden Gate
+title = c_golden_gate
+max_settlements = 3
+culture = naplesian
+religion = catholic
+b_golden_gate_a = castle
+b_golden_gate_b = city
+b_golden_gate_c = temple

@@ -1,0 +1,8 @@
+# 678 - Thibodaux
+title = c_thibodaux
+max_settlements = 3
+culture = louisiannan
+religion = voodoo
+b_thibodaux_a = castle
+b_thibodaux_b = city
+b_thibodaux_c = temple

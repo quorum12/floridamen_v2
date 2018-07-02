@@ -1,0 +1,8 @@
+# 690 - Tunkas
+title = c_tunkas
+max_settlements = 3
+culture = valladolidian
+religion = catholic
+b_tunkas_a = castle
+b_tunkas_b = city
+b_tunkas_c = temple

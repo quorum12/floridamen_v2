@@ -1,0 +1,6 @@
+# 592 - Rotenberger Wildlife Area
+title = c_rotenberger_wildlife_area
+max_settlements = 2
+culture = calusa
+religion = american_spiritual_pagan
+b_rotenberger_wildlife_area_a = tribal

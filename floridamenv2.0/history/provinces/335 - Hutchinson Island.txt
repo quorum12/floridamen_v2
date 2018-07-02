@@ -1,0 +1,6 @@
+# 335 - Hutchinson Island
+title = c_hutchinson_island
+max_settlements = 2
+culture = beacher
+religion = brethren
+b_hutchinson_island_a = tribal

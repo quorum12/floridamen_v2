@@ -1,0 +1,8 @@
+# 474 - New Orleans
+title = c_new_orleans
+max_settlements = 4
+culture = afroanglo
+religion = baptist
+b_new_orleans_a = castle
+b_new_orleans_b = city
+b_new_orleans_c = temple

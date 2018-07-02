@@ -1,0 +1,8 @@
+# 243 - Everglades Park
+title = c_everglades_park
+max_settlements = 3
+culture = keysian
+religion = caimano
+b_everglades_park_a = castle
+b_everglades_park_b = city
+b_everglades_park_c = temple

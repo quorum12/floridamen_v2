@@ -1,0 +1,8 @@
+# 744 - Yeehaw Junction
+title = c_yeehaw_junction
+max_settlements = 3
+culture = beacher
+religion = catholic
+b_yeehaw_junction_a = castle
+b_yeehaw_junction_b = city
+b_yeehaw_junction_c = temple

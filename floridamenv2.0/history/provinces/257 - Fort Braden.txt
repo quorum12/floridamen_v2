@@ -1,0 +1,8 @@
+# 257 - Fort Braden
+title = c_fort_braden
+max_settlements = 4
+culture = tallahassean
+religion = baptist
+b_fort_braden_a = temple
+b_fort_braden_b = city
+b_fort_braden_c = castle

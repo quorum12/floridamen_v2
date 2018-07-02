@@ -1,0 +1,8 @@
+# 734 - Whittier
+title = c_whittier
+max_settlements = 3
+culture = okeechobean
+religion = catholic
+b_whittier_a = castle
+b_whittier_b = city
+b_whittier_c = temple

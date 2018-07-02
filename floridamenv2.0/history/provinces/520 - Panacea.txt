@@ -1,0 +1,8 @@
+# 520 - Panacea
+title = c_panacea
+max_settlements = 3
+culture = tallahassean
+religion = methodist
+b_panacea_a = castle
+b_panacea_b = city
+b_panacea_c = temple

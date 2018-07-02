@@ -1,0 +1,8 @@
+# 36 - Bacunayagua
+title = c_bacunayagua
+max_settlements = 3
+culture = matzanazi
+religion = none
+b_bacunayagua_a = city
+b_bacunayagua_b = temple
+b_bacunayagua_c = castle

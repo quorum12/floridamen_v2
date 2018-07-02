@@ -1,0 +1,33 @@
+from PIL import Image, ImageFont, ImageDraw, ImageEnhance
+titles = ["c_cameron", "c_pecan_island", "c_parque_la_guira", "c_cayos_de_san_felipe", "c_islas_de_mangles", "c_la_demajagua", "c_carapachibey", "c_delita", "c_siguanea", "c_parque_marino_de_punta", "c_santa_fe", "c_nueva_gerona", "c_lafayette", "c_cayos_los_cayuelos", "c_islas_de_batabanos", "c_cayo_boca_de_alonso", "c_cayo_campos", "c_cayo_ciprey", "c_cayo_diego_perez", "c_cayo_divisa", "c_playa_sirena", "c_parque_cienaga_de_zapata", "c_playa_larga", "c_abbeville", "c_nueva_paz", "c_gainesville", "c_hawthorne", "c_interlachen", "c_palatka", "c_hastings", "c_palm_coast", "c_saint_augustine", "c_green_cove_springs", "c_starke", "c_breaux_bridge", "c_alachua", "c_moniac", "c_macclenny", "c_saint_george", "c_baldwin", "c_callahan", "c_franklintown", "c_middleburg", "c_orange_park", "c_jacksonville", "c_marsh_island", "c_arlington", "c_ocala_forest", "c_belleview", "c_ocala", "c_morriston", "c_marion_oaks", "c_chatmire", "c_citrus_springs", "c_dunnellon", "c_goethe_forest", "c_new_iberia", "c_williston_highlands", "c_lower_goethe_forest", "c_inglis", "c_cross_florida_greenway", "c_gulf_hammock_wildlife_preserve", "c_bronston", "c_otter_creek", "c_devils_hammock_wildlife_preserve", "c_yellow_jacket", "c_suwannee", "c_atchafalaya_wildlife_refuge", "c_spring_hill", "c_jaguey_grande", "c_cardenas", "c_eastern_parque_cienaga_de_zapata", "c_pedro_betancourt", "c_matanzas", "c_union_de_reyes", "c_central_parque_cienaga_de_zapata", "c_southern_parque_cienaga_de_zapata", "c_far_parque_cienaga_de_zapata", "c_plaquemine", "c_san_miguel_de_los_banos", "c_aguacate", "c_bacunayagua", "c_san_nicolas_de_bari", "c_santa_cruz_del_norte", "c_havana", "c_surgidero_de_batabano", "c_playa_baracoa", "c_artemisa", "c_cabanas", "c_morgan", "c_candelaria", "c_pine_island_sound_aquatic_preserve", "c_port_charlotte", "c_venice", "c_sarasota", "c_brandenton", "c_sun_city", "c_apollo_beach", "c_south_tampa", "c_saint_petersburg", "c_baton_rouge", "c_clearwater", "c_town_n_country", "c_palm_harbor", "c_trinity", "c_lutz", "c_dade_city", "c_wesley_chapel", "c_lithia", "c_myakka", "c_mayakk_river_park", "c_hackberry", "c_new_amelia_island", "c_north_port", "c_freeport", "c_left_islands", "c_right_islands", "c_cayo_romano", "c_puerto_padre", "c_las_tunas", "c_bayamo", "c_sabalo", "c_colobia", "c_cocodrie", "c_candido_gonzalez", "c_venezuela", "c_camaguey", "c_vilato", "c_moron", "c_cayo_fragoso", "c_santa_clara", "c_cienfuegos", "c_constancia", "c_colon", "c_gray", "c_la_teja", "c_winter_haven", "c_lakeland", "c_plant_city", "c_avon_park", "c_bowling_green", "c_arcadia", "c_southeast_arcadia", "c_babcock_ranch_preserve", "c_ave_maria", "c_houma", "c_naples", "c_orangetree", "c_cape_romano", "c_carnestown", "c_everglades_city", "c_chokoloskee", "c_everglades_park", "c_big_pine_key", "c_cudjoe_key", "c_key_west", "c_hammond", "c_dry_tortugas_national_park", "c_camp_ocala", "c_alexander_springs", "c_astor", "c_de_leon_springs", "c_paisley", "c_eustis", "c_apopka", "c_sorrento", "c_stirling", "c_picayune", "c_pine_lakes", "c_sanford", "c_deland", "c_north_deland", "c_relay_wma", "c_ormond_beach", "c_tiger_bay_forest", "c_daytona_beach", "c_south_tiger_bay_forest", "c_sebastian", "c_biloxi", "c_new_smyrna_beach", "c_vero_beach", "c_fort_pierce", "c_port_saint_lucie", "c_vero_corridor", "c_yeehaw_junction", "c_white", "c_pahokee", "c_west_palm_beach", "c_belle_glade", "c_new_orleans", "c_clewiston", "c_immokalee", "c_labelle", "c_muce", "c_sebring", "c_sylvan_shores", "c_buckhead_ridge", "c_kissimee_praire_preserve", "c_basinger", "c_whispering_pines", "c_empire", "c_okeechobee", "c_marathon", "c_south_everglades", "c_islamorada", "c_north_everglades", "c_key_largo", "c_palmetto_bay", "c_homestead", "c_kendall", "c_cutler_bay", "c_shell_beach", "c_coral_gables", "c_doral", "c_miami", "c_hialeah", "c_minneapolis", "c_miami_shores", "c_aventura", "c_hollywood", "c_horseshoe_beach_park", "c_pembroke_pines", "c_lake_charles", "c_orange_beach", "c__miramar", "c_pensacola", "c_fort_walton", "c_crestview", "c_niceville", "c_defunkiak_springs", "c_panama_city_beach", "c_port_saint_joe", "c_wewahitchka", "c_estiffanulga", "c_jennings", "c_blountstown", "c_cedar_keypoint", "c_carrabelle", "c_apalachicola_forest", "c_hosford", "c_fort_braden", "c_sopchoppy", "c_tallahassee", "c_woodville", "c_aucilla_wildlife_area", "c_iota", "c_wacissa", "c_franklin", "c_live_oak", "c_tennille", "c_horseshoe_beach", "c_cedar_key", "c_chiefland", "c_fort_white", "c_white_springs", "c_osceola_wildlife_management_area", "c_gueydan", "c_lake_city", "c_celestun", "c_hunucma", "c_uman", "c_progreso", "c_merida", "c_foxen_defunkiak_springsin", "c_izamal", "c_dzidzantun", "c_piste", "c_creole", "c_la_gran_lucha", "c_valladolid", "c_tizimin", "c_rio_lagartos", "c_chemax", "c_el_cuyo", "c_kantunilkin", "c_holbox", "c_coba", "c_play_del_carmen", "c_white_lake_wetlands_conservation_area", "c_cancun", "c_maria_la_gorda", "c_sandino", "c_mantua", "c_minas_de_matahambre", "c_punta_de_la_sierra", "c_san_juan_y_martinez", "c_santa_maria", "c_vinalas", "c_la_palma", "c_crowley", "c_pinar_del_rio", "c_las_tumbas", "c_la_coloma", "c_alonso_de_rojas", "c_los_palacios", "c_palma_rubia", "c_los_pinos", "c_san_cristobal", "c_soroa", "c_harlem_bahia_honda"]
+import random
+colors = [(int(255*random.random()), int(255*random.random()), int(255*random.random())) for z in range(0, 10000)]
+for t in titles:
+	c1 = random.choice(colors)
+	c2 = random.choice(colors)
+	c3 = random.choice(colors)
+	img = Image.new('RGB', (128, 128), color = c1)
+	draw = ImageDraw.Draw(img)
+	if random.random() < .15:
+		draw.rectangle(((0, 32), (64, 128)), fill=c2)
+	if random.random() < .15:
+		draw.rectangle(((0, 16), (128, 32)), fill=c3)
+	if random.random() < .15:
+		draw.rectangle(((0, 32), (128, 63)), fill=c2)
+	if random.random() < .15:
+		draw.rectangle(((0, 48), (128, 56)), fill=c3)
+	if random.random() < .15:
+		draw.rectangle(((64, 0), (80, 128)), fill=c2)
+	if random.random() < .15:
+		draw.rectangle(((96, 0), (128, 128)), fill=c3)
+	if random.random() < .15:
+		draw.rectangle(((48, 0), (128, 32)), fill=c2)
+	if random.random() < .15:
+		draw.ellipse((0, 0, 128, 128), fill = c2, outline =c2)
+	if random.random() < .15:
+		draw.ellipse((64, 64, 128, 128), fill = c3, outline =c3)
+	if random.random() < .15:
+		draw.ellipse((0, 0, 64, 64), fill = c3, outline =c3)
+	if random.random() < .15:
+		draw.ellipse((0, 64, 64, 128), fill = c3, outline =c3)
+	img.save(t + ".tga")

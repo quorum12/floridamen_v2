@@ -1,0 +1,8 @@
+# 676 - Temozon
+title = c_temozon
+max_settlements = 3
+culture = valladolidian
+religion = uahomche
+b_temozon_a = castle
+b_temozon_b = city
+b_temozon_c = temple

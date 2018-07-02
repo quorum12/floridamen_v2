@@ -1,0 +1,8 @@
+# 248 - Feather Sound
+title = c_feather_sound
+max_settlements = 3
+culture = tampanian
+religion = catholic
+b_feather_sound_a = temple
+b_feather_sound_b = city
+b_feather_sound_c = castle

@@ -1,0 +1,8 @@
+# 154 - Chambas
+title = c_chambas
+max_settlements = 3
+culture = oceanmen
+religion = none
+b_chambas_a = castle
+b_chambas_b = city
+b_chambas_c = temple

@@ -1,0 +1,8 @@
+# 235 - Esperanza
+title = c_esperanza
+max_settlements = 4
+culture = carahatani
+religion = rastafarian
+b_esperanza_a = castle
+b_esperanza_b = city
+b_esperanza_c = temple

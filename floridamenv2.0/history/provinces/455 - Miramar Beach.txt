@@ -1,0 +1,8 @@
+# 455 - Miramar Beach
+title = c_miramar_beach
+max_settlements = 3
+culture = gulfard
+religion = baptist
+b_miramar_beach_a = castle
+b_miramar_beach_b = city
+b_miramar_beach_c = temple

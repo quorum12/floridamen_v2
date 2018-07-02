@@ -1,0 +1,8 @@
+# 706 - Vicksburg
+title = c_vicksburg
+max_settlements = 4
+culture = pensacolan
+religion = baptist
+b_vicksburg_a = castle
+b_vicksburg_b = city
+b_vicksburg_c = temple

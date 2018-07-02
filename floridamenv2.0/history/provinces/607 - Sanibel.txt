@@ -1,0 +1,8 @@
+# 607 - Sanibel
+title = c_sanibel
+max_settlements = 4
+culture = venicen
+religion = caimano
+b_sanibel_a = castle
+b_sanibel_b = city
+b_sanibel_c = temple

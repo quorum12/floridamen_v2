@@ -1,0 +1,8 @@
+# 568 - Port Saint Joe
+title = c_port_saint_joe
+max_settlements = 4
+culture = tallahassean
+religion = baptist
+b_port_saint_joe_a = temple
+b_port_saint_joe_b = castle
+b_port_saint_joe_c = city

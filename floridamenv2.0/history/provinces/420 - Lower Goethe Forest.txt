@@ -1,0 +1,8 @@
+# 420 - Lower Goethe Forest
+title = c_lower_goethe_forest
+max_settlements = 3
+culture = ocale
+religion = american_spiritual_pagan
+b_lower_goethe_forest_a = castle
+b_lower_goethe_forest_b = city
+b_lower_goethe_forest_c = temple

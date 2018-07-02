@@ -1,0 +1,8 @@
+# 599 - San Cristobal
+title = c_san_cristobal
+max_settlements = 4
+culture = cubano
+religion = atomicist
+b_san_cristobal_a = city
+b_san_cristobal_b = temple
+b_san_cristobal_c = castle

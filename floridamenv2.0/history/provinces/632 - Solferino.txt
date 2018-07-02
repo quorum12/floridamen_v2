@@ -1,0 +1,8 @@
+# 632 - Solferino
+title = c_solferino
+max_settlements = 4
+culture = cancuni
+religion = uahomche
+b_solferino_a = castle
+b_solferino_b = city
+b_solferino_c = temple

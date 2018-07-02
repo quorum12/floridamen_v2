@@ -1,0 +1,8 @@
+# 742 - Yaguajay
+title = c_yaguajay
+max_settlements = 4
+culture = carahatani
+religion = rastafarian
+b_yaguajay_a = castle
+b_yaguajay_b = city
+b_yaguajay_c = temple

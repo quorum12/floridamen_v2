@@ -1,0 +1,8 @@
+# 117 - Canal
+title = c_canal
+max_settlements = 3
+culture = okeechobean
+religion = catholic
+b_canal_a = castle
+b_canal_b = city
+b_canal_c = temple

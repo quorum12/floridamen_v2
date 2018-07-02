@@ -1,0 +1,8 @@
+# 529 - Pedro Betancourt
+title = c_pedro_betancourt
+max_settlements = 4
+culture = constancian
+religion = none
+b_pedro_betancourt_a = castle
+b_pedro_betancourt_b = city
+b_pedro_betancourt_c = temple

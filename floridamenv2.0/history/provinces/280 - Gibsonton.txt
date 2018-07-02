@@ -1,0 +1,8 @@
+# 280 - Gibsonton
+title = c_gibsonton
+max_settlements = 3
+culture = tampanian
+religion = caimano
+b_gibsonton_a = castle
+b_gibsonton_b = city
+b_gibsonton_c = temple

@@ -1,0 +1,8 @@
+# 538 - Pierson
+title = c_pierson
+max_settlements = 4
+culture = dixie
+religion = catholic
+b_pierson_a = castle
+b_pierson_b = city
+b_pierson_c = temple

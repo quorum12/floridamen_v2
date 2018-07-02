@@ -1,0 +1,8 @@
+# 356 - Jagua
+title = c_jagua
+max_settlements = 3
+culture = oceanmen
+religion = none
+b_jagua_a = temple
+b_jagua_b = city
+b_jagua_c = castle

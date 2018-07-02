@@ -1,0 +1,8 @@
+# 125 - Cardenas
+title = c_cardenas
+max_settlements = 4
+culture = matzanazi
+religion = none
+b_cardenas_a = castle
+b_cardenas_b = city
+b_cardenas_c = temple

@@ -1,0 +1,6 @@
+# 517 - Palmdale
+title = c_palmdale
+max_settlements = 3
+culture = naplesian
+religion = baptist
+b_palmdale_a = tribal

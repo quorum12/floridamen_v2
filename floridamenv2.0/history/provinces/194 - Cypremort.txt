@@ -1,0 +1,8 @@
+# 194 - Cypremort
+title = c_cypremort
+max_settlements = 3
+culture = chitimacha
+religion = american_totemist_pagan
+b_cypremort_a = castle
+b_cypremort_b = city
+b_cypremort_c = temple

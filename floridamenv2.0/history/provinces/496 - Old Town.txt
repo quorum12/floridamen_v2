@@ -1,0 +1,8 @@
+# 496 - Old Town
+title = c_old_town
+max_settlements = 3
+culture = gulfard
+religion = baptist
+b_old_town_a = castle
+b_old_town_b = city
+b_old_town_c = temple

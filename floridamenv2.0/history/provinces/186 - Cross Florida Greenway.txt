@@ -1,0 +1,6 @@
+# 186 - Cross Florida Greenway
+title = c_cross_florida_greenway
+max_settlements = 3
+culture = tampanian
+religion = catholic
+b_cross_florida_greenway_a = tribal

@@ -1,0 +1,8 @@
+# 380 - La Palma
+title = c_la_palma
+max_settlements = 3
+culture = cubano
+religion = catholic
+b_la_palma_a = castle
+b_la_palma_b = city
+b_la_palma_c = temple

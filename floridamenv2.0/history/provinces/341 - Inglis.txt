@@ -1,0 +1,8 @@
+# 341 - Inglis
+title = c_inglis
+max_settlements = 3
+culture = tampanian
+religion = catholic
+b_inglis_a = castle
+b_inglis_b = city
+b_inglis_c = temple

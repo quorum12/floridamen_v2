@@ -1,0 +1,8 @@
+# 454 - Miramar
+title = c_miramar
+max_settlements = 3
+culture = americano
+religion = catholic
+b_miramar_a = castle
+b_miramar_b = city
+b_miramar_c = temple

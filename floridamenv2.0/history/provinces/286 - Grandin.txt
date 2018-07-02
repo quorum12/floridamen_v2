@@ -1,0 +1,8 @@
+# 286 - Grandin
+title = c_grandin
+max_settlements = 3
+culture = dixie
+religion = catholic
+b_grandin_a = castle
+b_grandin_b = city
+b_grandin_c = temple

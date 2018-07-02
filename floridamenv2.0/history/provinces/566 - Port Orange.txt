@@ -1,0 +1,8 @@
+# 566 - Port Orange
+title = c_port_orange
+max_settlements = 3
+culture = beacher
+religion = catholic
+b_port_orange_a = city
+b_port_orange_b = temple
+b_port_orange_c = castle

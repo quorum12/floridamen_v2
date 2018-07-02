@@ -1,0 +1,8 @@
+# 529 - Pembroke Pines
+title = c_pembroke_pines
+max_settlements = 3
+culture = miamimen
+religion = catholic
+b_pembroke_pines_a = castle
+b_pembroke_pines_b = city
+b_pembroke_pines_c = temple

@@ -1,0 +1,8 @@
+# 322 - Holly Beach
+title = c_holly_beach
+max_settlements = 3
+culture = beacher
+religion = catholic
+b_holly_beach_a = castle
+b_holly_beach_b = city
+b_holly_beach_c = temple

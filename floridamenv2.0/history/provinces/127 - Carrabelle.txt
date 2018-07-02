@@ -1,0 +1,8 @@
+# 127 - Carrabelle
+title = c_carrabelle
+max_settlements = 3
+culture = tallahassean
+religion = baptist
+b_carrabelle_a = castle
+b_carrabelle_b = city
+b_carrabelle_c = temple

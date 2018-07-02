@@ -1,0 +1,8 @@
+# 343 - Interlachen
+title = c_interlachen
+max_settlements = 4
+culture = dixie
+religion = catholic
+b_interlachen_a = castle
+b_interlachen_b = city
+b_interlachen_c = temple

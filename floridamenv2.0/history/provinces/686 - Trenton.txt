@@ -1,0 +1,8 @@
+# 686 - Trenton
+title = c_trenton
+max_settlements = 4
+culture = gulfard
+religion = baptist
+b_trenton_a = castle
+b_trenton_b = city
+b_trenton_c = temple

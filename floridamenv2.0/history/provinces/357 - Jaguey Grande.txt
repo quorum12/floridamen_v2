@@ -1,0 +1,8 @@
+# 357 - Jaguey Grande
+title = c_jaguey_grande
+max_settlements = 3
+culture = constancian
+religion = none
+b_jaguey_grande_a = castle
+b_jaguey_grande_b = city
+b_jaguey_grande_c = temple

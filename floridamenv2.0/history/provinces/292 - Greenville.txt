@@ -1,0 +1,8 @@
+# 292 - Greenville
+title = c_greenville
+max_settlements = 3
+culture = afroanglo
+religion = baptist
+b_greenville_a = castle
+b_greenville_b = city
+b_greenville_c = temple

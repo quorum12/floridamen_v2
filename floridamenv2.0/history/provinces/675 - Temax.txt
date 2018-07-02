@@ -1,0 +1,8 @@
+# 675 - Temax
+title = c_temax
+max_settlements = 4
+culture = valladolidian
+religion = uahomche
+b_temax_a = castle
+b_temax_b = city
+b_temax_c = temple

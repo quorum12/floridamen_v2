@@ -1,0 +1,8 @@
+# 84 - Boca Grande
+title = c_boca_grande
+max_settlements = 3
+culture = venicen
+religion = catholic
+b_boca_grande_a = castle
+b_boca_grande_b = city
+b_boca_grande_c = temple

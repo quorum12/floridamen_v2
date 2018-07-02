@@ -1,0 +1,8 @@
+# 181 - Country Club
+title = c_country_club
+max_settlements = 3
+culture = americano
+religion = catholic
+b_country_club_a = castle
+b_country_club_b = city
+b_country_club_c = temple

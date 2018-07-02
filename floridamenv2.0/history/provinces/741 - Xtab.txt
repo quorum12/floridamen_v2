@@ -1,0 +1,8 @@
+# 741 - Xtab
+title = c_xtab
+max_settlements = 3
+culture = meridan
+religion = catholic
+b_xtab_a = castle
+b_xtab_b = city
+b_xtab_c = temple

@@ -1,0 +1,8 @@
+# 644 - Spring Hill
+title = c_spring_hill
+max_settlements = 4
+culture = tampanian
+religion = catholic
+b_spring_hill_a = castle
+b_spring_hill_b = city
+b_spring_hill_c = temple

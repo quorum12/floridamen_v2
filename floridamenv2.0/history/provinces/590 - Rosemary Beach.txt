@@ -1,0 +1,8 @@
+# 590 - Rosemary Beach
+title = c_rosemary_beach
+max_settlements = 3
+culture = gulfard
+religion = baptist
+b_rosemary_beach_a = castle
+b_rosemary_beach_b = city
+b_rosemary_beach_c = temple

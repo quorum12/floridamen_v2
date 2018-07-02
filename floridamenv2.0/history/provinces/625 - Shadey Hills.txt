@@ -1,0 +1,8 @@
+# 625 - Shadey Hills
+title = c_shadey_hills
+max_settlements = 3
+culture = tampanian
+religion = catholic
+b_shadey_hills_a = castle
+b_shadey_hills_b = city
+b_shadey_hills_c = temple

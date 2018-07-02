@@ -1,0 +1,8 @@
+# 635 - South Bimini
+title = c_south_bimini
+max_settlements = 4
+culture = islander
+religion = baptist
+b_south_bimini_a = castle
+b_south_bimini_b = city
+b_south_bimini_c = temple

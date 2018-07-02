@@ -1,0 +1,8 @@
+# 561 - Pompano Beach
+title = c_pompano_beach
+max_settlements = 3
+culture = miamimen
+religion = catholic
+b_pompano_beach_a = castle
+b_pompano_beach_b = city
+b_pompano_beach_c = temple

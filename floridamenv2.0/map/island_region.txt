@@ -1,0 +1,18 @@
+region_1 = {
+	provinces = { 131 228 }
+}
+region_3 = {
+	provinces = { 77 78 193 367 368 438 656 658 }
+}
+region_2 = {
+	provinces = { 585 }
+}
+region_5 = {
+	provinces = { 123 133 135 136 139 144 145 202 212 351 375 486 522 609 629 }
+}
+region_4 = {
+	provinces = { 304 479 634 }
+}
+region_6 = {
+	provinces = { 350 }
+}

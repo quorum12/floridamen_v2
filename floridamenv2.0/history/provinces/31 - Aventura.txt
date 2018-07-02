@@ -1,0 +1,8 @@
+# 31 - Aventura
+title = c_aventura
+max_settlements = 3
+culture = miamimen
+religion = jewish
+b_aventura_a = city
+b_aventura_b = castle
+b_aventura_c = temple

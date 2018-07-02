@@ -1,0 +1,8 @@
+# 230 - Emilio Cordova
+title = c_emilio_cordova
+max_settlements = 3
+culture = carahatani
+religion = rastafarian
+b_emilio_cordova_a = castle
+b_emilio_cordova_b = city
+b_emilio_cordova_c = temple

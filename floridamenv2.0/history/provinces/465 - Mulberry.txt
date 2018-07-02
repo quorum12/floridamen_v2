@@ -1,0 +1,8 @@
+# 465 - Mulberry
+title = c_mulberry
+max_settlements = 3
+culture = lakelander
+religion = catholic
+b_mulberry_a = castle
+b_mulberry_b = city
+b_mulberry_c = temple

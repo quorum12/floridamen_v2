@@ -1,0 +1,8 @@
+# 578 - Raceland
+title = c_raceland
+max_settlements = 4
+culture = louisiannan
+religion = voodoo
+b_raceland_a = castle
+b_raceland_b = city
+b_raceland_c = temple

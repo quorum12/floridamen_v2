@@ -1,0 +1,8 @@
+# 438 - Marquesas Keys
+title = c_marquesas_keys
+max_settlements = 3
+culture = keysian
+religion = caimano
+b_marquesas_keys_a = castle
+b_marquesas_keys_b = city
+b_marquesas_keys_c = temple

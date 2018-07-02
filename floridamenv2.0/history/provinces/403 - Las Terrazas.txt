@@ -1,0 +1,8 @@
+# 403 - Las Terrazas
+title = c_las_terrazas
+max_settlements = 3
+culture = cubano
+religion = catholic
+b_las_terrazas_a = castle
+b_las_terrazas_b = city
+b_las_terrazas_c = temple

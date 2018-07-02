@@ -1,0 +1,8 @@
+# 207 - Dimas
+title = c_dimas
+max_settlements = 3
+culture = mantuan
+religion = atomicist
+b_dimas_a = castle
+b_dimas_b = city
+b_dimas_c = temple

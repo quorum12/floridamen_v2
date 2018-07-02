@@ -1,0 +1,8 @@
+# 344 - Inverness
+title = c_inverness
+max_settlements = 3
+culture = tampanian
+religion = catholic
+b_inverness_a = castle
+b_inverness_b = city
+b_inverness_c = temple

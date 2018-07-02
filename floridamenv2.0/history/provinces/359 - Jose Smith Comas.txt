@@ -1,0 +1,8 @@
+# 359 - Jose Smith Comas
+title = c_jose_smith_comas
+max_settlements = 3
+culture = oceanmen
+religion = none
+b_jose_smith_comas_a = castle
+b_jose_smith_comas_b = city
+b_jose_smith_comas_c = temple

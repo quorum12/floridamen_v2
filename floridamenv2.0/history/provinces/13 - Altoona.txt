@@ -1,0 +1,8 @@
+# 13 - Altoona
+title = c_altoona
+max_settlements = 3
+culture = orlandoan
+religion = baptist
+b_altoona_a = castle
+b_altoona_b = city
+b_altoona_c = temple

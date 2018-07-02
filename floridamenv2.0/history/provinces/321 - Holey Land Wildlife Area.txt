@@ -1,0 +1,6 @@
+# 321 - Holey Land Wildlife Area
+title = c_holey_land_wildlife_area
+max_settlements = 2
+culture = miamimen
+religion = catholic
+b_holey_land_wildlife_area_a = tribal

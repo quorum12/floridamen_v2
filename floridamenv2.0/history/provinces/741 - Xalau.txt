@@ -1,0 +1,8 @@
+# 741 - Xalau
+title = c_xalau
+max_settlements = 3
+culture = valladolidian
+religion = uahomche
+b_xalau_a = castle
+b_xalau_b = city
+b_xalau_c = temple

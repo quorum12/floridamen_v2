@@ -1,0 +1,8 @@
+# 452 - Midway
+title = c_midway
+max_settlements = 3
+culture = afroanglo
+religion = baptist
+b_midway_a = castle
+b_midway_b = city
+b_midway_c = temple

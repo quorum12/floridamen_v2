@@ -1,0 +1,8 @@
+# 694 - Union De Reyes
+title = c_union_de_reyes
+max_settlements = 3
+culture = constancian
+religion = catholic
+b_union_de_reyes_a = castle
+b_union_de_reyes_b = city
+b_union_de_reyes_c = temple

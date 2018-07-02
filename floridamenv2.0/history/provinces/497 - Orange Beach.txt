@@ -1,0 +1,8 @@
+# 497 - Orange Beach
+title = c_orange_beach
+max_settlements = 3
+culture = gulfard
+religion = baptist
+b_orange_beach_a = castle
+b_orange_beach_b = city
+b_orange_beach_c = temple

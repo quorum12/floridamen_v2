@@ -1,0 +1,8 @@
+# 102 - Bruce
+title = c_bruce
+max_settlements = 3
+culture = pensacolan
+religion = baptist
+b_bruce_a = castle
+b_bruce_b = city
+b_bruce_c = temple

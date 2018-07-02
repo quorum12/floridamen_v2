@@ -1,0 +1,8 @@
+# 249 - Felda
+title = c_felda
+max_settlements = 3
+culture = naplesian
+religion = catholic
+b_felda_a = castle
+b_felda_b = city
+b_felda_c = temple

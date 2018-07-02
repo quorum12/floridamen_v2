@@ -1,0 +1,8 @@
+# 115 - Camp Ocala
+title = c_camp_ocala
+max_settlements = 3
+culture = dixie
+religion = catholic
+b_camp_ocala_a = castle
+b_camp_ocala_b = city
+b_camp_ocala_c = temple

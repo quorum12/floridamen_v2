@@ -1,0 +1,8 @@
+# 131 - Cay Sal
+title = c_cay_sal
+max_settlements = 3
+culture = miamimen
+religion = catholic
+b_cay_sal_a = temple
+b_cay_sal_b = castle
+b_cay_sal_c = city

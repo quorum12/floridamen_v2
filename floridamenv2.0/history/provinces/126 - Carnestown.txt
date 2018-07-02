@@ -1,0 +1,8 @@
+# 126 - Carnestown
+title = c_carnestown
+max_settlements = 4
+culture = naplesian
+religion = caimano
+b_carnestown_a = castle
+b_carnestown_b = city
+b_carnestown_c = temple

@@ -1,0 +1,8 @@
+# 252 - Fish Creek
+title = c_fish_creek
+max_settlements = 3
+culture = tallahassean
+religion = baptist
+b_fish_creek_a = castle
+b_fish_creek_b = city
+b_fish_creek_c = temple

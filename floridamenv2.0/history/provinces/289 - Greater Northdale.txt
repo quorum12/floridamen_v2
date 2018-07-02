@@ -1,0 +1,8 @@
+# 289 - Greater Northdale
+title = c_greater_northdale
+max_settlements = 3
+culture = tampanian
+religion = catholic
+b_greater_northdale_a = castle
+b_greater_northdale_b = city
+b_greater_northdale_c = temple

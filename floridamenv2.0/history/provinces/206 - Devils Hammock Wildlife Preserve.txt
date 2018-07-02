@@ -1,0 +1,6 @@
+# 206 - Devils Hammock Wildlife Preserve
+title = c_devils_hammock_wildlife_preserve
+max_settlements = 2
+culture = gulfard
+religion = baptist
+b_devils_hammock_wildlife_preserve_a = tribal

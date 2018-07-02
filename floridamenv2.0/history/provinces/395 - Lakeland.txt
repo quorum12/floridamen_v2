@@ -1,0 +1,8 @@
+# 395 - Lakeland
+title = c_lakeland
+max_settlements = 4
+culture = lakelander
+religion = catholic
+b_lakeland_a = castle
+b_lakeland_b = city
+b_lakeland_c = temple

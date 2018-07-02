@@ -1,0 +1,6 @@
+# 80 - Biloxi Wildlife Management Area
+title = c_biloxi_wildlife_management_area
+max_settlements = 2
+culture = new_orleanser
+religion = voodoo
+b_biloxi_wildlife_management_area_a = tribal

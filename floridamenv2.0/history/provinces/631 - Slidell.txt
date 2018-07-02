@@ -1,0 +1,8 @@
+# 631 - Slidell
+title = c_slidell
+max_settlements = 3
+culture = louisiannan
+religion = voodoo
+b_slidell_a = castle
+b_slidell_b = city
+b_slidell_c = temple

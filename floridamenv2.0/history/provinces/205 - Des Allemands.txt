@@ -1,0 +1,8 @@
+# 205 - Des Allemands
+title = c_des_allemands
+max_settlements = 3
+culture = afroanglo
+religion = voodoo
+b_des_allemands_a = castle
+b_des_allemands_b = city
+b_des_allemands_c = temple

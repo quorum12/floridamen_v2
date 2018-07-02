@@ -1,0 +1,8 @@
+# 116 - Campbell
+title = c_campbell
+max_settlements = 4
+culture = orlandoan
+religion = baptist
+b_campbell_a = castle
+b_campbell_b = city
+b_campbell_c = temple

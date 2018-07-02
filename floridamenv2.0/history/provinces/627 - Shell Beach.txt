@@ -1,0 +1,8 @@
+# 627 - Shell Beach
+title = c_shell_beach
+max_settlements = 3
+culture = gulfard
+religion = voodoo
+b_shell_beach_a = castle
+b_shell_beach_b = city
+b_shell_beach_c = temple

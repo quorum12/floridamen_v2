@@ -1,0 +1,8 @@
+# 533 - Perdido Key
+title = c_perdido_key
+max_settlements = 3
+culture = pensacolan
+religion = baptist
+b_perdido_key_a = castle
+b_perdido_key_b = city
+b_perdido_key_c = temple

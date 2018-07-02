@@ -1,0 +1,8 @@
+# 112 - Camarioca
+title = c_camarioca
+max_settlements = 3
+culture = constancian
+religion = catholic
+b_camarioca_a = city
+b_camarioca_b = temple
+b_camarioca_c = castle

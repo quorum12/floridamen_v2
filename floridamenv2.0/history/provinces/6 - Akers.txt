@@ -1,0 +1,8 @@
+# 6 - Akers
+title = c_akers
+max_settlements = 3
+culture = afroanglo
+religion = baptist
+b_akers_a = castle
+b_akers_b = city
+b_akers_c = temple

@@ -1,0 +1,8 @@
+# 175 - Constancia
+title = c_constancia
+max_settlements = 4
+culture = constancian
+religion = catholic
+b_constancia_a = castle
+b_constancia_b = city
+b_constancia_c = temple

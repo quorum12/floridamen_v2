@@ -1,0 +1,8 @@
+# 267 - Fort White
+title = c_fort_white
+max_settlements = 4
+culture = dixie
+religion = baptist
+b_fort_white_a = castle
+b_fort_white_b = city
+b_fort_white_c = temple

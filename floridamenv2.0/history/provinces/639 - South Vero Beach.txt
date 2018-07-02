@@ -1,0 +1,8 @@
+# 639 - South Vero Beach
+title = c_south_vero_beach
+max_settlements = 3
+culture = beacher
+religion = brethren
+b_south_vero_beach_a = castle
+b_south_vero_beach_b = city
+b_south_vero_beach_c = temple

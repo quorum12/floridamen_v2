@@ -1,0 +1,8 @@
+# 433 - Marathon
+title = c_marathon
+max_settlements = 3
+culture = oceanmen
+religion = rastafarian
+b_marathon_a = castle
+b_marathon_b = city
+b_marathon_c = temple

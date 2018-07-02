@@ -1,0 +1,8 @@
+# 417 - Los Palacios
+title = c_los_palacios
+max_settlements = 3
+culture = cubano
+religion = catholic
+b_los_palacios_a = castle
+b_los_palacios_b = city
+b_los_palacios_c = temple

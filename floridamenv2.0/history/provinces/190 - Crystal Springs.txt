@@ -1,0 +1,8 @@
+# 190 - Crystal Springs
+title = c_crystal_springs
+max_settlements = 3
+culture = tampanian
+religion = catholic
+b_crystal_springs_a = castle
+b_crystal_springs_b = city
+b_crystal_springs_c = temple

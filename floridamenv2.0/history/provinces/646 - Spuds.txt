@@ -1,0 +1,8 @@
+# 646 - Spuds
+title = c_spuds
+max_settlements = 3
+culture = jacksonvillean
+religion = libertarian
+b_spuds_a = castle
+b_spuds_b = city
+b_spuds_c = temple

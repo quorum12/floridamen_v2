@@ -1,0 +1,8 @@
+# 81 - Biscane Park
+title = c_biscane_park
+max_settlements = 3
+culture = miamimen
+religion = jewish
+b_biscane_park_a = city
+b_biscane_park_b = castle
+b_biscane_park_c = temple

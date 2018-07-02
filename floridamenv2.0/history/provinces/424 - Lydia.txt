@@ -1,0 +1,8 @@
+# 424 - Lydia
+title = c_lydia
+max_settlements = 3
+culture = afroanglo
+religion = baptist
+b_lydia_a = castle
+b_lydia_b = city
+b_lydia_c = temple

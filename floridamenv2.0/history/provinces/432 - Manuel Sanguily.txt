@@ -1,0 +1,8 @@
+# 432 - Manuel Sanguily
+title = c_manuel_sanguily
+max_settlements = 3
+culture = mantuan
+religion = catholic
+b_manuel_sanguily_a = castle
+b_manuel_sanguily_b = city
+b_manuel_sanguily_c = temple

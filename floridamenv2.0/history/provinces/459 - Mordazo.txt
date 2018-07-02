@@ -1,0 +1,8 @@
+# 459 - Mordazo
+title = c_mordazo
+max_settlements = 3
+culture = carahatani
+religion = catholic
+b_mordazo_a = castle
+b_mordazo_b = city
+b_mordazo_c = temple

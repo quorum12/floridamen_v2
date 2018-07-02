@@ -1,0 +1,8 @@
+# 471 - Nassau Ratliff
+title = c_nassau_ratliff
+max_settlements = 3
+culture = afroanglo
+religion = baptist
+b_nassau_ratliff_a = castle
+b_nassau_ratliff_b = city
+b_nassau_ratliff_c = temple

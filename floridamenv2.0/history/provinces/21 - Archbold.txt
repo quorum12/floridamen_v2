@@ -1,0 +1,8 @@
+# 21 - Archbold
+title = c_archbold
+max_settlements = 4
+culture = naplesian
+religion = baptist
+b_archbold_a = castle
+b_archbold_b = city
+b_archbold_c = temple

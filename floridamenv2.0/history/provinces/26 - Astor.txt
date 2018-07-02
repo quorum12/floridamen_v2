@@ -1,0 +1,8 @@
+# 26 - Astor
+title = c_astor
+max_settlements = 4
+culture = orlandoan
+religion = catholic
+b_astor_a = castle
+b_astor_b = city
+b_astor_c = temple

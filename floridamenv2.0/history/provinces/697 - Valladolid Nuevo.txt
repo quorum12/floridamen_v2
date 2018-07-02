@@ -1,0 +1,8 @@
+# 697 - Valladolid Nuevo
+title = c_valladolid_nuevo
+max_settlements = 4
+culture = valladolidian
+religion = catholic
+b_valladolid_nuevo_a = castle
+b_valladolid_nuevo_b = city
+b_valladolid_nuevo_c = temple

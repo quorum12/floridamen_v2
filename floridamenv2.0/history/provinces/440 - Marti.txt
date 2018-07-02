@@ -1,0 +1,8 @@
+# 440 - Marti
+title = c_marti
+max_settlements = 4
+culture = carahatani
+religion = rastafarian
+b_marti_a = castle
+b_marti_b = city
+b_marti_c = temple

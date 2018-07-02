@@ -1,0 +1,8 @@
+# 446 - Merida
+title = c_merida
+max_settlements = 4
+culture = meridan
+religion = uahomche
+b_merida_a = castle
+b_merida_b = city
+b_merida_c = temple

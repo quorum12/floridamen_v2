@@ -1,0 +1,8 @@
+# 495 - Okeechobee
+title = c_okeechobee
+max_settlements = 4
+culture = okeechobean
+religion = catholic
+b_okeechobee_a = castle
+b_okeechobee_b = city
+b_okeechobee_c = temple

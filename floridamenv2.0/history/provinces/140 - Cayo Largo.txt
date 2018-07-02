@@ -1,0 +1,6 @@
+# 140 - Cayo Largo
+title = c_cayo_largo
+max_settlements = 2
+culture = islander
+religion = catholic
+b_cayo_largo_a = tribal

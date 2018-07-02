@@ -1,0 +1,6 @@
+# 133 - Cayo Boca De Alonso
+title = c_cayo_boca_de_alonso
+max_settlements = 2
+culture = islander
+religion = none
+b_cayo_boca_de_alonso_a = tribal

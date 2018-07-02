@@ -1,0 +1,8 @@
+# 215 - Dzilam De Bravo
+title = c_dzilam_de_bravo
+max_settlements = 3
+culture = meridan
+religion = uahomche
+b_dzilam_de_bravo_a = castle
+b_dzilam_de_bravo_b = city
+b_dzilam_de_bravo_c = temple

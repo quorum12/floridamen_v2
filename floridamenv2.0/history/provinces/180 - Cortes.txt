@@ -1,0 +1,8 @@
+# 180 - Cortes
+title = c_cortes
+max_settlements = 3
+culture = mantuan
+religion = catholic
+b_cortes_a = castle
+b_cortes_b = city
+b_cortes_c = temple

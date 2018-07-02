@@ -1,0 +1,8 @@
+# 666 - Tallahassee
+title = c_tallahassee
+max_settlements = 4
+culture = afroanglo
+religion = baptist
+b_tallahassee_a = castle
+b_tallahassee_b = city
+b_tallahassee_c = temple

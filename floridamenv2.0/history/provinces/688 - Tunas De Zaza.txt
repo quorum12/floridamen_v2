@@ -1,0 +1,8 @@
+# 688 - Tunas De Zaza
+title = c_tunas_de_zaza
+max_settlements = 3
+culture = oceanmen
+religion = none
+b_tunas_de_zaza_a = castle
+b_tunas_de_zaza_b = city
+b_tunas_de_zaza_c = temple

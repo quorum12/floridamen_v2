@@ -1,0 +1,6 @@
+# 114 - Cameron Prairie Wildlife Reserve
+title = c_cameron_prairie_wildlife_reserve
+max_settlements = 2
+culture = texan
+religion = catholic
+b_cameron_prairie_wildlife_reserve_a = tribal

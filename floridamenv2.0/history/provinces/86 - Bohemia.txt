@@ -1,0 +1,8 @@
+# 86 - Bohemia
+title = c_bohemia
+max_settlements = 3
+culture = afroanglo
+religion = baptist
+b_bohemia_a = castle
+b_bohemia_b = city
+b_bohemia_c = temple

@@ -1,0 +1,8 @@
+# 74 - Bella Flor
+title = c_bella_flor
+max_settlements = 3
+culture = meridan
+religion = catholic
+b_bella_flor_a = castle
+b_bella_flor_b = city
+b_bella_flor_c = temple

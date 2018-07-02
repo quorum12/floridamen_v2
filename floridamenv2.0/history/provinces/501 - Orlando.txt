@@ -1,0 +1,8 @@
+# 501 - Orlando
+title = c_orlando
+max_settlements = 4
+culture = afroanglo
+religion = baptist
+b_orlando_a = castle
+b_orlando_b = city
+b_orlando_c = temple

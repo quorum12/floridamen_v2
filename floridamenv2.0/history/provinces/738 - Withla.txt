@@ -1,0 +1,8 @@
+# 738 - Withla
+title = c_withla
+max_settlements = 3
+culture = lakelander
+religion = catholic
+b_withla_a = castle
+b_withla_b = city
+b_withla_c = temple

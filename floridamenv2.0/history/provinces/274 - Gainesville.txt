@@ -1,0 +1,8 @@
+# 274 - Gainesville
+title = c_gainesville
+max_settlements = 4
+culture = gulfard
+religion = baptist
+b_gainesville_a = castle
+b_gainesville_b = city
+b_gainesville_c = temple

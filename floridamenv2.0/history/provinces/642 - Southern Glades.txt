@@ -1,0 +1,8 @@
+# 642 - Southern Glades
+title = c_southern_glades
+max_settlements = 4
+culture = keysian
+religion = catholic
+b_southern_glades_a = castle
+b_southern_glades_b = city
+b_southern_glades_c = temple

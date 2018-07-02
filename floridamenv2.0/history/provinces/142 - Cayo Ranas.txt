@@ -1,0 +1,6 @@
+# 142 - Cayo Ranas
+title = c_cayo_ranas
+max_settlements = 2
+culture = islander
+religion = catholic
+b_cayo_ranas_a = tribal

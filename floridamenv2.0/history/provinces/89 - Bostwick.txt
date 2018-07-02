@@ -1,0 +1,8 @@
+# 89 - Bostwick
+title = c_bostwick
+max_settlements = 3
+culture = jacksonvillean
+religion = libertarian
+b_bostwick_a = castle
+b_bostwick_b = city
+b_bostwick_c = temple

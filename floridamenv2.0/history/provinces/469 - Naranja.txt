@@ -1,0 +1,8 @@
+# 469 - Naranja
+title = c_naranja
+max_settlements = 3
+culture = miamimen
+religion = catholic
+b_naranja_a = castle
+b_naranja_b = city
+b_naranja_c = temple

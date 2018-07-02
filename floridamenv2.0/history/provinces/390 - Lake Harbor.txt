@@ -1,0 +1,8 @@
+# 390 - Lake Harbor
+title = c_lake_harbor
+max_settlements = 3
+culture = calusa
+religion = american_spiritual_pagan
+b_lake_harbor_a = castle
+b_lake_harbor_b = city
+b_lake_harbor_c = temple

@@ -1,0 +1,8 @@
+# 604 - Sandino
+title = c_sandino
+max_settlements = 4
+culture = mantuan
+religion = atomicist
+b_sandino_a = castle
+b_sandino_b = city
+b_sandino_c = temple

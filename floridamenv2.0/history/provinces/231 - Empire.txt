@@ -1,0 +1,8 @@
+# 231 - Empire
+title = c_empire
+max_settlements = 4
+culture = new_orleanser
+religion = voodoo
+b_empire_a = castle
+b_empire_b = city
+b_empire_c = temple

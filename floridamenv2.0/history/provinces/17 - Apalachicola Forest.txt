@@ -1,0 +1,8 @@
+# 17 - Apalachicola Forest
+title = c_apalachicola_forest
+max_settlements = 3
+culture = tallahassean
+religion = baptist
+b_apalachicola_forest_a = castle
+b_apalachicola_forest_b = city
+b_apalachicola_forest_c = temple

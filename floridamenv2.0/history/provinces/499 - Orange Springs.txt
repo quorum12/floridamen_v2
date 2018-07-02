@@ -1,0 +1,8 @@
+# 499 - Orange Springs
+title = c_orange_springs
+max_settlements = 4
+culture = dixie
+religion = baptist
+b_orange_springs_a = castle
+b_orange_springs_b = city
+b_orange_springs_c = temple

@@ -1,0 +1,6 @@
+# 679 - Three Lakes Wildlife Area
+title = c_three_lakes_wildlife_area
+max_settlements = 2
+culture = orlandoan
+religion = baptist
+b_three_lakes_wildlife_area_a = tribal

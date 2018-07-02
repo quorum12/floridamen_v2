@@ -1,0 +1,8 @@
+# 536 - Picayune
+title = c_picayune
+max_settlements = 4
+culture = louisiannan
+religion = voodoo
+b_picayune_a = castle
+b_picayune_b = city
+b_picayune_c = temple

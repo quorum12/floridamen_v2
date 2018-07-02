@@ -1,0 +1,6 @@
+# 485 - Northest Parque Cienaga De Zapata
+title = c_northest_parque_cienaga_de_zapata
+max_settlements = 2
+culture = matzanazi
+religion = catholic
+b_northest_parque_cienaga_de_zapata_a = tribal

@@ -1,0 +1,8 @@
+# 342 - Intercession City
+title = c_intercession_city
+max_settlements = 3
+culture = orlandoan
+religion = catholic
+b_intercession_city_a = castle
+b_intercession_city_b = city
+b_intercession_city_c = temple

@@ -1,0 +1,8 @@
+# 118 - Cancun
+title = c_cancun
+max_settlements = 4
+culture = cancuni
+religion = catholic
+b_cancun_a = castle
+b_cancun_b = city
+b_cancun_c = temple

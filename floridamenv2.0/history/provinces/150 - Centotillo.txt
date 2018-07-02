@@ -1,0 +1,8 @@
+# 150 - Centotillo
+title = c_centotillo
+max_settlements = 3
+culture = valladolidian
+religion = uahomche
+b_centotillo_a = castle
+b_centotillo_b = city
+b_centotillo_c = temple

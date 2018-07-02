@@ -1,0 +1,8 @@
+# 562 - Pons
+title = c_pons
+max_settlements = 3
+culture = cubano
+religion = catholic
+b_pons_a = castle
+b_pons_b = city
+b_pons_c = temple

@@ -1,0 +1,8 @@
+# 709 - Wakulla Springs
+title = c_wakulla_springs
+max_settlements = 3
+culture = dixie
+religion = methodist
+b_wakulla_springs_a = castle
+b_wakulla_springs_b = city
+b_wakulla_springs_c = temple

@@ -1,0 +1,8 @@
+# 183 - Crawfordville
+title = c_crawfordville
+max_settlements = 3
+culture = tallahassean
+religion = baptist
+b_crawfordville_a = castle
+b_crawfordville_b = city
+b_crawfordville_c = temple

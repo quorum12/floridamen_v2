@@ -1,0 +1,8 @@
+# 70 - Bayou Cane
+title = c_bayou_cane
+max_settlements = 3
+culture = chitimacha
+religion = american_totemist_pagan
+b_bayou_cane_a = castle
+b_bayou_cane_b = city
+b_bayou_cane_c = temple

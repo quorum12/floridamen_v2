@@ -1,0 +1,8 @@
+# 673 - Taylor Creek
+title = c_taylor_creek
+max_settlements = 3
+culture = okeechobean
+religion = catholic
+b_taylor_creek_a = castle
+b_taylor_creek_b = city
+b_taylor_creek_c = temple

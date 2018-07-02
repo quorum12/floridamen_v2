@@ -1,0 +1,8 @@
+# 502 - Ormond Beach
+title = c_ormond_beach
+max_settlements = 3
+culture = beacher
+religion = americanist
+b_ormond_beach_a = city
+b_ormond_beach_b = temple
+b_ormond_beach_c = castle

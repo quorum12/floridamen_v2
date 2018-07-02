@@ -1,0 +1,8 @@
+# 435 - Maria La Gorda
+title = c_maria_la_gorda
+max_settlements = 3
+culture = mantuan
+religion = atomicist
+b_maria_la_gorda_a = castle
+b_maria_la_gorda_b = city
+b_maria_la_gorda_c = temple

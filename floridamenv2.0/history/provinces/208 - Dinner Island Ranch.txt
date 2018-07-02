@@ -1,0 +1,6 @@
+# 208 - Dinner Island Ranch
+title = c_dinner_island_ranch
+max_settlements = 2
+culture = calusa
+religion = american_spiritual_pagan
+b_dinner_island_ranch_a = tribal

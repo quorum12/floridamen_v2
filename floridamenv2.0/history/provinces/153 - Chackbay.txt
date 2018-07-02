@@ -1,0 +1,8 @@
+# 153 - Chackbay
+title = c_chackbay
+max_settlements = 3
+culture = new_orleanser
+religion = voodoo
+b_chackbay_a = castle
+b_chackbay_b = city
+b_chackbay_c = temple

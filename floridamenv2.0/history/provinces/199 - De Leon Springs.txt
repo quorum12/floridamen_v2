@@ -1,0 +1,8 @@
+# 199 - De Leon Springs
+title = c_de_leon_springs
+max_settlements = 4
+culture = orlandoan
+religion = baptist
+b_de_leon_springs_a = castle
+b_de_leon_springs_b = city
+b_de_leon_springs_c = temple

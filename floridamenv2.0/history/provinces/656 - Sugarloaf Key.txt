@@ -1,0 +1,8 @@
+# 656 - Sugarloaf Key
+title = c_sugarloaf_key
+max_settlements = 3
+culture = keysian
+religion = caimano
+b_sugarloaf_key_a = castle
+b_sugarloaf_key_b = city
+b_sugarloaf_key_c = temple

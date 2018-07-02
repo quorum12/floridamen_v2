@@ -1,0 +1,8 @@
+# 22 - Archer
+title = c_archer
+max_settlements = 3
+culture = gulfard
+religion = baptist
+b_archer_a = castle
+b_archer_b = city
+b_archer_c = temple

@@ -1,0 +1,8 @@
+# 228 - Elbow Cay
+title = c_elbow_cay
+max_settlements = 4
+culture = islander
+religion = catholic
+b_elbow_cay_a = temple
+b_elbow_cay_b = castle
+b_elbow_cay_c = city

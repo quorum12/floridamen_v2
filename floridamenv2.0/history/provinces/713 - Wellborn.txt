@@ -1,0 +1,8 @@
+# 713 - Wellborn
+title = c_wellborn
+max_settlements = 3
+culture = dixie
+religion = methodist
+b_wellborn_a = castle
+b_wellborn_b = city
+b_wellborn_c = temple

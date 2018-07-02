@@ -1,0 +1,8 @@
+# 589 - Rodrigo
+title = c_rodrigo
+max_settlements = 3
+culture = carahatani
+religion = catholic
+b_rodrigo_a = castle
+b_rodrigo_b = city
+b_rodrigo_c = temple

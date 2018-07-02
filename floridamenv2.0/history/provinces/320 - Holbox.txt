@@ -1,0 +1,8 @@
+# 320 - Holbox
+title = c_holbox
+max_settlements = 4
+culture = mantuan
+religion = uahomche
+b_holbox_a = castle
+b_holbox_b = city
+b_holbox_c = temple

@@ -1,0 +1,8 @@
+# 425 - Mabel
+title = c_mabel
+max_settlements = 4
+culture = tampanian
+religion = catholic
+b_mabel_a = castle
+b_mabel_b = city
+b_mabel_c = temple

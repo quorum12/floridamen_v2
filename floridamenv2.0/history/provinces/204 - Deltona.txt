@@ -1,0 +1,8 @@
+# 204 - Deltona
+title = c_deltona
+max_settlements = 3
+culture = orlandoan
+religion = baptist
+b_deltona_a = castle
+b_deltona_b = city
+b_deltona_c = temple

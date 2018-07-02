@@ -1,0 +1,8 @@
+# 328 - Horseshoe Beach
+title = c_horseshoe_beach
+max_settlements = 3
+culture = gulfard
+religion = baptist
+b_horseshoe_beach_a = castle
+b_horseshoe_beach_b = city
+b_horseshoe_beach_c = temple

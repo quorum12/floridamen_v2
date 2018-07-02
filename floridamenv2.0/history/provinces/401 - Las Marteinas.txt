@@ -1,0 +1,8 @@
+# 401 - Las Marteinas
+title = c_las_marteinas
+max_settlements = 3
+culture = mantuan
+religion = catholic
+b_las_marteinas_a = castle
+b_las_marteinas_b = city
+b_las_marteinas_c = temple

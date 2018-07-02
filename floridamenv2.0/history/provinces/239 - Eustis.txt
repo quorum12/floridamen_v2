@@ -1,0 +1,8 @@
+# 239 - Eustis
+title = c_eustis
+max_settlements = 3
+culture = orlandoan
+religion = baptist
+b_eustis_a = castle
+b_eustis_b = city
+b_eustis_c = temple

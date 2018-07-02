@@ -1,0 +1,94 @@
+bm_new_world = {
+	name = "BM_NEW_WORLD"
+	desc = "BM_NEW_WORLD_INFO"
+	date = 2144.1.1
+	custom_start = yes
+	
+	era = yes						## Will be shown on Era screen.
+	picture = GFX_pick_era_image_1
+	
+	selectable_character = {
+		id = 4000265 # King of New Orleans
+		age = 26
+		name = ERA_CHAR_NAME_4000265
+		title = k_new_orleans
+		title_name = k_new_orleans
+		character = {
+			female = no
+			dna="bftjahonrnj"
+			properties="jj0baa000000000000"
+			religion="voodoo"
+			culture="afroanglo"
+			government = feudal_government
+			dynasty=62299
+		}
+	}
+
+	selectable_character = {
+		id = 4007370 # Count of Withla
+		age = 20
+		name = ERA_CHAR_NAME_4007370
+		title = c_withla
+		title_name = c_withla
+		character = {
+			female = yes
+			dna="iwhhjkpjlqt"
+			properties="0b0dak000000000000"
+			religion="catholic"
+			culture="lakelander"
+			government = feudal_government
+			dynasty=44039
+		}
+	}
+
+	selectable_character = {
+		id = 4001020 # Duke of Callahan
+		age = 26
+		name = ERA_CHAR_NAME_4001020
+		title = d_callahan
+		title_name = d_callahan
+		character = {
+			female = no
+			dna="erztxcgmnpi"
+			properties="ncvdbd000000000000"
+			religion="american_spiritual_pagan"
+			culture="seminole"
+			government = feudal_government
+			dynasty=6028
+		}
+	}
+
+	selectable_character = {
+		id = 4005490 # King of Havanna
+		age = 21
+		name = ERA_CHAR_NAME_4005490
+		title = k_havana
+		title_name = k_havana
+		character = {
+			female = no
+			dna="hbtruxcuyaf"
+			properties="0habbd000000000000"
+			religion="catholic"
+			culture="havanan"
+			government = tribal_government
+			dynasty=30033
+		}
+	}
+
+	selectable_character = {
+		id = 4007470 # Emepror of Yucatan
+		age = 24
+		name = ERA_CHAR_NAME_4007470
+		title = e_yucatan
+		title_name = e_yucatan
+		character = {
+			female = no
+			dna="1dcmmpmmicg"
+			properties="ahxbj0000000000000"
+			religion="uahomche"
+			culture="cancuni"
+			government = feudal_government
+			dynasty=66197
+		}
+	}
+}

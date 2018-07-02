@@ -1,0 +1,6 @@
+# 720 - West Playa Larga
+title = c_west_playa_larga
+max_settlements = 2
+culture = constancian
+religion = catholic
+b_west_playa_larga_a = tribal

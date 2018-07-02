@@ -1,0 +1,8 @@
+# 509 - Palatka
+title = c_palatka
+max_settlements = 4
+culture = dixie
+religion = baptist
+b_palatka_a = castle
+b_palatka_b = city
+b_palatka_c = temple

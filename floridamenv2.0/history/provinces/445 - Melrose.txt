@@ -1,0 +1,8 @@
+# 445 - Melrose
+title = c_melrose
+max_settlements = 3
+culture = dixie
+religion = baptist
+b_melrose_a = castle
+b_melrose_b = city
+b_melrose_c = temple

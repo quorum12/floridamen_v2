@@ -1,0 +1,8 @@
+# 24 - Arroyos De Mantua
+title = c_arroyos_de_mantua
+max_settlements = 3
+culture = mantuan
+religion = catholic
+b_arroyos_de_mantua_a = castle
+b_arroyos_de_mantua_b = city
+b_arroyos_de_mantua_c = temple

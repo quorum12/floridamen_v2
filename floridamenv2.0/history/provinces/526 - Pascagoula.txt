@@ -1,0 +1,8 @@
+# 526 - Pascagoula
+title = c_pascagoula
+max_settlements = 3
+culture = biloxi
+religion = american_totemist_pagan
+b_pascagoula_a = castle
+b_pascagoula_b = city
+b_pascagoula_c = temple

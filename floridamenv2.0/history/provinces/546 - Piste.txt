@@ -1,0 +1,8 @@
+# 546 - Piste
+title = c_piste
+max_settlements = 3
+culture = valladolidian
+religion = uahomche
+b_piste_a = castle
+b_piste_b = city
+b_piste_c = temple

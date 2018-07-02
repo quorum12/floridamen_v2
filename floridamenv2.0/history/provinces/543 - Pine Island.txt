@@ -1,0 +1,6 @@
+# 543 - Pine Island
+title = c_pine_island
+max_settlements = 2
+culture = tampanian
+religion = catholic
+b_pine_island_a = tribal

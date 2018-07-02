@@ -1,0 +1,8 @@
+# 394 - Lake Wales
+title = c_lake_wales
+max_settlements = 4
+culture = lakelander
+religion = baptist
+b_lake_wales_a = castle
+b_lake_wales_b = city
+b_lake_wales_c = temple

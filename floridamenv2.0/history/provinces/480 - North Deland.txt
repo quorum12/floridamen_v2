@@ -1,0 +1,8 @@
+# 480 - North Deland
+title = c_north_deland
+max_settlements = 3
+culture = jacksonvillean
+religion = americanist
+b_north_deland_a = castle
+b_north_deland_b = city
+b_north_deland_c = temple

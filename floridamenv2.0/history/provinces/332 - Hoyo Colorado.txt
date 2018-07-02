@@ -1,0 +1,8 @@
+# 332 - Hoyo Colorado
+title = c_hoyo_colorado
+max_settlements = 3
+culture = carahatani
+religion = rastafarian
+b_hoyo_colorado_a = castle
+b_hoyo_colorado_b = city
+b_hoyo_colorado_c = temple

@@ -1,0 +1,8 @@
+# 550 - Plaquemine
+title = c_plaquemine
+max_settlements = 4
+culture = louisiannan
+religion = catholic
+b_plaquemine_a = castle
+b_plaquemine_b = city
+b_plaquemine_c = temple

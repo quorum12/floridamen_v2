@@ -1,0 +1,8 @@
+# 236 - Espita
+title = c_espita
+max_settlements = 3
+culture = valladolidian
+religion = uahomche
+b_espita_a = castle
+b_espita_b = city
+b_espita_c = temple

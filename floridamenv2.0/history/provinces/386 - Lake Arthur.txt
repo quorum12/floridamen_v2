@@ -1,0 +1,8 @@
+# 386 - Lake Arthur
+title = c_lake_arthur
+max_settlements = 3
+culture = texan
+religion = catholic
+b_lake_arthur_a = castle
+b_lake_arthur_b = city
+b_lake_arthur_c = temple

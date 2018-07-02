@@ -1,0 +1,8 @@
+# 512 - Palm Coast
+title = c_palm_coast
+max_settlements = 4
+culture = jacksonvillean
+religion = americanist
+b_palm_coast_a = temple
+b_palm_coast_b = city
+b_palm_coast_c = castle

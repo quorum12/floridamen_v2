@@ -1,0 +1,6 @@
+# 383 - Labelle
+title = c_labelle
+max_settlements = 4
+culture = americano
+religion = american_spiritual_pagan
+b_labelle_a = tribal

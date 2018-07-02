@@ -1,0 +1,8 @@
+# 337 - Indian Bayou
+title = c_indian_bayou
+max_settlements = 3
+culture = louisiannan
+religion = mormon
+b_indian_bayou_a = castle
+b_indian_bayou_b = city
+b_indian_bayou_c = temple

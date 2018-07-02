@@ -1,0 +1,8 @@
+# 179 - Corkscrew Camp Sanctuary
+title = c_corkscrew_camp_sanctuary
+max_settlements = 3
+culture = naplesian
+religion = lutheran
+b_corkscrew_camp_sanctuary_a = castle
+b_corkscrew_camp_sanctuary_b = city
+b_corkscrew_camp_sanctuary_c = temple

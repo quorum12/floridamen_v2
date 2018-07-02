@@ -1,0 +1,8 @@
+# 660 - Sun Bay
+title = c_sun_bay
+max_settlements = 3
+culture = tampanian
+religion = catholic
+b_sun_bay_a = castle
+b_sun_bay_b = city
+b_sun_bay_c = temple

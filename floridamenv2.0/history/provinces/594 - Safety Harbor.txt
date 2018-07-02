@@ -1,0 +1,8 @@
+# 594 - Safety Harbor
+title = c_safety_harbor
+max_settlements = 3
+culture = tampanian
+religion = catholic
+b_safety_harbor_a = castle
+b_safety_harbor_b = city
+b_safety_harbor_c = temple

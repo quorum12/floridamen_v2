@@ -1,0 +1,6 @@
+# 254 - Flint Rock Wildlife Management Area
+title = c_flint_rock_wildlife_management_area
+max_settlements = 2
+culture = tallahassean
+religion = baptist
+b_flint_rock_wildlife_management_area_a = tribal

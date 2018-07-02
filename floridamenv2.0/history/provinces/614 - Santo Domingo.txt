@@ -1,0 +1,8 @@
+# 614 - Santo Domingo
+title = c_santo_domingo
+max_settlements = 3
+culture = oceanmen
+religion = catholic
+b_santo_domingo_a = castle
+b_santo_domingo_b = city
+b_santo_domingo_c = temple

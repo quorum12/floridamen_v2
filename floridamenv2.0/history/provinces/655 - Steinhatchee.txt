@@ -1,0 +1,8 @@
+# 655 - Steinhatchee
+title = c_steinhatchee
+max_settlements = 3
+culture = gulfard
+religion = baptist
+b_steinhatchee_a = castle
+b_steinhatchee_b = city
+b_steinhatchee_c = temple

@@ -1,0 +1,6 @@
+# 558 - Playa Mayabeque
+title = c_playa_mayabeque
+max_settlements = 2
+culture = havanan
+religion = catholic
+b_playa_mayabeque_a = tribal

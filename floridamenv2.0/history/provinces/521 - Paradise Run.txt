@@ -1,0 +1,8 @@
+# 521 - Paradise Run
+title = c_paradise_run
+max_settlements = 3
+culture = okeechobean
+religion = baptist
+b_paradise_run_a = castle
+b_paradise_run_b = city
+b_paradise_run_c = temple

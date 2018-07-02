@@ -1,0 +1,8 @@
+# 627 - Shawnee
+title = c_shawnee
+max_settlements = 4
+culture = okeechobean
+religion = baptist
+b_shawnee_a = castle
+b_shawnee_b = city
+b_shawnee_c = temple

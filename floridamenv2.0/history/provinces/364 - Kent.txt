@@ -1,0 +1,8 @@
+# 364 - Kent
+title = c_kent
+max_settlements = 3
+culture = seminole
+religion = american_spiritual_pagan
+b_kent_a = castle
+b_kent_b = city
+b_kent_c = temple

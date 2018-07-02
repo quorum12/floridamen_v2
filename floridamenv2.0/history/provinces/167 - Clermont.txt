@@ -1,0 +1,8 @@
+# 167 - Clermont
+title = c_clermont
+max_settlements = 4
+culture = orlandoan
+religion = catholic
+b_clermont_a = castle
+b_clermont_b = city
+b_clermont_c = temple

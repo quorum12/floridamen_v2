@@ -1,0 +1,6 @@
+# 553 - Playa Ganuza
+title = c_playa_ganuza
+max_settlements = 2
+culture = carahatani
+religion = none
+b_playa_ganuza_a = tribal

@@ -1,0 +1,8 @@
+# 266 - Fort Walton Beach
+title = c_fort_walton_beach
+max_settlements = 3
+culture = gulfard
+religion = baptist
+b_fort_walton_beach_a = castle
+b_fort_walton_beach_b = city
+b_fort_walton_beach_c = temple

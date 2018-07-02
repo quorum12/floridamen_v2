@@ -1,0 +1,8 @@
+# 220 - Ebro
+title = c_ebro
+max_settlements = 3
+culture = pensacolan
+religion = baptist
+b_ebro_a = castle
+b_ebro_b = city
+b_ebro_c = temple

@@ -1,0 +1,6 @@
+# 743 - Yankeetown
+title = c_yankeetown
+max_settlements = 3
+culture = ocale
+religion = american_spiritual_pagan
+b_yankeetown_a = tribal

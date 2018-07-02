@@ -1,0 +1,6 @@
+# 182 - Cow Island
+title = c_cow_island
+max_settlements = 2
+culture = louisiannan
+religion = voodoo
+b_cow_island_a = tribal

@@ -1,0 +1,14 @@
+sayyid_flman = {
+	# Always inherited
+	agnatic = yes 
+	enatic = yes
+	general_opinion = 5
+	random = no
+	ai_ambition = 25
+	monthly_character_prestige = 0.25
+	monthly_character_piety = 0.2
+	male_compliment = COMPL_SAYYID_FLMAN
+	male_compliment_adj = COMPL_SAYYID_FLMAN_ADJ
+	female_compliment = COMPL_SAYYIDA_FLMAN
+	female_compliment_adj = COMPL_SAYYID_FLMAN_ADJ
+}

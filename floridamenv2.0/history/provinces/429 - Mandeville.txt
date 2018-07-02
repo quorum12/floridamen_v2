@@ -1,0 +1,8 @@
+# 429 - Mandeville
+title = c_mandeville
+max_settlements = 3
+culture = louisiannan
+religion = voodoo
+b_mandeville_a = castle
+b_mandeville_b = city
+b_mandeville_c = temple

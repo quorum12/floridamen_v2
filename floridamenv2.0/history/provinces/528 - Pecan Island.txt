@@ -1,0 +1,6 @@
+# 528 - Pecan Island
+title = c_pecan_island
+max_settlements = 2
+culture = texan
+religion = catholic
+b_pecan_island_a = tribal

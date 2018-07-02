@@ -1,0 +1,8 @@
+# 314 - Hernando Beach
+title = c_hernando_beach
+max_settlements = 3
+culture = tampanian
+religion = cathar
+b_hernando_beach_a = castle
+b_hernando_beach_b = city
+b_hernando_beach_c = temple

@@ -1,0 +1,8 @@
+# 346 - Iowa
+title = c_iowa
+max_settlements = 3
+culture = texan
+religion = catholic
+b_iowa_a = castle
+b_iowa_b = city
+b_iowa_c = temple

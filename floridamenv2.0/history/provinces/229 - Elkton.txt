@@ -1,0 +1,8 @@
+# 229 - Elkton
+title = c_elkton
+max_settlements = 4
+culture = jacksonvillean
+religion = libertarian
+b_elkton_a = castle
+b_elkton_b = city
+b_elkton_c = temple

@@ -1,0 +1,8 @@
+# 166 - Clearwater
+title = c_clearwater
+max_settlements = 4
+culture = tampanian
+religion = catholic
+b_clearwater_a = temple
+b_clearwater_b = city
+b_clearwater_c = castle

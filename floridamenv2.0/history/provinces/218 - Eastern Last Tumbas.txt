@@ -1,0 +1,8 @@
+# 218 - Eastern Last Tumbas
+title = c_eastern_last_tumbas
+max_settlements = 3
+culture = mantuan
+religion = catholic
+b_eastern_last_tumbas_a = castle
+b_eastern_last_tumbas_b = city
+b_eastern_last_tumbas_c = temple

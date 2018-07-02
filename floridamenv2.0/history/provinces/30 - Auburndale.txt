@@ -1,0 +1,8 @@
+# 30 - Auburndale
+title = c_auburndale
+max_settlements = 3
+culture = lakelander
+religion = baptist
+b_auburndale_a = castle
+b_auburndale_b = city
+b_auburndale_c = temple

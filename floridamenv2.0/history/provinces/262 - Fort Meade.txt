@@ -1,0 +1,8 @@
+# 262 - Fort Meade
+title = c_fort_meade
+max_settlements = 3
+culture = lakelander
+religion = catholic
+b_fort_meade_a = castle
+b_fort_meade_b = city
+b_fort_meade_c = temple

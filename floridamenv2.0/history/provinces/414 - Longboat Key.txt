@@ -1,0 +1,8 @@
+# 414 - Longboat Key
+title = c_longboat_key
+max_settlements = 3
+culture = venicen
+religion = catholic
+b_longboat_key_a = city
+b_longboat_key_b = temple
+b_longboat_key_c = castle

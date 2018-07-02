@@ -1,0 +1,8 @@
+# 253 - Flagami
+title = c_flagami
+max_settlements = 3
+culture = miamimen
+religion = jewish
+b_flagami_a = city
+b_flagami_b = castle
+b_flagami_c = temple

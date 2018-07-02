@@ -1,0 +1,8 @@
+# 4 - Aguada De Pasajeros
+title = c_aguada_de_pasajeros
+max_settlements = 3
+culture = constancian
+religion = catholic
+b_aguada_de_pasajeros_a = castle
+b_aguada_de_pasajeros_b = city
+b_aguada_de_pasajeros_c = temple

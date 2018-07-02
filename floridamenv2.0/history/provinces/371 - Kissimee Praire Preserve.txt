@@ -1,0 +1,6 @@
+# 371 - Kissimee Praire Preserve
+title = c_kissimee_praire_preserve
+max_settlements = 2
+culture = okeechobean
+religion = catholic
+b_kissimee_praire_preserve_a = tribal

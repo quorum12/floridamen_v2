@@ -1,0 +1,6 @@
+# 191 - Crytsal River Preserve
+title = c_crytsal_river_preserve
+max_settlements = 2
+culture = tampanian
+religion = catholic
+b_crytsal_river_preserve_a = tribal

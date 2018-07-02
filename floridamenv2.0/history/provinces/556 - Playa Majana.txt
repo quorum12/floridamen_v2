@@ -1,0 +1,6 @@
+# 556 - Playa Majana
+title = c_playa_majana
+max_settlements = 2
+culture = cubano
+religion = atomicist
+b_playa_majana_a = tribal

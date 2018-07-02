@@ -1,0 +1,8 @@
+# 655 - Sucila
+title = c_sucila
+max_settlements = 4
+culture = cancuni
+religion = uahomche
+b_sucila_a = castle
+b_sucila_b = city
+b_sucila_c = temple

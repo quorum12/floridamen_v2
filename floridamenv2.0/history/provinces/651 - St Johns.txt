@@ -1,0 +1,8 @@
+# 651 - St Johns
+title = c_st_johns
+max_settlements = 3
+culture = jacksonvillean
+religion = americanist
+b_st_johns_a = temple
+b_st_johns_b = city
+b_st_johns_c = castle

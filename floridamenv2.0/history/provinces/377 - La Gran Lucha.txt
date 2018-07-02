@@ -1,0 +1,8 @@
+# 377 - La Gran Lucha
+title = c_la_gran_lucha
+max_settlements = 4
+culture = valladolidian
+religion = catholic
+b_la_gran_lucha_a = castle
+b_la_gran_lucha_b = city
+b_la_gran_lucha_c = temple

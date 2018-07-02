@@ -1,0 +1,8 @@
+# 326 - Homosassa
+title = c_homosassa
+max_settlements = 3
+culture = tampanian
+religion = catholic
+b_homosassa_a = castle
+b_homosassa_b = city
+b_homosassa_c = temple

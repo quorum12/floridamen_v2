@@ -1,0 +1,8 @@
+# 279 - Gibson
+title = c_gibson
+max_settlements = 3
+culture = chitimacha
+religion = american_totemist_pagan
+b_gibson_a = castle
+b_gibson_b = city
+b_gibson_c = temple

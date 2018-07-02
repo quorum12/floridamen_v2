@@ -1,0 +1,8 @@
+# 10 - Allanton
+title = c_allanton
+max_settlements = 3
+culture = pensacolan
+religion = baptist
+b_allanton_a = castle
+b_allanton_b = city
+b_allanton_c = temple

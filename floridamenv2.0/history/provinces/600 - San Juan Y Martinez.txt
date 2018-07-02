@@ -1,0 +1,8 @@
+# 600 - San Juan Y Martinez
+title = c_san_juan_y_martinez
+max_settlements = 3
+culture = mantuan
+religion = catholic
+b_san_juan_y_martinez_a = temple
+b_san_juan_y_martinez_b = city
+b_san_juan_y_martinez_c = castle

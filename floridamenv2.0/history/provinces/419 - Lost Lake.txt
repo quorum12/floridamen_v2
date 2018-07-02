@@ -1,0 +1,8 @@
+# 419 - Lost Lake
+title = c_lost_lake
+max_settlements = 3
+culture = chitimacha
+religion = american_totemist_pagan
+b_lost_lake_a = castle
+b_lost_lake_b = city
+b_lost_lake_c = temple

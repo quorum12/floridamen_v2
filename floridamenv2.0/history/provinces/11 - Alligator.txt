@@ -1,0 +1,8 @@
+# 11 - Alligator
+title = c_alligator
+max_settlements = 4
+culture = tallahassean
+religion = baptist
+b_alligator_a = castle
+b_alligator_b = city
+b_alligator_c = temple
