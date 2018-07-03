@@ -14,7 +14,7 @@ narrative_event = {
 	only_playable = yes
 	
 	trigger = {
-		year = 2144
+		year = 2175
 		controls_religion = no
 		is_landed = yes
 		is_tribal = no
@@ -49,7 +49,7 @@ narrative_event = {
 	}
 	
 	mean_time_to_happen = {
-		years = 1
+		years = 50
 		modifier = {
 			factor = 10
 			ai = no
