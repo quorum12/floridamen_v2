@@ -6,7 +6,7 @@
 #
 ###################################
 
-# Written by Henrik Fåhraeus, Johan Andersson & Niklas Strid
+# Written by Henrik FÃ¥hraeus, Johan Andersson & Niklas Strid
 
 ########################################
 # HERESIES
@@ -7579,19 +7579,5 @@ character_event = {
 				character_event = { id = 39826 days = 10 }
 			}
 		}
-	}
-}
-
-clear_crusades_flag = {
-	trigger = {
-		has_global_flag = christian_crusades_unlocked
-		year = 2144
-		NOT = {year = 2145}
-	}
-	mean_time_to_happen = {
-		months = 0
-	}
-	immediate = {
-		clr_global_flag = christian_crusades_unlocked
 	}
 }
