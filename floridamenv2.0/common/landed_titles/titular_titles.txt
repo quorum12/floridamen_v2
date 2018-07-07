@@ -33,7 +33,6 @@ d_flman = {
 	title_female = "FLMAN_TITLE_FEMALE"
 	allow = {
 		OR = {
-			has_trait = sayyid_flmman
 			has_nickname = nick_the_flman
 		}
 	}
