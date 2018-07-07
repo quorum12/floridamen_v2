@@ -20290,22 +20290,24 @@
 	2138.10.21={add_spouse = 4005961}
 	dynasty=74240
 }
-4005961={
-	name="Melissa"
-	female = yes
-	culture=afroanglo
-	religion=catholic
-	2122.3.21={birth=yes}
-	dynasty=74240
-}
 4005962={
 	name="Melvin"
 	culture=afroanglo
 	religion=catholic
 	2139.4.26={birth=yes}
 	dynasty=74240
-	father=4005961
-	mother=4005960
+	father=4005960
+	mother=4005961
+}
+4005963={
+	name="Marquita"
+	female = yes
+	culture=afroanglo
+	religion=catholic
+	2138.6.14={birth=yes}
+	dynasty=74240
+	father=4005960
+	mother=4005961
 }
 4005963={
 	name="Marquita"
