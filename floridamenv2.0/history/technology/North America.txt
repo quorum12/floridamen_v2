@@ -25,6 +25,7 @@ technology = {
 technology = {
 	titles = {
 		d_abbeville
+		d_st._malo
 		d_aguacate
 		d_alligator
 		d_alonso_de_rojas
